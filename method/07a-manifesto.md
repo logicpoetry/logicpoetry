@@ -1,8 +1,8 @@
 ---
-id: codex/07a-manifesto
+id: method/07a-manifesto
 title: 7a. The Creative Manifesto (The Soul) — Optional Sub-Step
 kind: substep
-part: codex
+part: method
 step: 7
 version: 1.0.0
 ---

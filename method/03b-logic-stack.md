@@ -1,8 +1,8 @@
 ---
-id: codex/03b-logic-stack
+id: method/03b-logic-stack
 title: "THE LOGIC STACK: How Steps 1–3 Connect"
 kind: check
-part: codex
+part: method
 step: 3
 version: 1.0.0
 ---

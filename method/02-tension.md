@@ -1,8 +1,8 @@
 ---
-id: codex/02-tension
+id: method/02-tension
 title: 2. Tension (The Paradox)
 kind: step
-part: codex
+part: method
 step: 2
 version: 1.0.0
 ---

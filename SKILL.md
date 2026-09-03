@@ -19,33 +19,33 @@ A fixed nine-step chain that turns a brief into a creative platform. The labels 
 
 | # | Step | Job | Load |
 |---|------|-----|------|
-| 1 | Zeitgeist | The macro-reality that forces the situation to exist | `codex/01-zeitgeist.md` |
-| 2 | Tension | The wall the Zeitgeist creates | `codex/02-tension.md` |
-| 3 | Insight | Four-part chain that makes the brand the only rational response. **Pit stop.** | `codex/03-insight.md` + `codex/03b-logic-stack.md` |
-| 4 | Role | The brand's superpower against the tension | `codex/04-role.md` |
-| 5 | Call to Action | The observable behaviour change | `codex/05-call-to-action.md` |
-| 6 | Strategy | Get-Who-To-By. **Pit stop, run the rubric.** | `codex/06-strategy.md` + `codex/06b-gwtb-engine.md` |
-| 7 | The Creative | Platform, quality tests, effectiveness ladder | `codex/07-the-creative.md` (+ `07a-manifesto.md`) |
-| 8 | Big Idea | The one thing everything hangs off | `codex/08-big-idea.md` |
-| 9 | Small Ideas | Tactics that prove the big idea | `codex/09-small-ideas.md` |
+| 1 | Zeitgeist | The macro-reality that forces the situation to exist | `method/01-zeitgeist.md` |
+| 2 | Tension | The wall the Zeitgeist creates | `method/02-tension.md` |
+| 3 | Insight | Four-part chain that makes the brand the only rational response. **Pit stop.** | `method/03-insight.md` + `method/03b-logic-stack.md` |
+| 4 | Role | The brand's superpower against the tension | `method/04-role.md` |
+| 5 | Call to Action | The observable behaviour change | `method/05-call-to-action.md` |
+| 6 | Strategy | Get-Who-To-By. **Pit stop, run the rubric.** | `method/06-strategy.md` + `method/06b-gwtb-engine.md` |
+| 7 | The Creative | Platform, quality tests, effectiveness ladder | `method/07-the-creative.md` (+ `07a-manifesto.md`) |
+| 8 | Big Idea | The one thing everything hangs off | `method/08-big-idea.md` |
+| 9 | Small Ideas | Tactics that prove the big idea | `method/09-small-ideas.md` |
 
 ## How to run it
 
-1. Read `codex/OPERATING-MANUAL.md` first. It sets behaviour, triggers, the three-language configuration, and the execution order. Then `codex/00-core-philosophy.md`.
+1. Read `method/OPERATING-MANUAL.md` first. It sets behaviour, triggers, the three-language configuration, and the execution order. Then `method/00-core-philosophy.md`.
 2. Load step files as you reach them. Do not load the whole tree up front.
 3. **Step 3 is a mandatory pit stop.** Present insight candidates with the epistemic warning. Wait for the operator to pick.
-4. **Step 6 is a mandatory pit stop.** Run the GWTB Quality Rubric in `codex/06b-gwtb-engine.md` before Step 7.
-5. When a recognisable pattern is in play, name the Creative Move (`codex/creative-moves.md`) and the technique (`catalog/`).
+4. **Step 6 is a mandatory pit stop.** Run the GWTB Quality Rubric in `method/06b-gwtb-engine.md` before Step 7.
+5. When a recognisable pattern is in play, name the Creative Move (`method/creative-moves.md`) and the technique (`catalog/`).
 
 ## Supporting modules
 
 - `catalog/` — Creative Techniques Catalog, clusters A to L. Start at `catalog/README.md` for the selection guide.
 - `frameworks/` — plug-in methods that run inside a step (Disruption, Zagging, Challenger, Predatory Thinking and more). One file each; load on demand.
-- `codex/debugging-suite.md` — five checks for work that "feels flat".
-- `codex/validation-checklist.md` — final gate before shipping.
-- `codex/output-models.md` — Deck Mode, Session Recap, Performance Snapshot.
-- `codex/brief-types.md` — where Logic Poetry sits relative to other brief types.
-- `codex/behavioral-guardrails.md` — what not to do.
+- `method/debugging-suite.md` — five checks for work that "feels flat".
+- `method/validation-checklist.md` — final gate before shipping.
+- `method/output-models.md` — Deck Mode, Session Recap, Performance Snapshot.
+- `method/brief-types.md` — where Logic Poetry sits relative to other brief types.
+- `method/behavioral-guardrails.md` — what not to do.
 - `examples/` — the case library. `examples/INDEX.md` lists every case by brand, category and market; cases flagged `calibration: true` are the teaching set.
 
 ## Single-paste version

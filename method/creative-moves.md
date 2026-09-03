@@ -1,8 +1,8 @@
 ---
-id: codex/creative-moves
+id: method/creative-moves
 title: CREATIVE_MOVES
 kind: reference
-part: codex
+part: method
 version: 1.0.0
 ---
 
@@ -47,7 +47,7 @@ Named patterns that recur across strong campaigns. Recognize them to unlock idea
     *Reference: GrowAsia (World Food Day — October 16)*
 
 13. **Partnership-as-budget**: Structure campaigns so partnerships replace line items. Pro-bono services, barter trade with influencers, venue partnerships, and media co-creation can dramatically extend a limited budget.
-    *Reference: Redress (pro-bono agency + barter influencers + free mall venue = HKD 200K mostly in production); SKM*
+    *Reference: Redress (pro-bono partners + barter influencers + free mall venue, so nearly all spend went to production); SKM*
 
 14. **Superpower amplification**: Identify the brand's one genuine, defensible asset and make it do more work than it currently does. Don't invent a new capability — scale what's real.
     *Reference: Willing Hearts (community organiser identity → Funding Hearts experience platform)*

@@ -13,7 +13,7 @@ Usage:
 import json, pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-FORBIDDEN = re.compile(r"hoffman|creative codex", re.I)
+FORBIDDEN = re.compile(r"hoffman|creative codex|budget ?/ ?timeline|\bcodex/", re.I)
 FRAMEWORK_HEADINGS = ["## What it does", "## When to use it", "## How to apply it", "## Failure mode", "## Example", "## Source and confidence"]
 CASE_REQUIRED = ["brand", "category", "market", "steps", "calibration"]
 
@@ -40,14 +40,14 @@ def order(index):
     cases = sorted(p for p in (ROOT / "examples/cases").glob("[0-9][0-9]-*.md"))
     calib = [rel(p) for p in cases if index[rel(p)].get("calibration") is True]
     return [
-        "codex/OPERATING-MANUAL.md", "codex/00-core-philosophy.md",
-        "codex/01-zeitgeist.md", "codex/02-tension.md", "codex/03-insight.md", "codex/03b-logic-stack.md",
-        "codex/04-role.md", "codex/05-call-to-action.md", "codex/06-strategy.md", "codex/06b-gwtb-engine.md",
-        "codex/07-the-creative.md", "codex/07a-manifesto.md", "codex/08-big-idea.md", "codex/09-small-ideas.md",
+        "method/OPERATING-MANUAL.md", "method/00-core-philosophy.md",
+        "method/01-zeitgeist.md", "method/02-tension.md", "method/03-insight.md", "method/03b-logic-stack.md",
+        "method/04-role.md", "method/05-call-to-action.md", "method/06-strategy.md", "method/06b-gwtb-engine.md",
+        "method/07-the-creative.md", "method/07a-manifesto.md", "method/08-big-idea.md", "method/09-small-ideas.md",
         "catalog/README.md", *sorted(rel(p) for p in (ROOT / "catalog").glob("[A-L]-*.md")),
         "frameworks/README.md", *sorted(rel(p) for p in (ROOT / "frameworks").glob("[0-9][0-9]-*.md")),
-        "codex/debugging-suite.md", "codex/creative-moves.md", "codex/validation-checklist.md",
-        "codex/output-models.md", "codex/brief-types.md", "codex/behavioral-guardrails.md",
+        "method/debugging-suite.md", "method/creative-moves.md", "method/validation-checklist.md",
+        "method/output-models.md", "method/brief-types.md", "method/behavioral-guardrails.md",
         "examples/README.md", "examples/insight-calibration-cases.md", "examples/cases/README.md", *calib,
         "examples/gwtb-quality-calibration.md", "examples/model-answer-spotify-listen-like-you-used-to.md",
     ]
@@ -55,7 +55,7 @@ def order(index):
 def main():
     check = "--check" in sys.argv
     errors = []
-    files = sorted(p for d in ("codex", "catalog", "frameworks", "examples") for p in (ROOT / d).rglob("*.md")
+    files = sorted(p for d in ("method", "catalog", "frameworks", "examples") for p in (ROOT / d).rglob("*.md")
                    if p.name not in ("INDEX.md", "_TEMPLATE.md"))
     index, bodies = {}, {}
     for p in files:

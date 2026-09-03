@@ -1,8 +1,8 @@
 ---
-id: codex/09-small-ideas
+id: method/09-small-ideas
 title: 9. Small Ideas (Tactics)
 kind: step
-part: codex
+part: method
 step: 9
 version: 1.0.0
 ---

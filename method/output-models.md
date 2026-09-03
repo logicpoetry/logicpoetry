@@ -1,8 +1,8 @@
 ---
-id: codex/output-models
+id: method/output-models
 title: OUTPUT_MODELS
 kind: output
-part: codex
+part: method
 version: 1.0.0
 ---
 

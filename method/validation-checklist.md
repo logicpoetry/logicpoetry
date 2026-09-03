@@ -1,8 +1,8 @@
 ---
-id: codex/validation-checklist
+id: method/validation-checklist
 title: VALIDATION_CHECKLIST
 kind: checklist
-part: codex
+part: method
 version: 1.0.0
 ---
 

@@ -38,7 +38,7 @@ Copy the contents of [`PROMPT.md`](PROMPT.md) into a fresh chat as your first me
 
 **3. As a book**
 
-Start at [`codex/00-core-philosophy.md`](codex/00-core-philosophy.md) and read the steps in order. The [`examples/`](examples/) folder shows the chain applied to real campaigns.
+Start at [`method/00-core-philosophy.md`](method/00-core-philosophy.md) and read the steps in order. The [`examples/`](examples/) folder shows the chain applied to real campaigns.
 
 ## Layout
 
@@ -46,7 +46,7 @@ Start at [`codex/00-core-philosophy.md`](codex/00-core-philosophy.md) and read t
 SKILL.md              the router agents read to run the method
 AGENTS.md             the rules agents read to edit this repo (CLAUDE.md points here)
 PROMPT.md             single-paste version, generated, do not edit
-codex/                the nine steps and the supporting logic
+method/                the nine steps and the supporting logic
 catalog/              creative techniques, clusters A to L
 frameworks/           plug-in methods that run inside a step, one file each
 examples/             the case library, with a generated INDEX.md

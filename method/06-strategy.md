@@ -1,8 +1,8 @@
 ---
-id: codex/06-strategy
+id: method/06-strategy
 title: 6. Strategy (The GWTB Checkpoint)
 kind: step
-part: codex
+part: method
 step: 6
 version: 1.0.0
 ---

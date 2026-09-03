@@ -20,7 +20,7 @@ Commit the regenerated files with your change.
 | Path | What it is | Edit? |
 |---|---|---|
 | `SKILL.md` | Router agents load to run the method | Yes, sparingly |
-| `codex/` | The nine steps, the GWTB engine, debugging suite, output models, guardrails | Yes, with care |
+| `method/` | The nine steps, the GWTB engine, debugging suite, output models, guardrails | Yes, with care |
 | `catalog/` | Creative techniques, clusters A to L | Yes |
 | `frameworks/` | Plug-in methods, one file each, built from `_TEMPLATE.md` | Yes |
 | `examples/` | Case library. `cases/` holds one file per campaign | Yes |

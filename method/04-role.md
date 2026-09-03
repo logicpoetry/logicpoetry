@@ -1,8 +1,8 @@
 ---
-id: codex/04-role
+id: method/04-role
 title: 4. Role (The Brand's Superpower)
 kind: step
-part: codex
+part: method
 step: 4
 version: 1.0.0
 ---

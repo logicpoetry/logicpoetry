@@ -1,8 +1,8 @@
 ---
-id: codex/06b-gwtb-engine
+id: method/06b-gwtb-engine
 title: STRATEGY_CHECKPOINT (GWTB Engine)
 kind: engine
-part: codex
+part: method
 step: 6
 version: 1.0.0
 ---

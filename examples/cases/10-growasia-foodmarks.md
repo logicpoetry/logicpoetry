@@ -55,8 +55,6 @@ BY creating touchpoints across the supply chain where the investment shows up pu
 1. ESG is increasingly core to brands' corporate identity — FoodMarks gives organisations a reason to CARE that maps to something they already invest in
 2. B2B2C brand awareness potential — every FoodMark creates consumer-facing touchpoints that extend the brand partner's identity in ways standard CSR donations cannot
 
-**Budget / Timeline**: ~SGD 64K | July–February (8 months)
-
 **Creative Moves in play**: ESG-as-brand-asset; supply chain as narrative arc; news hook timing (World Food Day)
 
 ---

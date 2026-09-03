@@ -1,8 +1,8 @@
 ---
-id: codex/00-core-philosophy
+id: method/00-core-philosophy
 title: Core Philosophy
 kind: philosophy
-part: codex
+part: method
 version: 1.0.0
 ---
 
@@ -30,4 +30,4 @@ One fixed sequence from raw brief to creative platform. Labels can flex in clien
 | 8 | **Big Idea** | The one thing everything hangs off |
 | 9 | **Small Ideas** | The tactics that prove the big idea |
 
-Steps 1 to 3 form the Logic Stack: one continuous argument, checked before Step 4. Each step has its own file in `codex/`, with its aliases, definition, lenses, discovery method, interfaces to neighbouring steps, quality tests and examples.
+Steps 1 to 3 form the Logic Stack: one continuous argument, checked before Step 4. Each step has its own file in `method/`, with its aliases, definition, lenses, discovery method, interfaces to neighbouring steps, quality tests and examples.

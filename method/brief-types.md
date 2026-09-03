@@ -1,8 +1,8 @@
 ---
-id: codex/brief-types
+id: method/brief-types
 title: BRIEF_TYPES (Where Logic Poetry Sits)
 kind: reference
-part: codex
+part: method
 version: 1.0.0
 ---
 

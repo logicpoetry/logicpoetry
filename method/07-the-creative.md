@@ -1,8 +1,8 @@
 ---
-id: codex/07-the-creative
+id: method/07-the-creative
 title: 7. The Creative
 kind: step
-part: codex
+part: method
 step: 7
 version: 1.0.0
 ---

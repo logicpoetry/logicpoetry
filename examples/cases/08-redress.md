@@ -54,10 +54,6 @@ BY proving they can't tell the difference — and then telling them
 2. Gradual discovery — lets consumers choose preowned rather than be pushed into it
 3. Appeals to the desire to be socially relevant, not just fashionably relevant
 
-**Budget / Timeline**: ~HKD 200K | May–July (4 months)
-
-**Budget note**: Pro-bono agency fees + barter trade with influencers and stylist + free Tier 1 mall venue = most of the budget goes to production. Strong model for NGO campaigns with brand partners.
-
 **Creative Moves in play**: Reveal mechanic (eliminate prejudice before the hook); partnership-as-budget
 
 ---

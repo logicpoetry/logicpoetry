@@ -17,7 +17,7 @@ Cases are how the framework learns what good looks like. One file per case in `e
 
 ## 3. Improve the method
 
-Changes to the nine steps, the GWTB engine, the debugging suite or the guardrails live in `codex/`. These get the most scrutiny. Open an issue first if the change alters step logic. Step labels can flex; step sequence and the two pit stops cannot.
+Changes to the nine steps, the GWTB engine, the debugging suite or the guardrails live in `method/`. These get the most scrutiny. Open an issue first if the change alters step logic. Step labels can flex; step sequence and the two pit stops cannot.
 
 ## Before you open a pull request
 

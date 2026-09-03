@@ -111,7 +111,7 @@ One fixed sequence from raw brief to creative platform. Labels can flex in clien
 | 8 | **Big Idea** | The one thing everything hangs off |
 | 9 | **Small Ideas** | The tactics that prove the big idea |
 
-Steps 1 to 3 form the Logic Stack: one continuous argument, checked before Step 4. Each step has its own file in `codex/`, with its aliases, definition, lenses, discovery method, interfaces to neighbouring steps, quality tests and examples.
+Steps 1 to 3 form the Logic Stack: one continuous argument, checked before Step 4. Each step has its own file in `method/`, with its aliases, definition, lenses, discovery method, interfaces to neighbouring steps, quality tests and examples.
 
 ---
 
@@ -2502,7 +2502,7 @@ Named patterns that recur across strong campaigns. Recognize them to unlock idea
     *Reference: GrowAsia (World Food Day — October 16)*
 
 13. **Partnership-as-budget**: Structure campaigns so partnerships replace line items. Pro-bono services, barter trade with influencers, venue partnerships, and media co-creation can dramatically extend a limited budget.
-    *Reference: Redress (pro-bono agency + barter influencers + free mall venue = HKD 200K mostly in production); SKM*
+    *Reference: Redress (pro-bono partners + barter influencers + free mall venue, so nearly all spend went to production); SKM*
 
 14. **Superpower amplification**: Identify the brand's one genuine, defensible asset and make it do more work than it currently does. Don't invent a new capability — scale what's real.
     *Reference: Willing Hearts (community organiser identity → Funding Hearts experience platform)*
@@ -2902,8 +2902,6 @@ The communication lifecycle of a parent and child: first words → first argumen
 ---
 
 #### Case 4: Singapore Kindness Movement / SKM (Social / Gov)
-*(Cannes Young Lions / PRovoke+ICCO winner)*
-
 **Zeitgeist**: Online speed culture. Trends live for hours. Videos last minutes. Attention lasts seconds. The internet runs at a velocity that human judgment was never designed for.
 
 **Tension** (implied): In real life, there's a brain-to-mouth filter. Online, it's been removed. People say things in text they would never say to a face.
@@ -2922,13 +2920,6 @@ The communication lifecycle of a parent and child: first words → first argumen
 - Keyboard app (partnership with SPH): forces a 5-second re-read before any message sends — utility-as-idea, the app IS the platform made real
 - Hardwarezone forum integration: pause prompt before posting in high-volume forums where toxicity is endemic
 - KOL social challenge: creators demonstrate the "pause" in their own content creation process
-
-**Key Messages**:
-1. Pause before send
-2. You are accountable for your online actions
-3. Everyone has a part to play
-
-**Budget / Timeline**: ~SGD 201K | April–November (8 months)
 
 **Creative Moves in play**: Cultural icon repurposing; utility-as-idea; partnership-as-budget
 
@@ -3107,10 +3098,6 @@ BY proving they can't tell the difference — and then telling them
 2. Gradual discovery — lets consumers choose preowned rather than be pushed into it
 3. Appeals to the desire to be socially relevant, not just fashionably relevant
 
-**Budget / Timeline**: ~HKD 200K | May–July (4 months)
-
-**Budget note**: Pro-bono agency fees + barter trade with influencers and stylist + free Tier 1 mall venue = most of the budget goes to production. Strong model for NGO campaigns with brand partners.
-
 **Creative Moves in play**: Reveal mechanic (eliminate prejudice before the hook); partnership-as-budget
 
 ---
@@ -3211,8 +3198,6 @@ BY creating touchpoints across the supply chain where the investment shows up pu
 **Why It Works** (2 criteria):
 1. ESG is increasingly core to brands' corporate identity — FoodMarks gives organisations a reason to CARE that maps to something they already invest in
 2. B2B2C brand awareness potential — every FoodMark creates consumer-facing touchpoints that extend the brand partner's identity in ways standard CSR donations cannot
-
-**Budget / Timeline**: ~SGD 64K | July–February (8 months)
 
 **Creative Moves in play**: ESG-as-brand-asset; supply chain as narrative arc; news hook timing (World Food Day)
 

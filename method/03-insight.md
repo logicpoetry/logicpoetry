@@ -1,8 +1,8 @@
 ---
-id: codex/03-insight
+id: method/03-insight
 title: 3. Insight (Key Insight Statement)
 kind: step
-part: codex
+part: method
 step: 3
 version: 1.0.0
 ---

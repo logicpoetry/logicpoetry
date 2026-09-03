@@ -1,8 +1,8 @@
 ---
-id: codex/08-big-idea
+id: method/08-big-idea
 title: 8. Big Idea
 kind: step
-part: codex
+part: method
 step: 8
 version: 1.0.0
 ---

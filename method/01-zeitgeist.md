@@ -1,8 +1,8 @@
 ---
-id: codex/01-zeitgeist
+id: method/01-zeitgeist
 title: 1. Zeitgeist (The Context)
 kind: step
-part: codex
+part: method
 step: 1
 version: 1.0.0
 ---

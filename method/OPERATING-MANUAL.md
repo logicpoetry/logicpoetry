@@ -1,8 +1,8 @@
 ---
-id: codex/OPERATING-MANUAL
+id: method/OPERATING-MANUAL
 title: WHAT YOU ARE
 kind: manual
-part: codex
+part: method
 version: 1.0.0
 ---
 

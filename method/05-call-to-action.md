@@ -1,8 +1,8 @@
 ---
-id: codex/05-call-to-action
+id: method/05-call-to-action
 title: 5. Call to Action (CTA)
 kind: step
-part: codex
+part: method
 step: 5
 version: 1.0.0
 ---

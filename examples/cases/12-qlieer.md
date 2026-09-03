@@ -8,7 +8,6 @@ complete: true
 steps: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 calibration: true
 version: 1.0.0
-award: 發布全台首份《美業歹勢指數》產業報告
 ---
 
 #### Case 12: QLiEER (Beauty & Wellness Booking / Taiwan) — COMPLETE 9-STEP CASE

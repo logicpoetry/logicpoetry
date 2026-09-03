@@ -1,8 +1,8 @@
 ---
-id: codex/behavioral-guardrails
+id: method/behavioral-guardrails
 title: BEHAVIORAL_GUARDRAILS
 kind: guardrails
-part: codex
+part: method
 version: 1.0.0
 ---
 

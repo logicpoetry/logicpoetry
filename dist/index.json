@@ -1,20 +1,20 @@
 {
   "version": "1.0.0",
   "boot_sequence": [
-    "codex/OPERATING-MANUAL.md",
-    "codex/00-core-philosophy.md",
-    "codex/01-zeitgeist.md",
-    "codex/02-tension.md",
-    "codex/03-insight.md",
-    "codex/03b-logic-stack.md",
-    "codex/04-role.md",
-    "codex/05-call-to-action.md",
-    "codex/06-strategy.md",
-    "codex/06b-gwtb-engine.md",
-    "codex/07-the-creative.md",
-    "codex/07a-manifesto.md",
-    "codex/08-big-idea.md",
-    "codex/09-small-ideas.md",
+    "method/OPERATING-MANUAL.md",
+    "method/00-core-philosophy.md",
+    "method/01-zeitgeist.md",
+    "method/02-tension.md",
+    "method/03-insight.md",
+    "method/03b-logic-stack.md",
+    "method/04-role.md",
+    "method/05-call-to-action.md",
+    "method/06-strategy.md",
+    "method/06b-gwtb-engine.md",
+    "method/07-the-creative.md",
+    "method/07a-manifesto.md",
+    "method/08-big-idea.md",
+    "method/09-small-ideas.md",
     "catalog/README.md",
     "catalog/A-language-and-word-craft.md",
     "catalog/B-meaning-and-reframing.md",
@@ -42,12 +42,12 @@
     "frameworks/11-lateral-thinking-po-technique.md",
     "frameworks/12-phillips-mcquarrie-visual-rhetoric.md",
     "frameworks/13-the-pratfall-effect.md",
-    "codex/debugging-suite.md",
-    "codex/creative-moves.md",
-    "codex/validation-checklist.md",
-    "codex/output-models.md",
-    "codex/brief-types.md",
-    "codex/behavioral-guardrails.md",
+    "method/debugging-suite.md",
+    "method/creative-moves.md",
+    "method/validation-checklist.md",
+    "method/output-models.md",
+    "method/brief-types.md",
+    "method/behavioral-guardrails.md",
     "examples/README.md",
     "examples/insight-calibration-cases.md",
     "examples/cases/README.md",
@@ -170,158 +170,6 @@
       "part": "catalog",
       "version": "1.0.0"
     },
-    "codex/00-core-philosophy.md": {
-      "id": "codex/00-core-philosophy",
-      "title": "Core Philosophy",
-      "kind": "philosophy",
-      "part": "codex",
-      "version": "1.0.0"
-    },
-    "codex/01-zeitgeist.md": {
-      "id": "codex/01-zeitgeist",
-      "title": "1. Zeitgeist (The Context)",
-      "kind": "step",
-      "part": "codex",
-      "step": "1",
-      "version": "1.0.0"
-    },
-    "codex/02-tension.md": {
-      "id": "codex/02-tension",
-      "title": "2. Tension (The Paradox)",
-      "kind": "step",
-      "part": "codex",
-      "step": "2",
-      "version": "1.0.0"
-    },
-    "codex/03-insight.md": {
-      "id": "codex/03-insight",
-      "title": "3. Insight (Key Insight Statement)",
-      "kind": "step",
-      "part": "codex",
-      "step": "3",
-      "version": "1.0.0"
-    },
-    "codex/03b-logic-stack.md": {
-      "id": "codex/03b-logic-stack",
-      "title": "THE LOGIC STACK: How Steps 1–3 Connect",
-      "kind": "check",
-      "part": "codex",
-      "step": "3",
-      "version": "1.0.0"
-    },
-    "codex/04-role.md": {
-      "id": "codex/04-role",
-      "title": "4. Role (The Brand's Superpower)",
-      "kind": "step",
-      "part": "codex",
-      "step": "4",
-      "version": "1.0.0"
-    },
-    "codex/05-call-to-action.md": {
-      "id": "codex/05-call-to-action",
-      "title": "5. Call to Action (CTA)",
-      "kind": "step",
-      "part": "codex",
-      "step": "5",
-      "version": "1.0.0"
-    },
-    "codex/06-strategy.md": {
-      "id": "codex/06-strategy",
-      "title": "6. Strategy (The GWTB Checkpoint)",
-      "kind": "step",
-      "part": "codex",
-      "step": "6",
-      "version": "1.0.0"
-    },
-    "codex/06b-gwtb-engine.md": {
-      "id": "codex/06b-gwtb-engine",
-      "title": "STRATEGY_CHECKPOINT (GWTB Engine)",
-      "kind": "engine",
-      "part": "codex",
-      "step": "6",
-      "version": "1.0.0"
-    },
-    "codex/07-the-creative.md": {
-      "id": "codex/07-the-creative",
-      "title": "7. The Creative",
-      "kind": "step",
-      "part": "codex",
-      "step": "7",
-      "version": "1.0.0"
-    },
-    "codex/07a-manifesto.md": {
-      "id": "codex/07a-manifesto",
-      "title": "7a. The Creative Manifesto (The Soul) — Optional Sub-Step",
-      "kind": "substep",
-      "part": "codex",
-      "step": "7",
-      "version": "1.0.0"
-    },
-    "codex/08-big-idea.md": {
-      "id": "codex/08-big-idea",
-      "title": "8. Big Idea",
-      "kind": "step",
-      "part": "codex",
-      "step": "8",
-      "version": "1.0.0"
-    },
-    "codex/09-small-ideas.md": {
-      "id": "codex/09-small-ideas",
-      "title": "9. Small Ideas (Tactics)",
-      "kind": "step",
-      "part": "codex",
-      "step": "9",
-      "version": "1.0.0"
-    },
-    "codex/OPERATING-MANUAL.md": {
-      "id": "codex/OPERATING-MANUAL",
-      "title": "WHAT YOU ARE",
-      "kind": "manual",
-      "part": "codex",
-      "version": "1.0.0"
-    },
-    "codex/behavioral-guardrails.md": {
-      "id": "codex/behavioral-guardrails",
-      "title": "BEHAVIORAL_GUARDRAILS",
-      "kind": "guardrails",
-      "part": "codex",
-      "version": "1.0.0"
-    },
-    "codex/brief-types.md": {
-      "id": "codex/brief-types",
-      "title": "BRIEF_TYPES (Where Logic Poetry Sits)",
-      "kind": "reference",
-      "part": "codex",
-      "version": "1.0.0"
-    },
-    "codex/creative-moves.md": {
-      "id": "codex/creative-moves",
-      "title": "CREATIVE_MOVES",
-      "kind": "reference",
-      "part": "codex",
-      "version": "1.0.0"
-    },
-    "codex/debugging-suite.md": {
-      "id": "codex/debugging-suite",
-      "title": "DEBUGGING_SUITE",
-      "kind": "suite",
-      "part": "codex",
-      "version": "1.0.0"
-    },
-    "codex/output-models.md": {
-      "id": "codex/output-models",
-      "title": "OUTPUT_MODELS",
-      "kind": "output",
-      "part": "codex",
-      "version": "1.0.0"
-    },
-    "codex/validation-checklist.md": {
-      "id": "codex/validation-checklist",
-      "title": "VALIDATION_CHECKLIST",
-      "kind": "checklist",
-      "part": "codex",
-      "version": "1.0.0"
-    },
     "examples/README.md": {
       "id": "examples/README",
       "title": "Training data and calibration",
@@ -403,8 +251,7 @@
         9
       ],
       "calibration": true,
-      "version": "1.0.0",
-      "award": "Cannes Young Lions / PRovoke+ICCO winner"
+      "version": "1.0.0"
     },
     "examples/cases/05-openai.md": {
       "id": "examples/cases/05-openai",
@@ -561,8 +408,7 @@
         9
       ],
       "calibration": true,
-      "version": "1.0.0",
-      "award": "發布全台首份《美業歹勢指數》產業報告"
+      "version": "1.0.0"
     },
     "examples/cases/README.md": {
       "id": "examples/cases/README",
@@ -742,6 +588,158 @@
       "title": "Plug-in frameworks",
       "kind": "index",
       "part": "frameworks",
+      "version": "1.0.0"
+    },
+    "method/00-core-philosophy.md": {
+      "id": "method/00-core-philosophy",
+      "title": "Core Philosophy",
+      "kind": "philosophy",
+      "part": "method",
+      "version": "1.0.0"
+    },
+    "method/01-zeitgeist.md": {
+      "id": "method/01-zeitgeist",
+      "title": "1. Zeitgeist (The Context)",
+      "kind": "step",
+      "part": "method",
+      "step": "1",
+      "version": "1.0.0"
+    },
+    "method/02-tension.md": {
+      "id": "method/02-tension",
+      "title": "2. Tension (The Paradox)",
+      "kind": "step",
+      "part": "method",
+      "step": "2",
+      "version": "1.0.0"
+    },
+    "method/03-insight.md": {
+      "id": "method/03-insight",
+      "title": "3. Insight (Key Insight Statement)",
+      "kind": "step",
+      "part": "method",
+      "step": "3",
+      "version": "1.0.0"
+    },
+    "method/03b-logic-stack.md": {
+      "id": "method/03b-logic-stack",
+      "title": "THE LOGIC STACK: How Steps 1–3 Connect",
+      "kind": "check",
+      "part": "method",
+      "step": "3",
+      "version": "1.0.0"
+    },
+    "method/04-role.md": {
+      "id": "method/04-role",
+      "title": "4. Role (The Brand's Superpower)",
+      "kind": "step",
+      "part": "method",
+      "step": "4",
+      "version": "1.0.0"
+    },
+    "method/05-call-to-action.md": {
+      "id": "method/05-call-to-action",
+      "title": "5. Call to Action (CTA)",
+      "kind": "step",
+      "part": "method",
+      "step": "5",
+      "version": "1.0.0"
+    },
+    "method/06-strategy.md": {
+      "id": "method/06-strategy",
+      "title": "6. Strategy (The GWTB Checkpoint)",
+      "kind": "step",
+      "part": "method",
+      "step": "6",
+      "version": "1.0.0"
+    },
+    "method/06b-gwtb-engine.md": {
+      "id": "method/06b-gwtb-engine",
+      "title": "STRATEGY_CHECKPOINT (GWTB Engine)",
+      "kind": "engine",
+      "part": "method",
+      "step": "6",
+      "version": "1.0.0"
+    },
+    "method/07-the-creative.md": {
+      "id": "method/07-the-creative",
+      "title": "7. The Creative",
+      "kind": "step",
+      "part": "method",
+      "step": "7",
+      "version": "1.0.0"
+    },
+    "method/07a-manifesto.md": {
+      "id": "method/07a-manifesto",
+      "title": "7a. The Creative Manifesto (The Soul) — Optional Sub-Step",
+      "kind": "substep",
+      "part": "method",
+      "step": "7",
+      "version": "1.0.0"
+    },
+    "method/08-big-idea.md": {
+      "id": "method/08-big-idea",
+      "title": "8. Big Idea",
+      "kind": "step",
+      "part": "method",
+      "step": "8",
+      "version": "1.0.0"
+    },
+    "method/09-small-ideas.md": {
+      "id": "method/09-small-ideas",
+      "title": "9. Small Ideas (Tactics)",
+      "kind": "step",
+      "part": "method",
+      "step": "9",
+      "version": "1.0.0"
+    },
+    "method/OPERATING-MANUAL.md": {
+      "id": "method/OPERATING-MANUAL",
+      "title": "WHAT YOU ARE",
+      "kind": "manual",
+      "part": "method",
+      "version": "1.0.0"
+    },
+    "method/behavioral-guardrails.md": {
+      "id": "method/behavioral-guardrails",
+      "title": "BEHAVIORAL_GUARDRAILS",
+      "kind": "guardrails",
+      "part": "method",
+      "version": "1.0.0"
+    },
+    "method/brief-types.md": {
+      "id": "method/brief-types",
+      "title": "BRIEF_TYPES (Where Logic Poetry Sits)",
+      "kind": "reference",
+      "part": "method",
+      "version": "1.0.0"
+    },
+    "method/creative-moves.md": {
+      "id": "method/creative-moves",
+      "title": "CREATIVE_MOVES",
+      "kind": "reference",
+      "part": "method",
+      "version": "1.0.0"
+    },
+    "method/debugging-suite.md": {
+      "id": "method/debugging-suite",
+      "title": "DEBUGGING_SUITE",
+      "kind": "suite",
+      "part": "method",
+      "version": "1.0.0"
+    },
+    "method/output-models.md": {
+      "id": "method/output-models",
+      "title": "OUTPUT_MODELS",
+      "kind": "output",
+      "part": "method",
+      "version": "1.0.0"
+    },
+    "method/validation-checklist.md": {
+      "id": "method/validation-checklist",
+      "title": "VALIDATION_CHECKLIST",
+      "kind": "checklist",
+      "part": "method",
       "version": "1.0.0"
     }
   }

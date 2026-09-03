@@ -1,8 +1,8 @@
 ---
-id: codex/debugging-suite
+id: method/debugging-suite
 title: DEBUGGING_SUITE
 kind: suite
-part: codex
+part: method
 version: 1.0.0
 ---
 

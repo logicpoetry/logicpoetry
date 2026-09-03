@@ -9,8 +9,8 @@
 
 ## Read the method
 
-- [Operating manual](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/codex/OPERATING-MANUAL.md): behaviour, triggers, language configuration, execution order
-- [Core philosophy](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/codex/00-core-philosophy.md)
+- [Operating manual](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/method/OPERATING-MANUAL.md): behaviour, triggers, language configuration, execution order
+- [Core philosophy](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/method/00-core-philosophy.md)
 - [Case index](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/examples/INDEX.md)
 
 ## Contribute
