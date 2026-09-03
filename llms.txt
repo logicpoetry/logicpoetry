@@ -1,0 +1,19 @@
+# Logic Poetry
+
+> A nine-step framework for turning a brief into a creative platform. Logic first, poetry second. Open method under CC BY-SA 4.0, with a plug-in framework layer and a growing case library.
+
+## Use the method
+
+- [SKILL.md](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/SKILL.md): router for agents; loads steps on demand
+- [PROMPT.md](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/PROMPT.md): the whole method in one file, for pasting into a chat window
+
+## Read the method
+
+- [Operating manual](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/codex/OPERATING-MANUAL.md): behaviour, triggers, language configuration, execution order
+- [Core philosophy](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/codex/00-core-philosophy.md)
+- [Case index](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/examples/INDEX.md)
+
+## Contribute
+
+- [CONTRIBUTING.md](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/CONTRIBUTING.md)
+- [AGENTS.md](https://raw.githubusercontent.com/logicpoetry/logicpoetry/main/AGENTS.md): rules for AI agents editing the repo

@@ -14,7 +14,7 @@ First public release under the name Logic Poetry.
 - Output models: Deck Mode, Session Recap, Performance Snapshot.
 - Three-language configuration (working / delivery / creative priority).
 - Calibration examples: insight chains, twelve campaign cases, GWTB calibration, one full model answer.
-- Modular layout plus a generated single-paste `BOOT.md`.
+- Modular layout plus a generated single-paste `PROMPT.md`.
 - Frontmatter on every module; `frameworks/` plug-in folder seeded with thirteen entries migrated from catalog cluster J; case library with generated `examples/INDEX.md` and `dist/index.json`; compiler check runs in CI.
 
 Lineage: this release carries forward the author's privately developed method (internal version 6.0). Earlier versions were never published.

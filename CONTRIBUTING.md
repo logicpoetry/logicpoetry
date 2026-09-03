@@ -9,7 +9,7 @@ Cases are how the framework learns what good looks like. One file per case in `e
 - Copy the shape of an existing case. Frontmatter first: `brand`, `category`, `market`, `steps` (which of the nine steps the write-up covers), `calibration: false`.
 - Real campaigns only, with a source someone can check. Award status goes in `award`.
 - Write the chain, not a case study. Zeitgeist, Tension, Insight, Role, Call to Action, GWTB, Creative Platform, Big Idea, Small Ideas. Skip a step only if the record does not support it.
-- Do not set `calibration: true`. Maintainers promote a case into the single-paste `BOOT.md` after review.
+- Do not set `calibration: true`. Maintainers promote a case into the single-paste `PROMPT.md` after review.
 
 ## 2. Add or finish a framework
 
@@ -25,9 +25,9 @@ Changes to the nine steps, the GWTB engine, the debugging suite or the guardrail
 python3 scripts/build-boot.py
 ```
 
-That regenerates `BOOT.md`, `examples/INDEX.md` and `dist/index.json`, and fails if a file is missing required fields or headings. Commit the regenerated files with your change. The same check runs on every pull request.
+That regenerates `PROMPT.md`, `examples/INDEX.md` and `dist/index.json`, and fails if a file is missing required fields or headings. Commit the regenerated files with your change. The same check runs on every pull request.
 
-Never edit `BOOT.md`, `examples/INDEX.md` or `dist/` by hand.
+Never edit `PROMPT.md`, `examples/INDEX.md` or `dist/` by hand.
 
 ## Language
 

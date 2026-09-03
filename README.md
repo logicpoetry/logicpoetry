@@ -34,7 +34,7 @@ Then say *"use Logic Poetry on this brief."* The agent reads the router and load
 
 **2. As a single paste** (ChatGPT, Gemini, Claude.ai, any chat window)
 
-Copy the contents of [`BOOT.md`](BOOT.md) into a fresh chat as your first message. The AI wakes up as a Logic Poetry strategist.
+Copy the contents of [`PROMPT.md`](PROMPT.md) into a fresh chat as your first message. The AI wakes up as a Logic Poetry strategist.
 
 **3. As a book**
 
@@ -43,14 +43,15 @@ Start at [`codex/00-core-philosophy.md`](codex/00-core-philosophy.md) and read t
 ## Layout
 
 ```
-SKILL.md              the router agents read first
-BOOT.md               single-paste version, generated, do not edit
+SKILL.md              the router agents read to run the method
+AGENTS.md             the rules agents read to edit this repo (CLAUDE.md points here)
+PROMPT.md             single-paste version, generated, do not edit
 codex/                the nine steps and the supporting logic
 catalog/              creative techniques, clusters A to L
 frameworks/           plug-in methods that run inside a step, one file each
 examples/             the case library, with a generated INDEX.md
 dist/index.json       machine index of every module, generated
-scripts/build-boot.py the compiler: rebuilds BOOT.md, INDEX.md and dist/
+scripts/build-boot.py the compiler: rebuilds PROMPT.md, INDEX.md and dist/
 ```
 
 Prose is the source of truth. Every file carries a small frontmatter block so machines can index it without anyone writing YAML.
@@ -67,7 +68,7 @@ Add a file, run the compiler, commit:
 python3 scripts/build-boot.py
 ```
 
-Cases marked `calibration: true` go into the single-paste `BOOT.md`; the rest stay in the library. Versions are tagged; see [`CHANGELOG.md`](CHANGELOG.md).
+Cases marked `calibration: true` go into the single-paste `PROMPT.md`; the rest stay in the library. Versions are tagged; see [`CHANGELOG.md`](CHANGELOG.md).
 
 ## Author and licence
 
