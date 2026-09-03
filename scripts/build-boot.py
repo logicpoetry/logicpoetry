@@ -100,7 +100,7 @@ def main():
     if check:
         stale = [rel(p) for p, s in outputs.items() if not p.exists() or p.read_text() != s]
         if stale: sys.exit(f"stale outputs, run the build: {stale}")
-        print(f"check ok: {len(files)} modules, {len(seq)} in BOOT, {len(cases)} cases")
+        print(f"check ok: {len(files)} modules, {len(seq)} in PROMPT, {len(cases)} cases")
     else:
         for p, s in outputs.items():
             p.parent.mkdir(exist_ok=True); p.write_text(s)

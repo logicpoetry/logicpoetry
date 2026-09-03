@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Logic Poetry</title>
+<meta name="description" content="A nine-step framework for turning a brief into a creative platform. Logic first, poetry second. Open method, CC BY-SA 4.0.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✒️</text></svg>">
+<style>
+  :root { --bg:#faf8f4; --ink:#141414; --muted:#6b6660; --line:#e4e0d8; --accent:#141414; --accent-ink:#faf8f4; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#121212; --ink:#f2efe9; --muted:#9a948c; --line:#2a2a2a; --accent:#f2efe9; --accent-ink:#121212; } }
+  * { box-sizing:border-box; }
+  html,body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.55 Georgia, "Iowan Old Style", "Times New Roman", serif; }
+  main { max-width:640px; margin:0 auto; padding:12vh 24px 8vh; }
+  h1 { font-size:clamp(40px,8vw,72px); line-height:1; margin:0 0 20px; letter-spacing:-0.02em; font-weight:400; }
+  h1 em { font-style:italic; }
+  p.lede { font-size:20px; margin:0 0 36px; max-width:34ch; }
+  .steps { font:13px/1.6 ui-monospace, SFMono-Regular, Menlo, monospace; color:var(--muted); margin:0 0 40px; letter-spacing:0.01em; }
+  .cta { display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-bottom:12px; }
+  button { font:inherit; font-size:17px; padding:14px 22px; border-radius:6px; border:1px solid var(--accent); background:var(--accent); color:var(--accent-ink); cursor:pointer; }
+  button:disabled { opacity:.6; cursor:default; }
+  a.ghost { font-size:15px; color:var(--ink); text-decoration:underline; text-underline-offset:3px; }
+  .hint { font-size:14px; color:var(--muted); margin:0 0 44px; min-height:1.5em; }
+  hr { border:0; border-top:1px solid var(--line); margin:0 0 28px; }
+  dl { margin:0; display:grid; grid-template-columns:auto 1fr; gap:10px 20px; font-size:15px; }
+  dt { color:var(--muted); }
+  dd { margin:0; }
+  dd a { color:var(--ink); text-decoration:underline; text-underline-offset:3px; }
+  footer { margin-top:56px; font-size:13px; color:var(--muted); }
+  footer a { color:inherit; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Logic <em>Poetry</em></h1>
+  <p class="lede">A nine-step framework for turning a brief into a creative platform. Logic first, poetry second.</p>
+  <p class="steps">zeitgeist → tension → insight ⏸ → role → call to action → strategy ⏸ → creative → big idea → small ideas</p>
+
+  <div class="cta">
+    <button id="copy" type="button">Copy the prompt</button>
+    <a class="ghost" href="PROMPT.md">or open it as a file</a>
+  </div>
+  <p class="hint" id="hint">Paste it as the first message in any chat window. The AI wakes up as a Logic Poetry strategist.</p>
+
+  <hr>
+  <dl>
+    <dt>Agents</dt><dd>Point Claude Code, Codex or Cursor at the repo, or clone it into a skills folder. They read <a href="https://github.com/logicpoetry/logicpoetry/blob/main/SKILL.md">SKILL.md</a>.</dd>
+    <dt>Read</dt><dd>The method, step by step, on <a href="https://github.com/logicpoetry/logicpoetry">GitHub</a>. Start with the <a href="https://github.com/logicpoetry/logicpoetry/blob/main/codex/00-core-philosophy.md">core philosophy</a>.</dd>
+    <dt>Cases</dt><dd>Real campaigns run through the chain: the <a href="https://github.com/logicpoetry/logicpoetry/blob/main/examples/INDEX.md">case index</a>.</dd>
+    <dt>Contribute</dt><dd>Add a case, finish a plug-in framework, sharpen a step. <a href="https://github.com/logicpoetry/logicpoetry/blob/main/CONTRIBUTING.md">How</a>.</dd>
+  </dl>
+
+  <footer>By Nicolas Chan · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · <a href="https://github.com/logicpoetry/logicpoetry">github.com/logicpoetry/logicpoetry</a></footer>
+</main>
+<script>
+  const btn = document.getElementById('copy'), hint = document.getElementById('hint');
+  btn.addEventListener('click', async () => {
+    btn.disabled = true; btn.textContent = 'Fetching…';
+    try {
+      const r = await fetch('PROMPT.md', {cache: 'no-store'});
+      if (!r.ok) throw new Error(r.status);
+      const text = await r.text();
+      await navigator.clipboard.writeText(text);
+      btn.textContent = 'Copied';
+      hint.textContent = `${Math.round(text.length/1024)} KB on your clipboard. Open a fresh chat, paste, send.`;
+    } catch (e) {
+      btn.textContent = 'Copy the prompt';
+      hint.innerHTML = 'Clipboard blocked. <a href="PROMPT.md">Open the file</a>, select all, copy.';
+    } finally { setTimeout(() => { btn.disabled = false; if (btn.textContent === 'Copied') btn.textContent = 'Copy again'; }, 800); }
+  });
+</script>
+</body>
+</html>

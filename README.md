@@ -1,6 +1,8 @@
 # Logic Poetry
 
-[logicpoetry.ai](https://logicpoetry.ai)
+> **Want to use it right now?** Open [`PROMPT.md`](PROMPT.md), press the copy button in the top-right of the file view, paste it into any chat window as your first message. Or use the one-click copy at [logicpoetry.ai](https://logicpoetry.ai).
+>
+> **Sending an AI agent here?** Tell it to read [`SKILL.md`](SKILL.md). Claude Code, Codex and Cursor pick it up as a skill.
 
 **A nine-step framework for turning a brief into a creative platform.** Logic first, poetry second. Built for strategists and creatives, and for the AI agents they work with.
 
