@@ -1,3 +1,11 @@
+---
+id: codex/validation-checklist
+title: VALIDATION_CHECKLIST
+kind: checklist
+part: codex
+version: 1.0.0
+---
+
 ## VALIDATION_CHECKLIST
 
 After generating The Creative, run this post-platform self-check. A strong Creative scores yes on at least 5 of 8:

@@ -1,3 +1,16 @@
+---
+id: examples/cases/04-singapore-kindness-movement-skm
+brand: Singapore Kindness Movement / SKM
+category: Social / Gov
+market: Singapore
+kind: case
+complete: false
+steps: [1, 2, 3, 6, 7, 8, 9]
+calibration: true
+version: 1.0.0
+award: Cannes Young Lions / PRovoke+ICCO winner
+---
+
 #### Case 4: Singapore Kindness Movement / SKM (Social / Gov)
 *(Cannes Young Lions / PRovoke+ICCO winner)*
 

@@ -1,24 +1,29 @@
-### CLUSTER J: PROPRIETARY AGENCY FRAMEWORKS
+---
+id: catalog/J-agency-frameworks
+title: "CLUSTER J: AGENCY AND ACADEMIC FRAMEWORKS"
+kind: cluster
+cluster: J
+part: catalog
+version: 1.0.0
+---
 
-**J1. TBWA Disruption®** — Convention → Vision → Disruption. Jean-Marie Dru (1992).
-**J2. Ogilvy's Big IdeaL** — Brand's best self × Cultural tension.
-**J3. BBH's Zagging** — "When the world zigs, zag." John Hegarty.
-**J4. Hakuhodo's Creative Alchemy** — Combine, Mimic, Turn Upside Down, The Truth Behind, What If. Kentaro Kimura.
-**J5. Pricken's KickStart Catalogue** — Without words, Omission, Paradoxes, Provocation, Time, Perspective, Product change, Wordplay, Reframing, Metaphor, Humor.
-**J6. SIT Advertising Tools** — Unification, Activation, Metaphor Fusion, Subtraction, Extreme Consequence, Absurd Alternative, Inversion, Extreme Effort.
-**J7. McQuarrie & Mick Rhetorical Figures** — Four operations: Repetition, Reversal, Substitution, Destabilization.
+### CLUSTER J: AGENCY AND ACADEMIC FRAMEWORKS
 
-**J8. eatbigfish Challenger Brand Strategy** — 10 challenger narratives for brands fighting above their weight. Adam Morgan. Eating the Big Fish (1999), Overthrow II (2019).
+Named frameworks from agencies, authors and academics that plug into the chain. Each now lives as its own file in `frameworks/`, where it can be written up fully and where new ones are added.
 
-**J9. Dave Trott's Predatory Thinking** — Upstream problem reframing. Don't solve the stated problem; find the real one. Three books. D&AD President's Award 2004.
-
-**J10. Concept Bureau's Tension Branding** — Brands built on permanently unresolved contradictions. Jasmine Bina. "Tension is the real engine of meaning."
-
-**J11. De Bono's Lateral Thinking / PO Technique** — Provocative Operation: make a deliberately absurd statement, resist rejection, explore possibilities, extract useful concepts. Edward de Bono.
-
-**J12. Phillips & McQuarrie Visual Rhetoric** — Three visual structures: juxtaposition (side by side), fusion (merged), replacement (one absent, implied). Academic taxonomy for visual advertising.
-
-**J13. The Pratfall Effect** — Competent entities become more likeable after revealing a flaw. Elliot Aronson (1966). Theoretical basis for B1. Weaponize Weakness — particularly the Confession mode (admitting a flaw earns likability).
+- **J1. TBWA Disruption®** → `frameworks/01-disruption.md`
+- **J2. Ogilvy's Big IdeaL** → `frameworks/02-big-ideal.md`
+- **J3. BBH's Zagging** → `frameworks/03-zagging.md`
+- **J4. Hakuhodo's Creative Alchemy** → `frameworks/04-creative-alchemy.md`
+- **J5. Pricken's KickStart Catalogue** → `frameworks/05-kickstart-catalogue.md`
+- **J6. SIT Advertising Tools** → `frameworks/06-sit-advertising-tools.md`
+- **J7. McQuarrie & Mick Rhetorical Figures** → `frameworks/07-mcquarrie-mick-rhetorical-figures.md`
+- **J8. eatbigfish Challenger Brand Strategy** → `frameworks/08-eatbigfish-challenger-brand-strategy.md`
+- **J9. Dave Trott's Predatory Thinking** → `frameworks/09-predatory-thinking.md`
+- **J10. Concept Bureau's Tension Branding** → `frameworks/10-tension-branding.md`
+- **J11. De Bono's Lateral Thinking / PO Technique** → `frameworks/11-lateral-thinking-po-technique.md`
+- **J12. Phillips & McQuarrie Visual Rhetoric** → `frameworks/12-phillips-mcquarrie-visual-rhetoric.md`
+- **J13. The Pratfall Effect** → `frameworks/13-the-pratfall-effect.md`
 
 **Source Bibliography for This Catalog:**
 - Mario Pricken — Creative Advertising / KickStart Catalogue (29+ technique headings)

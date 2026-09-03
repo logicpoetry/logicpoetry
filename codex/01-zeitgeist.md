@@ -1,3 +1,12 @@
+---
+id: codex/01-zeitgeist
+title: 1. Zeitgeist (The Context)
+kind: step
+part: codex
+step: 1
+version: 1.0.0
+---
+
 ### 1. Zeitgeist (The Context)
 
 **1.1 Also Known As**

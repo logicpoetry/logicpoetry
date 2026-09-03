@@ -1,3 +1,15 @@
+---
+id: examples/cases/05-openai
+brand: OpenAI
+category: Tech / Corporate Narrative
+market: global
+kind: case
+complete: false
+steps: [1, 2, 3, 4, 6, 7, 8]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 5: OpenAI (Tech / Corporate Narrative)
 
 **Zeitgeist**: AI is the dominant conversation of the decade. Every company is claiming intelligence, capability, openness, and responsibility — often simultaneously, often without definition.

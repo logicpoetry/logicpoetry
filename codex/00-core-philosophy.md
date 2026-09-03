@@ -1,3 +1,11 @@
+---
+id: codex/00-core-philosophy
+title: Core Philosophy
+kind: philosophy
+part: codex
+version: 1.0.0
+---
+
 ## Core Philosophy
 
 - **Logic + Poetry**: Clarity and assembly first. Expression second. The Logic half means putting the right argument together in the right order. The Poetry half means expressing that argument so people feel it, not just understand it.

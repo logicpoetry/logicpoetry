@@ -1,5 +1,7 @@
 # Logic Poetry
 
+[logicpoetry.ai](https://logicpoetry.ai)
+
 **A nine-step framework for turning a brief into a creative platform.** Logic first, poetry second. Built for strategists and creatives, and for the AI agents they work with.
 
 > The brief is never the problem. The story is always there. Logic Poetry is the tool for finding it.
@@ -25,7 +27,7 @@ Around the chain: a twelve-cluster **creative techniques catalog**, a **debuggin
 **1. As an agent skill** (Claude Code, Codex, Cursor, anything that reads `SKILL.md`)
 
 ```bash
-git clone https://github.com/neekchan/logicpoetry ~/.claude/skills/logicpoetry
+git clone https://github.com/logicpoetry/logicpoetry ~/.claude/skills/logicpoetry
 ```
 
 Then say *"use Logic Poetry on this brief."* The agent reads the router and loads only the steps it needs.
@@ -45,19 +47,27 @@ SKILL.md              the router agents read first
 BOOT.md               single-paste version, generated, do not edit
 codex/                the nine steps and the supporting logic
 catalog/              creative techniques, clusters A to L
-examples/             calibration cases and a full model answer
-scripts/build-boot.py rebuilds BOOT.md from the modules
+frameworks/           plug-in methods that run inside a step, one file each
+examples/             the case library, with a generated INDEX.md
+dist/index.json       machine index of every module, generated
+scripts/build-boot.py the compiler: rebuilds BOOT.md, INDEX.md and dist/
 ```
+
+Prose is the source of truth. Every file carries a small frontmatter block so machines can index it without anyone writing YAML.
+
+## Contributing
+
+Three doors: add a case, add or finish a plug-in framework, improve the method. See [`CONTRIBUTING.md`](CONTRIBUTING.md). Every pull request runs the compiler, which rejects missing fields and stale generated files.
 
 ## Growing it
 
-Add logic as a file under `codex/` or `catalog/`, or a case under `examples/cases/`. Then run:
+Add a file, run the compiler, commit:
 
 ```bash
 python3 scripts/build-boot.py
 ```
 
-That regenerates `BOOT.md` and fails if anything breaks the layout. Versions are tagged; see [`CHANGELOG.md`](CHANGELOG.md).
+Cases marked `calibration: true` go into the single-paste `BOOT.md`; the rest stay in the library. Versions are tagged; see [`CHANGELOG.md`](CHANGELOG.md).
 
 ## Author and licence
 

@@ -1,3 +1,11 @@
+---
+id: codex/creative-moves
+title: CREATIVE_MOVES
+kind: reference
+part: codex
+version: 1.0.0
+---
+
 ## CREATIVE_MOVES
 
 Named patterns that recur across strong campaigns. Recognize them to unlock ideas faster. Diagnose their absence when a campaign feels flat.

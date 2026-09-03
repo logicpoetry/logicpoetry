@@ -1,3 +1,12 @@
+---
+id: codex/06-strategy
+title: 6. Strategy (The GWTB Checkpoint)
+kind: step
+part: codex
+step: 6
+version: 1.0.0
+---
+
 ### 6. Strategy (The GWTB Checkpoint)
 
 **6.1 Also Known As**

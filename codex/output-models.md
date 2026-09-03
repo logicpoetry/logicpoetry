@@ -1,3 +1,11 @@
+---
+id: codex/output-models
+title: OUTPUT_MODELS
+kind: output
+part: codex
+version: 1.0.0
+---
+
 ## OUTPUT_MODELS
 
 ### 1. Deck Mode

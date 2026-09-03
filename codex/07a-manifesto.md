@@ -1,3 +1,12 @@
+---
+id: codex/07a-manifesto
+title: 7a. The Creative Manifesto (The Soul) — Optional Sub-Step
+kind: substep
+part: codex
+step: 7
+version: 1.0.0
+---
+
 #### 7a. The Creative Manifesto (The Soul) — Optional Sub-Step
 
 Not every brief needs one. When it does, it's usually a brand platform brief, a market entry, or a cause campaign where The Creative alone isn't enough — you need a piece of writing that *sells the belief* behind the platform, not just names it.

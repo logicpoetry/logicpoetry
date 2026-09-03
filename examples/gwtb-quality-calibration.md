@@ -1,3 +1,12 @@
+---
+id: examples/gwtb-quality-calibration
+title: GWTB quality calibration
+kind: calibration
+part: examples
+calibration: true
+version: 1.0.0
+---
+
 ### GWTB QUALITY CALIBRATION
 
 ---

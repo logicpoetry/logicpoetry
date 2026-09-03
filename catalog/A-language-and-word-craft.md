@@ -1,3 +1,12 @@
+---
+id: catalog/A-language-and-word-craft
+title: "CLUSTER A: LANGUAGE & WORD CRAFT"
+kind: cluster
+cluster: A
+part: catalog
+version: 1.0.0
+---
+
 ### CLUSTER A: LANGUAGE & WORD CRAFT
 
 Techniques that manipulate words, grammar, and linguistic structure to create memorability.

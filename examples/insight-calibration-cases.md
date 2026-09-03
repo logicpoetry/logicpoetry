@@ -1,3 +1,12 @@
+---
+id: examples/insight-calibration-cases
+title: Insight calibration cases
+kind: calibration
+part: examples
+calibration: true
+version: 1.0.0
+---
+
 ### INSIGHT CALIBRATION CASES — Award-Winning Insight → Strategy → Creative Chains
 *(Source: Julian Cole / Strategy Finishing School — "10 Insights from Award Winning Work")*
 

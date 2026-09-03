@@ -1,3 +1,12 @@
+---
+id: catalog/C-structure-and-format
+title: "CLUSTER C: STRUCTURE & FORMAT"
+kind: cluster
+cluster: C
+part: catalog
+version: 1.0.0
+---
+
 ### CLUSTER C: STRUCTURE & FORMAT
 
 Techniques that manipulate the structure, medium, or delivery channel.

@@ -1,4 +1,17 @@
-#### Case 6: QLiEER (Beauty & Wellness Booking / Taiwan) — COMPLETE 9-STEP CASE
+---
+id: examples/cases/12-qlieer
+brand: QLiEER
+category: Beauty & Wellness Booking / Taiwan
+market: Taiwan
+kind: case
+complete: true
+steps: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+calibration: true
+version: 1.0.0
+award: 發布全台首份《美業歹勢指數》產業報告
+---
+
+#### Case 12: QLiEER (Beauty & Wellness Booking / Taiwan) — COMPLETE 9-STEP CASE
 
 *This is the authoritative full-campaign example. It demonstrates all 9 steps with a dual-language creative platform rooted in Taiwanese Hokkien vernacular. Use this for calibration on: B2B-adjacent SaaS briefs, industry standard-setting campaigns, dual-audience CTAs, and vernacular-first creative development.*
 

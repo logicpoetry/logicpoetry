@@ -1,3 +1,12 @@
+---
+id: catalog/E-proof-and-evidence
+title: "CLUSTER E: PROOF & EVIDENCE"
+kind: cluster
+cluster: E
+part: catalog
+version: 1.0.0
+---
+
 ### CLUSTER E: PROOF & EVIDENCE
 
 Techniques using data, demonstration, or real evidence as creative material.

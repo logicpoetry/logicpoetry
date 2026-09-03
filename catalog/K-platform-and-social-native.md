@@ -1,3 +1,12 @@
+---
+id: catalog/K-platform-and-social-native
+title: "CLUSTER K: PLATFORM & SOCIAL-NATIVE"
+kind: cluster
+cluster: K
+part: catalog
+version: 1.0.0
+---
+
 ### CLUSTER K: PLATFORM & SOCIAL-NATIVE
 
 **K1. Platform-Native Aesthetic** — Lo-fi as strategy. Duolingo TikTok, E.l.f. Cosmetics.

@@ -1,3 +1,15 @@
+---
+id: examples/cases/09-willing-hearts
+brand: Willing Hearts
+category: Non-Profit / Singapore
+market: Singapore
+kind: case
+complete: false
+steps: [1, 2, 3, 4, 6, 7, 8, 9]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 9: Willing Hearts (Non-Profit / Singapore)
 
 **Zeitgeist**: In Singapore Inc., volunteering is framed as civic responsibility. The language is always obligation — do your part, give back, social contribution. The "good and willing samaritan" exists but is the minority. Most people treat social contribution as duty, not desire.

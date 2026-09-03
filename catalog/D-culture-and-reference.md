@@ -1,3 +1,12 @@
+---
+id: catalog/D-culture-and-reference
+title: "CLUSTER D: CULTURE & REFERENCE"
+kind: cluster
+cluster: D
+part: catalog
+version: 1.0.0
+---
+
 ### CLUSTER D: CULTURE & REFERENCE
 
 Techniques that borrow from cultural artifacts, vernacular, or shared knowledge.

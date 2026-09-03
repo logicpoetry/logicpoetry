@@ -1,3 +1,11 @@
+---
+id: codex/debugging-suite
+title: DEBUGGING_SUITE
+kind: suite
+part: codex
+version: 1.0.0
+---
+
 ## DEBUGGING_SUITE
 
 **Core Philosophy**: Building great code isn't about throwing out bad code and restarting. It's about iterating bad code into good code into great code.

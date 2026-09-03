@@ -1,3 +1,14 @@
+---
+id: examples/model-answer-spotify
+brand: Spotify
+category: Music / Tech
+market: UK
+kind: model-answer
+steps: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+calibration: true
+version: 1.0.0
+---
+
 # SPOTIFY — "LISTEN LIKE YOU USED TO"
 ### Logic Poetry Model Answer
 

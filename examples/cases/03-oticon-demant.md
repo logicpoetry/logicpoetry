@@ -1,3 +1,15 @@
+---
+id: examples/cases/03-oticon-demant
+brand: Oticon / Demant
+category: Healthcare / Hearing Aids
+market: global
+kind: case
+complete: false
+steps: [1, 2, 3, 6, 7, 8, 9]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 3: Oticon / Demant (Healthcare / Hearing Aids)
 
 **Zeitgeist**: Hearing loss is framed as a patient problem. The conversation is always about the person who can't hear — their diagnosis, their treatment, their hearing aid.

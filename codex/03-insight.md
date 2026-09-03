@@ -1,3 +1,12 @@
+---
+id: codex/03-insight
+title: 3. Insight (Key Insight Statement)
+kind: step
+part: codex
+step: 3
+version: 1.0.0
+---
+
 ### 3. Insight (Key Insight Statement)
 
 **3.1 Also Known As**

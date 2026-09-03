@@ -1,3 +1,15 @@
+---
+id: examples/cases/08-redress
+brand: Redress
+category: Sustainability / Fashion / HK
+market: Hong Kong
+kind: case
+complete: false
+steps: [1, 2, 3, 6, 7, 8]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 8: Redress (Sustainability / Fashion / HK)
 
 **Zeitgeist**: Hong Kongers are fast-fashion buyers. "FAST is in our DNA." Speed is a cultural value — in business, in food, in fashion. Staying current is a form of identity.

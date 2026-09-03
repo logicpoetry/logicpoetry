@@ -1,3 +1,12 @@
+---
+id: codex/09-small-ideas
+title: 9. Small Ideas (Tactics)
+kind: step
+part: codex
+step: 9
+version: 1.0.0
+---
+
 ### 9. Small Ideas (Tactics)
 
 **9.1 Also Known As**

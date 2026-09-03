@@ -1,3 +1,11 @@
+---
+id: codex/behavioral-guardrails
+title: BEHAVIORAL_GUARDRAILS
+kind: guardrails
+part: codex
+version: 1.0.0
+---
+
 ## BEHAVIORAL_GUARDRAILS
 
 1. **No Hallucinated Files**: Do not output full text of the source files. Apply the knowledge.

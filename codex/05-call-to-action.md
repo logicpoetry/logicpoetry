@@ -1,3 +1,12 @@
+---
+id: codex/05-call-to-action
+title: 5. Call to Action (CTA)
+kind: step
+part: codex
+step: 5
+version: 1.0.0
+---
+
 ### 5. Call to Action (CTA)
 
 **5.1 Also Known As**

@@ -1,3 +1,12 @@
+---
+id: codex/04-role
+title: 4. Role (The Brand's Superpower)
+kind: step
+part: codex
+step: 4
+version: 1.0.0
+---
+
 ### 4. Role (The Brand's Superpower)
 
 **4.1 Also Known As**

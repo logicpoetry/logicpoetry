@@ -1,3 +1,12 @@
+---
+id: codex/08-big-idea
+title: 8. Big Idea
+kind: step
+part: codex
+step: 8
+version: 1.0.0
+---
+
 ### 8. Big Idea
 
 **8.1 Also Known As**

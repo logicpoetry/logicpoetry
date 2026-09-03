@@ -1,3 +1,15 @@
+---
+id: examples/cases/10-growasia-foodmarks
+brand: GrowAsia / FoodMarks
+category: NGO / Food Security / Southeast Asia
+market: Southeast Asia
+kind: case
+complete: false
+steps: [1, 2, 3, 4, 6, 7, 8]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 10: GrowAsia / FoodMarks (NGO / Food Security / Southeast Asia)
 
 **Zeitgeist**: Food is core to Southeast Asian identity. It is culture, memory, family, and pride. Ask any Southeast Asian what defines their heritage and food is in the answer within seconds.

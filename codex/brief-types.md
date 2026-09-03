@@ -1,3 +1,11 @@
+---
+id: codex/brief-types
+title: BRIEF_TYPES (Where Logic Poetry Sits)
+kind: reference
+part: codex
+version: 1.0.0
+---
+
 ## BRIEF_TYPES (Where Logic Poetry Sits)
 
 Not all briefs are the same. Understanding the type of brief determines how Logic Poetry should be applied. Three brief types exist in a solar system relationship:

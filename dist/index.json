@@ -1,0 +1,748 @@
+{
+  "version": "1.0.0",
+  "boot_sequence": [
+    "codex/OPERATING-MANUAL.md",
+    "codex/00-core-philosophy.md",
+    "codex/01-zeitgeist.md",
+    "codex/02-tension.md",
+    "codex/03-insight.md",
+    "codex/03b-logic-stack.md",
+    "codex/04-role.md",
+    "codex/05-call-to-action.md",
+    "codex/06-strategy.md",
+    "codex/06b-gwtb-engine.md",
+    "codex/07-the-creative.md",
+    "codex/07a-manifesto.md",
+    "codex/08-big-idea.md",
+    "codex/09-small-ideas.md",
+    "catalog/README.md",
+    "catalog/A-language-and-word-craft.md",
+    "catalog/B-meaning-and-reframing.md",
+    "catalog/C-structure-and-format.md",
+    "catalog/D-culture-and-reference.md",
+    "catalog/E-proof-and-evidence.md",
+    "catalog/F-humor-mechanics.md",
+    "catalog/G-visual-craft.md",
+    "catalog/H-audience-participation.md",
+    "catalog/I-sonic-and-audio.md",
+    "catalog/J-agency-frameworks.md",
+    "catalog/K-platform-and-social-native.md",
+    "catalog/L-localization-and-cultural-translation.md",
+    "frameworks/README.md",
+    "frameworks/01-disruption.md",
+    "frameworks/02-big-ideal.md",
+    "frameworks/03-zagging.md",
+    "frameworks/04-creative-alchemy.md",
+    "frameworks/05-kickstart-catalogue.md",
+    "frameworks/06-sit-advertising-tools.md",
+    "frameworks/07-mcquarrie-mick-rhetorical-figures.md",
+    "frameworks/08-eatbigfish-challenger-brand-strategy.md",
+    "frameworks/09-predatory-thinking.md",
+    "frameworks/10-tension-branding.md",
+    "frameworks/11-lateral-thinking-po-technique.md",
+    "frameworks/12-phillips-mcquarrie-visual-rhetoric.md",
+    "frameworks/13-the-pratfall-effect.md",
+    "codex/debugging-suite.md",
+    "codex/creative-moves.md",
+    "codex/validation-checklist.md",
+    "codex/output-models.md",
+    "codex/brief-types.md",
+    "codex/behavioral-guardrails.md",
+    "examples/README.md",
+    "examples/insight-calibration-cases.md",
+    "examples/cases/README.md",
+    "examples/cases/01-matterport.md",
+    "examples/cases/02-adyen.md",
+    "examples/cases/03-oticon-demant.md",
+    "examples/cases/04-singapore-kindness-movement-skm.md",
+    "examples/cases/05-openai.md",
+    "examples/cases/06-western-digital.md",
+    "examples/cases/07-grab-ads.md",
+    "examples/cases/08-redress.md",
+    "examples/cases/09-willing-hearts.md",
+    "examples/cases/10-growasia-foodmarks.md",
+    "examples/cases/11-fandom.md",
+    "examples/cases/12-qlieer.md",
+    "examples/gwtb-quality-calibration.md",
+    "examples/model-answer-spotify-listen-like-you-used-to.md"
+  ],
+  "modules": {
+    "catalog/A-language-and-word-craft.md": {
+      "id": "catalog/A-language-and-word-craft",
+      "title": "CLUSTER A: LANGUAGE & WORD CRAFT",
+      "kind": "cluster",
+      "cluster": "A",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/B-meaning-and-reframing.md": {
+      "id": "catalog/B-meaning-and-reframing",
+      "title": "CLUSTER B: MEANING & REFRAMING",
+      "kind": "cluster",
+      "cluster": "B",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/C-structure-and-format.md": {
+      "id": "catalog/C-structure-and-format",
+      "title": "CLUSTER C: STRUCTURE & FORMAT",
+      "kind": "cluster",
+      "cluster": "C",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/D-culture-and-reference.md": {
+      "id": "catalog/D-culture-and-reference",
+      "title": "CLUSTER D: CULTURE & REFERENCE",
+      "kind": "cluster",
+      "cluster": "D",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/E-proof-and-evidence.md": {
+      "id": "catalog/E-proof-and-evidence",
+      "title": "CLUSTER E: PROOF & EVIDENCE",
+      "kind": "cluster",
+      "cluster": "E",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/F-humor-mechanics.md": {
+      "id": "catalog/F-humor-mechanics",
+      "title": "CLUSTER F: HUMOR MECHANICS",
+      "kind": "cluster",
+      "cluster": "F",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/G-visual-craft.md": {
+      "id": "catalog/G-visual-craft",
+      "title": "CLUSTER G: VISUAL CRAFT",
+      "kind": "cluster",
+      "cluster": "G",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/H-audience-participation.md": {
+      "id": "catalog/H-audience-participation",
+      "title": "CLUSTER H: AUDIENCE PARTICIPATION",
+      "kind": "cluster",
+      "cluster": "H",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/I-sonic-and-audio.md": {
+      "id": "catalog/I-sonic-and-audio",
+      "title": "CLUSTER I: SONIC & AUDIO",
+      "kind": "cluster",
+      "cluster": "I",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/J-agency-frameworks.md": {
+      "id": "catalog/J-agency-frameworks",
+      "title": "CLUSTER J: AGENCY AND ACADEMIC FRAMEWORKS",
+      "kind": "cluster",
+      "cluster": "J",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/K-platform-and-social-native.md": {
+      "id": "catalog/K-platform-and-social-native",
+      "title": "CLUSTER K: PLATFORM & SOCIAL-NATIVE",
+      "kind": "cluster",
+      "cluster": "K",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/L-localization-and-cultural-translation.md": {
+      "id": "catalog/L-localization-and-cultural-translation",
+      "title": "CLUSTER L: LOCALIZATION & CULTURAL TRANSLATION",
+      "kind": "cluster",
+      "cluster": "L",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "catalog/README.md": {
+      "id": "catalog/README",
+      "title": "Creative Techniques Catalog",
+      "kind": "index",
+      "part": "catalog",
+      "version": "1.0.0"
+    },
+    "codex/00-core-philosophy.md": {
+      "id": "codex/00-core-philosophy",
+      "title": "Core Philosophy",
+      "kind": "philosophy",
+      "part": "codex",
+      "version": "1.0.0"
+    },
+    "codex/01-zeitgeist.md": {
+      "id": "codex/01-zeitgeist",
+      "title": "1. Zeitgeist (The Context)",
+      "kind": "step",
+      "part": "codex",
+      "step": "1",
+      "version": "1.0.0"
+    },
+    "codex/02-tension.md": {
+      "id": "codex/02-tension",
+      "title": "2. Tension (The Paradox)",
+      "kind": "step",
+      "part": "codex",
+      "step": "2",
+      "version": "1.0.0"
+    },
+    "codex/03-insight.md": {
+      "id": "codex/03-insight",
+      "title": "3. Insight (Key Insight Statement)",
+      "kind": "step",
+      "part": "codex",
+      "step": "3",
+      "version": "1.0.0"
+    },
+    "codex/03b-logic-stack.md": {
+      "id": "codex/03b-logic-stack",
+      "title": "THE LOGIC STACK: How Steps 1–3 Connect",
+      "kind": "check",
+      "part": "codex",
+      "step": "3",
+      "version": "1.0.0"
+    },
+    "codex/04-role.md": {
+      "id": "codex/04-role",
+      "title": "4. Role (The Brand's Superpower)",
+      "kind": "step",
+      "part": "codex",
+      "step": "4",
+      "version": "1.0.0"
+    },
+    "codex/05-call-to-action.md": {
+      "id": "codex/05-call-to-action",
+      "title": "5. Call to Action (CTA)",
+      "kind": "step",
+      "part": "codex",
+      "step": "5",
+      "version": "1.0.0"
+    },
+    "codex/06-strategy.md": {
+      "id": "codex/06-strategy",
+      "title": "6. Strategy (The GWTB Checkpoint)",
+      "kind": "step",
+      "part": "codex",
+      "step": "6",
+      "version": "1.0.0"
+    },
+    "codex/06b-gwtb-engine.md": {
+      "id": "codex/06b-gwtb-engine",
+      "title": "STRATEGY_CHECKPOINT (GWTB Engine)",
+      "kind": "engine",
+      "part": "codex",
+      "step": "6",
+      "version": "1.0.0"
+    },
+    "codex/07-the-creative.md": {
+      "id": "codex/07-the-creative",
+      "title": "7. The Creative",
+      "kind": "step",
+      "part": "codex",
+      "step": "7",
+      "version": "1.0.0"
+    },
+    "codex/07a-manifesto.md": {
+      "id": "codex/07a-manifesto",
+      "title": "7a. The Creative Manifesto (The Soul) — Optional Sub-Step",
+      "kind": "substep",
+      "part": "codex",
+      "step": "7",
+      "version": "1.0.0"
+    },
+    "codex/08-big-idea.md": {
+      "id": "codex/08-big-idea",
+      "title": "8. Big Idea",
+      "kind": "step",
+      "part": "codex",
+      "step": "8",
+      "version": "1.0.0"
+    },
+    "codex/09-small-ideas.md": {
+      "id": "codex/09-small-ideas",
+      "title": "9. Small Ideas (Tactics)",
+      "kind": "step",
+      "part": "codex",
+      "step": "9",
+      "version": "1.0.0"
+    },
+    "codex/OPERATING-MANUAL.md": {
+      "id": "codex/OPERATING-MANUAL",
+      "title": "WHAT YOU ARE",
+      "kind": "manual",
+      "part": "codex",
+      "version": "1.0.0"
+    },
+    "codex/behavioral-guardrails.md": {
+      "id": "codex/behavioral-guardrails",
+      "title": "BEHAVIORAL_GUARDRAILS",
+      "kind": "guardrails",
+      "part": "codex",
+      "version": "1.0.0"
+    },
+    "codex/brief-types.md": {
+      "id": "codex/brief-types",
+      "title": "BRIEF_TYPES (Where Logic Poetry Sits)",
+      "kind": "reference",
+      "part": "codex",
+      "version": "1.0.0"
+    },
+    "codex/creative-moves.md": {
+      "id": "codex/creative-moves",
+      "title": "CREATIVE_MOVES",
+      "kind": "reference",
+      "part": "codex",
+      "version": "1.0.0"
+    },
+    "codex/debugging-suite.md": {
+      "id": "codex/debugging-suite",
+      "title": "DEBUGGING_SUITE",
+      "kind": "suite",
+      "part": "codex",
+      "version": "1.0.0"
+    },
+    "codex/output-models.md": {
+      "id": "codex/output-models",
+      "title": "OUTPUT_MODELS",
+      "kind": "output",
+      "part": "codex",
+      "version": "1.0.0"
+    },
+    "codex/validation-checklist.md": {
+      "id": "codex/validation-checklist",
+      "title": "VALIDATION_CHECKLIST",
+      "kind": "checklist",
+      "part": "codex",
+      "version": "1.0.0"
+    },
+    "examples/README.md": {
+      "id": "examples/README",
+      "title": "Training data and calibration",
+      "kind": "index",
+      "part": "examples",
+      "version": "1.0.0"
+    },
+    "examples/cases/01-matterport.md": {
+      "id": "examples/cases/01-matterport",
+      "brand": "Matterport",
+      "category": "B2B Tech / Digital Twins",
+      "market": "global",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/02-adyen.md": {
+      "id": "examples/cases/02-adyen",
+      "brand": "Adyen",
+      "category": "Fintech / B2B Payments",
+      "market": "global",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/03-oticon-demant.md": {
+      "id": "examples/cases/03-oticon-demant",
+      "brand": "Oticon / Demant",
+      "category": "Healthcare / Hearing Aids",
+      "market": "global",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/04-singapore-kindness-movement-skm.md": {
+      "id": "examples/cases/04-singapore-kindness-movement-skm",
+      "brand": "Singapore Kindness Movement / SKM",
+      "category": "Social / Gov",
+      "market": "Singapore",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0",
+      "award": "Cannes Young Lions / PRovoke+ICCO winner"
+    },
+    "examples/cases/05-openai.md": {
+      "id": "examples/cases/05-openai",
+      "brand": "OpenAI",
+      "category": "Tech / Corporate Narrative",
+      "market": "global",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/06-western-digital.md": {
+      "id": "examples/cases/06-western-digital",
+      "brand": "Western Digital",
+      "category": "B2B Tech / Storage",
+      "market": "global",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/07-grab-ads.md": {
+      "id": "examples/cases/07-grab-ads",
+      "brand": "Grab Ads",
+      "category": "B2B / AdTech",
+      "market": "global",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/08-redress.md": {
+      "id": "examples/cases/08-redress",
+      "brand": "Redress",
+      "category": "Sustainability / Fashion / HK",
+      "market": "Hong Kong",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/09-willing-hearts.md": {
+      "id": "examples/cases/09-willing-hearts",
+      "brand": "Willing Hearts",
+      "category": "Non-Profit / Singapore",
+      "market": "Singapore",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/10-growasia-foodmarks.md": {
+      "id": "examples/cases/10-growasia-foodmarks",
+      "brand": "GrowAsia / FoodMarks",
+      "category": "NGO / Food Security / Southeast Asia",
+      "market": "Southeast Asia",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/11-fandom.md": {
+      "id": "examples/cases/11-fandom",
+      "brand": "Fandom",
+      "category": "B2B Tech / China Market Entry",
+      "market": "China",
+      "kind": "case",
+      "complete": false,
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/cases/12-qlieer.md": {
+      "id": "examples/cases/12-qlieer",
+      "brand": "QLiEER",
+      "category": "Beauty & Wellness Booking / Taiwan",
+      "market": "Taiwan",
+      "kind": "case",
+      "complete": true,
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0",
+      "award": "發布全台首份《美業歹勢指數》產業報告"
+    },
+    "examples/cases/README.md": {
+      "id": "examples/cases/README",
+      "title": "Campaign cases",
+      "kind": "index",
+      "part": "examples",
+      "version": "1.0.0"
+    },
+    "examples/gwtb-quality-calibration.md": {
+      "id": "examples/gwtb-quality-calibration",
+      "title": "GWTB quality calibration",
+      "kind": "calibration",
+      "part": "examples",
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/insight-calibration-cases.md": {
+      "id": "examples/insight-calibration-cases",
+      "title": "Insight calibration cases",
+      "kind": "calibration",
+      "part": "examples",
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/model-answer-spotify-listen-like-you-used-to.md": {
+      "id": "examples/model-answer-spotify",
+      "brand": "Spotify",
+      "category": "Music / Tech",
+      "market": "UK",
+      "kind": "model-answer",
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": true,
+      "version": "1.0.0"
+    },
+    "frameworks/01-disruption.md": {
+      "id": "frameworks/01-disruption",
+      "name": "TBWA Disruption®",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/02-big-ideal.md": {
+      "id": "frameworks/02-big-ideal",
+      "name": "Ogilvy's Big IdeaL",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/03-zagging.md": {
+      "id": "frameworks/03-zagging",
+      "name": "BBH's Zagging",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/04-creative-alchemy.md": {
+      "id": "frameworks/04-creative-alchemy",
+      "name": "Hakuhodo's Creative Alchemy",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/05-kickstart-catalogue.md": {
+      "id": "frameworks/05-kickstart-catalogue",
+      "name": "Pricken's KickStart Catalogue",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/06-sit-advertising-tools.md": {
+      "id": "frameworks/06-sit-advertising-tools",
+      "name": "SIT Advertising Tools",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/07-mcquarrie-mick-rhetorical-figures.md": {
+      "id": "frameworks/07-mcquarrie-mick-rhetorical-figures",
+      "name": "McQuarrie & Mick Rhetorical Figures",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/08-eatbigfish-challenger-brand-strategy.md": {
+      "id": "frameworks/08-eatbigfish-challenger-brand-strategy",
+      "name": "eatbigfish Challenger Brand Strategy",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/09-predatory-thinking.md": {
+      "id": "frameworks/09-predatory-thinking",
+      "name": "Dave Trott's Predatory Thinking",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/10-tension-branding.md": {
+      "id": "frameworks/10-tension-branding",
+      "name": "Concept Bureau's Tension Branding",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/11-lateral-thinking-po-technique.md": {
+      "id": "frameworks/11-lateral-thinking-po-technique",
+      "name": "De Bono's Lateral Thinking / PO Technique",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/12-phillips-mcquarrie-visual-rhetoric.md": {
+      "id": "frameworks/12-phillips-mcquarrie-visual-rhetoric",
+      "name": "Phillips & McQuarrie Visual Rhetoric",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/13-the-pratfall-effect.md": {
+      "id": "frameworks/13-the-pratfall-effect",
+      "name": "The Pratfall Effect",
+      "kind": "framework",
+      "origin": "external",
+      "status": "seed",
+      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
+      "version": "1.0.0",
+      "license": "CC-BY-SA-4.0"
+    },
+    "frameworks/README.md": {
+      "id": "frameworks/README",
+      "title": "Plug-in frameworks",
+      "kind": "index",
+      "part": "frameworks",
+      "version": "1.0.0"
+    }
+  }
+}

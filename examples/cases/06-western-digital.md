@@ -1,3 +1,15 @@
+---
+id: examples/cases/06-western-digital
+brand: Western Digital
+category: B2B Tech / Storage
+market: global
+kind: case
+complete: false
+steps: [1, 2, 3, 4, 6, 7, 8, 9]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 6: Western Digital (B2B Tech / Storage)
 
 **Zeitgeist**: Storage is a commodity conversation. Terabytes, price-per-GB, read/write speeds. Buyers compare specs. Sellers compete on price. The category races to the bottom.

@@ -1,3 +1,15 @@
+---
+id: examples/cases/11-fandom
+brand: Fandom
+category: B2B Tech / China Market Entry
+market: China
+kind: case
+complete: false
+steps: [1, 2, 3, 4, 6, 7, 8, 9]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 11: Fandom (B2B Tech / China Market Entry)
 
 **Zeitgeist**: For businesses in cultural export — games, entertainment, IP-based brands — the next leap comes from building brand and IP, not just acquiring users. League of Legends creates a pop group (K/DA). Honor of Kings spins off a TV drama. Players join for the gameplay; they stay for the story and the characters.

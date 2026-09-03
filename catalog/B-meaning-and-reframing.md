@@ -1,3 +1,12 @@
+---
+id: catalog/B-meaning-and-reframing
+title: "CLUSTER B: MEANING & REFRAMING"
+kind: cluster
+cluster: B
+part: catalog
+version: 1.0.0
+---
+
 ### CLUSTER B: MEANING & REFRAMING
 
 Techniques that flip perception, reverse expectations, or reframe how the audience sees the problem.

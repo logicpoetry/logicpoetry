@@ -1,3 +1,15 @@
+---
+id: examples/cases/02-adyen
+brand: Adyen
+category: Fintech / B2B Payments
+market: global
+kind: case
+complete: false
+steps: [1, 2, 3, 7, 8, 9]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 2: Adyen (Fintech / B2B Payments)
 
 **Zeitgeist**: Tech success stories are always framed as "better/faster/cheaper" — companies win when the software outperforms the competition on measurable metrics.

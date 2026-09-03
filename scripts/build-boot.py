@@ -1,76 +1,110 @@
 #!/usr/bin/env python3
-"""Rebuild BOOT.md (the single-paste version of Logic Poetry) from the modules.
+"""Logic Poetry compiler.
 
-Usage: python3 scripts/build-boot.py
-Fails loudly if a listed module is missing or a brand leak slips in.
+One source tree (prose markdown with frontmatter), three outputs:
+  BOOT.md            single-paste version for chat windows (calibration cases only)
+  examples/INDEX.md  browsable index of every case
+  dist/index.json    machine index of every module and its frontmatter
+
+Usage:
+  python3 scripts/build-boot.py            build
+  python3 scripts/build-boot.py --check    build to memory and fail if outputs on disk are stale or a rule breaks
 """
-import pathlib, re, sys
+import json, pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-OUT = ROOT / "BOOT.md"
-
-# Order matters: this is the reading order the AI gets.
-ORDER = [
-    "codex/OPERATING-MANUAL.md",
-    "codex/00-core-philosophy.md",
-    "codex/01-zeitgeist.md",
-    "codex/02-tension.md",
-    "codex/03-insight.md",
-    "codex/03b-logic-stack.md",
-    "codex/04-role.md",
-    "codex/05-call-to-action.md",
-    "codex/06-strategy.md",
-    "codex/06b-gwtb-engine.md",
-    "codex/07-the-creative.md",
-    "codex/07a-manifesto.md",
-    "codex/08-big-idea.md",
-    "codex/09-small-ideas.md",
-    "catalog/README.md",
-    *sorted(str(p.relative_to(ROOT)) for p in (ROOT / "catalog").glob("[A-L]-*.md")),
-    "codex/debugging-suite.md",
-    "codex/creative-moves.md",
-    "codex/validation-checklist.md",
-    "codex/output-models.md",
-    "codex/brief-types.md",
-    "codex/behavioral-guardrails.md",
-    "examples/README.md",
-    "examples/insight-calibration-cases.md",
-    "examples/cases/README.md",
-    *sorted(str(p.relative_to(ROOT)) for p in (ROOT / "examples/cases").glob("[0-9][0-9]-*.md")),
-    "examples/gwtb-quality-calibration.md",
-    "examples/model-answer-spotify-listen-like-you-used-to.md",
-]
-
 FORBIDDEN = re.compile(r"hoffman|creative codex", re.I)
+FRAMEWORK_HEADINGS = ["## What it does", "## When to use it", "## How to apply it", "## Failure mode", "## Example", "## Source and confidence"]
+CASE_REQUIRED = ["brand", "category", "market", "steps", "calibration"]
 
-def version():
-    m = re.search(r"^\s*version:\s*([\d.]+)", (ROOT / "SKILL.md").read_text(), re.M)
-    return m.group(1) if m else "0.0.0"
+def parse(path):
+    text = (ROOT / path).read_text()
+    meta = {}
+    if text.startswith("---\n"):
+        end = text.index("\n---", 4)
+        for line in text[4:end].splitlines():
+            if ":" not in line: continue
+            k, v = line.split(":", 1); v = v.strip()
+            if v.startswith("[") and v.endswith("]"):
+                v = [x.strip() for x in v[1:-1].split(",") if x.strip()]
+                v = [int(x) if x.isdigit() else x for x in v]
+            elif v in ("true", "false"): v = (v == "true")
+            elif v.startswith('"') and v.endswith('"'): v = v[1:-1]
+            meta[k.strip()] = v
+        text = text[end + 4:].lstrip("\n")
+    return meta, text
+
+def rel(p): return str(p.relative_to(ROOT))
+
+def order(index):
+    cases = sorted(p for p in (ROOT / "examples/cases").glob("[0-9][0-9]-*.md"))
+    calib = [rel(p) for p in cases if index[rel(p)].get("calibration") is True]
+    return [
+        "codex/OPERATING-MANUAL.md", "codex/00-core-philosophy.md",
+        "codex/01-zeitgeist.md", "codex/02-tension.md", "codex/03-insight.md", "codex/03b-logic-stack.md",
+        "codex/04-role.md", "codex/05-call-to-action.md", "codex/06-strategy.md", "codex/06b-gwtb-engine.md",
+        "codex/07-the-creative.md", "codex/07a-manifesto.md", "codex/08-big-idea.md", "codex/09-small-ideas.md",
+        "catalog/README.md", *sorted(rel(p) for p in (ROOT / "catalog").glob("[A-L]-*.md")),
+        "frameworks/README.md", *sorted(rel(p) for p in (ROOT / "frameworks").glob("[0-9][0-9]-*.md")),
+        "codex/debugging-suite.md", "codex/creative-moves.md", "codex/validation-checklist.md",
+        "codex/output-models.md", "codex/brief-types.md", "codex/behavioral-guardrails.md",
+        "examples/README.md", "examples/insight-calibration-cases.md", "examples/cases/README.md", *calib,
+        "examples/gwtb-quality-calibration.md", "examples/model-answer-spotify-listen-like-you-used-to.md",
+    ]
 
 def main():
-    parts = [
+    check = "--check" in sys.argv
+    errors = []
+    files = sorted(p for d in ("codex", "catalog", "frameworks", "examples") for p in (ROOT / d).rglob("*.md")
+                   if p.name not in ("INDEX.md", "_TEMPLATE.md"))
+    index, bodies = {}, {}
+    for p in files:
+        meta, body = parse(rel(p)); index[rel(p)] = meta; bodies[rel(p)] = body
+        if not meta.get("id"): errors.append(f"{rel(p)}: missing frontmatter id")
+        if FORBIDDEN.search(body): errors.append(f"{rel(p)}: forbidden name in text")
+        if meta.get("kind") == "framework":
+            for h in FRAMEWORK_HEADINGS:
+                if h not in body: errors.append(f"{rel(p)}: framework missing heading '{h}'")
+        if meta.get("kind") == "case":
+            for k in CASE_REQUIRED:
+                if k not in meta: errors.append(f"{rel(p)}: case missing '{k}'")
+    version = re.search(r"^\s*version:\s*([\d.]+)", (ROOT / "SKILL.md").read_text(), re.M).group(1)
+
+    seq = order(index)
+    missing = [s for s in seq if s not in bodies]
+    if missing: errors.append(f"modules listed but not found: {missing}")
+    if errors:
+        print("\n".join(errors)); sys.exit(f"{len(errors)} problem(s)")
+
+    head = [
         "# ═══════════════════════════════════════════════",
-        f"# BOOT PROMPT — LOGIC POETRY v{version()}",
+        f"# BOOT PROMPT — LOGIC POETRY v{version}",
         "# Paste this entire document into any chat window.",
         "# The AI will wake up as a Logic Poetry strategist.",
         "# Generated by scripts/build-boot.py — do not edit by hand.",
-        "# Source: https://github.com/neekchan/logicpoetry",
-        "# ═══════════════════════════════════════════════",
-        "",
+        "# Source: https://github.com/logicpoetry/logicpoetry · https://logicpoetry.ai",
+        "# ═══════════════════════════════════════════════", "",
     ]
-    missing = [p for p in ORDER if not (ROOT / p).exists()]
-    if missing:
-        sys.exit(f"missing modules: {missing}")
-    for rel in ORDER:
-        parts.append((ROOT / rel).read_text().rstrip() + "\n\n---\n")
-    text = "\n".join(parts)
-    leaks = [(i + 1, l) for i, l in enumerate(text.splitlines()) if FORBIDDEN.search(l)]
-    if leaks:
-        for n, l in leaks[:10]:
-            print(f"leak at BOOT.md:{n}: {l[:100]}")
-        sys.exit("brand leak: fix the module, not BOOT.md")
-    OUT.write_text(text)
-    print(f"BOOT.md written: {len(ORDER)} modules, {len(text.splitlines())} lines, {len(text.encode())//1024} KB")
+    boot = "\n".join(head) + "\n".join(bodies[s].rstrip() + "\n\n---\n" for s in seq)
+
+    cases = [(k, v) for k, v in index.items() if v.get("kind") in ("case", "model-answer")]
+    rows = ["# Case index", "", "Generated by `scripts/build-boot.py`. Do not edit by hand.", "",
+            "| Brand | Category | Market | Steps | In BOOT | File |", "|---|---|---|---|---|---|"]
+    for k, v in sorted(cases, key=lambda kv: str(kv[1].get("brand", "")).lower()):
+        steps = v.get("steps", []); steps = ",".join(str(s) for s in steps) if isinstance(steps, list) else steps
+        rows.append(f"| {v.get('brand','')} | {v.get('category','')} | {v.get('market','')} | {steps} | {'yes' if v.get('calibration') else ''} | [{pathlib.Path(k).name}]({pathlib.Path(k).relative_to('examples')}) |")
+    case_index = "\n".join(rows) + "\n"
+    dist = json.dumps({"version": version, "boot_sequence": seq, "modules": index}, indent=2, ensure_ascii=False) + "\n"
+
+    outputs = {ROOT / "BOOT.md": boot, ROOT / "examples/INDEX.md": case_index, ROOT / "dist/index.json": dist}
+    if check:
+        stale = [rel(p) for p, s in outputs.items() if not p.exists() or p.read_text() != s]
+        if stale: sys.exit(f"stale outputs, run the build: {stale}")
+        print(f"check ok: {len(files)} modules, {len(seq)} in BOOT, {len(cases)} cases")
+    else:
+        for p, s in outputs.items():
+            p.parent.mkdir(exist_ok=True); p.write_text(s)
+        print(f"built: BOOT.md {len(boot.splitlines())} lines / {len(boot.encode())//1024} KB · {len(seq)} modules · {len(cases)} cases indexed")
 
 if __name__ == "__main__":
     main()

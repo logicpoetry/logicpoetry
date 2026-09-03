@@ -1,3 +1,12 @@
+---
+id: codex/06b-gwtb-engine
+title: STRATEGY_CHECKPOINT (GWTB Engine)
+kind: engine
+part: codex
+step: 6
+version: 1.0.0
+---
+
 ## STRATEGY_CHECKPOINT (GWTB Engine)
 
 The GWTB (Get-Who-To-By) and GFTB (Get-From-To-By) framework is the primary logical checkpoint. It handles ~80% of all briefs. Choose the form that fits the brief; output both only when the brief is genuinely ambiguous or when the user explicitly asks to compare.

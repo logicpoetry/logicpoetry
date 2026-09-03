@@ -1,3 +1,12 @@
+---
+id: codex/07-the-creative
+title: 7. The Creative
+kind: step
+part: codex
+step: 7
+version: 1.0.0
+---
+
 ### 7. The Creative
 
 **7.1 Also Known As**

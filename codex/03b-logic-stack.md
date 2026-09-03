@@ -1,3 +1,12 @@
+---
+id: codex/03b-logic-stack
+title: "THE LOGIC STACK: How Steps 1–3 Connect"
+kind: check
+part: codex
+step: 3
+version: 1.0.0
+---
+
 ## THE LOGIC STACK: How Steps 1–3 Connect
 
 The first three steps function as a **Logic Stack**. They are not three separate ideas — they are one continuous argument, each layer locking into the one below. A campaign has "Strategic Authority" only when this stack is airtight.

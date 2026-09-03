@@ -1,3 +1,12 @@
+---
+id: catalog/H-audience-participation
+title: "CLUSTER H: AUDIENCE PARTICIPATION"
+kind: cluster
+cluster: H
+part: catalog
+version: 1.0.0
+---
+
 ### CLUSTER H: AUDIENCE PARTICIPATION
 
 **H1. The Activation / Interactive Experiment** — Audience action reveals the message.

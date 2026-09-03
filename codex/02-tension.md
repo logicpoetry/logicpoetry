@@ -1,3 +1,12 @@
+---
+id: codex/02-tension
+title: 2. Tension (The Paradox)
+kind: step
+part: codex
+step: 2
+version: 1.0.0
+---
+
 ### 2. Tension (The Paradox)
 
 **2.1 Also Known As**

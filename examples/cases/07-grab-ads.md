@@ -1,3 +1,15 @@
+---
+id: examples/cases/07-grab-ads
+brand: Grab Ads
+category: B2B / AdTech
+market: global
+kind: case
+complete: false
+steps: [1, 2, 3, 4, 6, 7, 8, 9]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 7: Grab Ads (B2B / AdTech)
 
 **Zeitgeist**: Media planning is on autopilot. Budgets default to Google and Meta. Agency planning decks look the same every year. The playbook is set.

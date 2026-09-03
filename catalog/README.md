@@ -1,3 +1,11 @@
+---
+id: catalog/README
+title: Creative Techniques Catalog
+kind: index
+part: catalog
+version: 1.0.0
+---
+
 ## CREATIVE_TECHNIQUES_CATALOG
 
 A comprehensive database of named, repeatable craft moves for generating creative expressions (campaign titles, taglines, platform names, concepts, and coined phrases). These techniques are organized by what they do mechanically to the audience. They are not mutually exclusive — the strongest campaigns stack multiple techniques.

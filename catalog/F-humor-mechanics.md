@@ -1,3 +1,12 @@
+---
+id: catalog/F-humor-mechanics
+title: "CLUSTER F: HUMOR MECHANICS"
+kind: cluster
+cluster: F
+part: catalog
+version: 1.0.0
+---
+
 ### CLUSTER F: HUMOR MECHANICS
 
 **F1. Extreme Consequence** — Absurdly exaggerated result of using the product.

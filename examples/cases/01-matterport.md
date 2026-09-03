@@ -1,3 +1,15 @@
+---
+id: examples/cases/01-matterport
+brand: Matterport
+category: B2B Tech / Digital Twins
+market: global
+kind: case
+complete: false
+steps: [1, 2, 3, 4, 6, 7, 8, 9]
+calibration: true
+version: 1.0.0
+---
+
 #### Case 1: Matterport (B2B Tech / Digital Twins)
 
 **Zeitgeist**: Professionals rely on blueprints, floor plans, and physical site visits to plan and manage spaces. Seeing is believing — and right now, seeing requires showing up.
