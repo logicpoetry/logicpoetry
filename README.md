@@ -6,8 +6,6 @@
 
 **A nine-step framework for turning a brief into a creative platform.** Logic first, poetry second. Built for strategists and creatives, and for the AI agents they work with.
 
-> The brief is never the problem. The story is always there. Logic Poetry is the tool for finding it.
-
 ## The chain
 
 1. **Zeitgeist** — the macro-reality that forces the situation to exist
