@@ -87,6 +87,8 @@ BY showing that you transform into another person when you're hungry
 ```
 Note: The insight (hunger changes your personality) is rooted directly in the product — Snickers is the most satisfying bar with the most nuts. This GWTB powered a platform ("You're Not You When You're Hungry") that has run for over a decade across dozens of campaigns.
 
+<!-- runtime:cut -->
+
 **Example (Google Loretta — reframing a negative)**:
 ```
 GET web users
@@ -105,13 +107,19 @@ BY asking them to tag restaurants caught in the act
 ```
 Note: Even at the tactical level, the GWTB stays focused on audience, problem, goal, and creative unlock. Channel decisions belong in Step 9 (Small Ideas).
 
+<!-- /runtime:cut -->
+
 ---
 
 ### GWTB Quality Rubric
 
 **The Craft of Compression**: Shorter is not the goal. Precision is the goal, and precision usually results in shorter. A great GWTB line is not one where words were cut — it's one where words were *chosen* so carefully that each one carries the weight of the ten that were removed.
 
+<!-- runtime:cut -->
+
 This is similar to visual storytelling. A great director can imply an entire character in a single scene without a word of dialogue: What cigarettes does the protagonist smoke? How do they light it? What's their face doing as they exhale? Do they offer one to the person they're with? Every detail was selected because it implies something larger — class, mood, relationship, status — without stating it. Nothing is said, everything is communicated.
+
+<!-- /runtime:cut -->
 
 That's the standard for a GWTB line. "Ole-skool music heads" isn't shorter than "Gen-X music lovers" — it's the same length. But it carries attitude, self-image, and cultural identity that the other one doesn't. The words were chosen, not just written. There is an inherent quality to a campaign when time is spent on the strategy to sharpen it — to make it specific and direct, while also holding the emotional weight of what you want the audience to feel.
 
@@ -229,6 +237,8 @@ The GWTB should tell a story — each line should connect to the next. Don't put
 
 ---
 
+<!-- runtime:cut -->
+
 **Three Message Types — What Each GWTB Line Actually Does**
 
 95% of ads highlight one of three messages. Each maps to a GWTB line:
@@ -242,6 +252,8 @@ The GWTB should tell a story — each line should connect to the next. Don't put
 This mapping is useful for two reasons: it helps identify what your GWTB is actually *saying* in each line, and it helps diagnose when a line is doing the wrong job (e.g., a BY that describes the problem instead of the reframe).
 
 ---
+
+<!-- /runtime:cut -->
 
 ### Strategy Checkpoint Logic
 

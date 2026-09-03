@@ -9,8 +9,12 @@ version: 1.0.0
 
 ### 4. Role (The Brand's Superpower)
 
+<!-- runtime:cut -->
+
 **4.1 Also Known As**
 *Business Opportunity, Product Purpose, Brand Promise, Job at Large, Value Proposition, Our Niche Occasion, Why Us?, The Protagonist's Chapter*
+
+<!-- /runtime:cut -->
 
 **4.2 The Job**: The Role is the protagonist's introduction chapter. After establishing the world (Zeitgeist), the conflict (Tension), and the shift in understanding (Insight), the story now pivots to: who or what is going to do something about this?
 
@@ -20,7 +24,11 @@ Critically, **the Role is not always a brand or product.** It can be an idea, a 
 
 **4.2.2 The Pivotal Injection Point**: This is where the brand enters the larger setting. The Zeitgeist, Tension, and Insight built a world that exists independently of the brand. The Role is the moment where the brand steps into that world — not to hijack it, but because it has something specific to contribute.
 
+<!-- runtime:cut -->
+
 **4.3 Cultural Analogy — The Spider-Man Analogy (Step 4: The Character Reveal)**: After the opening scenes establish the world and the problem, the film cuts to a chapter where we follow Peter Parker. We see he's a high school kid with ordinary problems. But we also see the qualities that will make him Spider-Man later — he's kind, he's righteous, he speaks up for the weak. The film doesn't show him fighting villains yet. It shows us *who he is* and *what makes him uniquely suited* to be the hero of this particular story. That's the Role step. It introduces the protagonist and highlights the specific quality that will matter.
+
+<!-- /runtime:cut -->
 
 **4.4 Definition**: The specific quality, utility, or superpower of the brand, product, or idea that is relevant to the Tension and Insight at hand. Not the full list of what the brand can do — the one thing that earns it a place in this particular story.
 

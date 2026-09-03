@@ -18,7 +18,11 @@ The Tension step takes the context you just established and points out that some
 
 The core objective is to **rapidly inject a dramatic element that creates urgency and demands the audience's full attention**. It's the moment in the film where the audience leans forward.
 
+<!-- runtime:cut -->
+
 **2.3 Cultural Analogy — The Spider-Man Analogy (Step 2: The Pressure Cooker)**: Two tension threads run simultaneously. Peter is invisible at school — bullied, powerless, seen by no one who matters. Norman Osborn is under immense pressure to prove his serum works or lose his company to a military rival. Neither thread resolves the other. Both press down. This layered pressure is what forces movement — without it, Peter stays a student and Norman stays a CEO. Notice that the tension is not singular. The best Tensions rarely are. They're dual, pressing from different directions, creating a convergence point the story can't avoid.
+
+<!-- /runtime:cut -->
 
 **2.4 Definition**: The conflict within the belief established by the Zeitgeist. The Tension is not free-floating conflict — it lives *inside* the context you set up. It is a paradox, a challenge, or a sharp observation about the current state. It introduces the dramatic element that makes the audience care.
 
@@ -66,7 +70,11 @@ The core objective is to **rapidly inject a dramatic element that creates urgenc
 
 If your Tension reads like something a project manager would write in a status update, it's a symptom. If it reads like something a journalist would put in a headline, it's getting closer to the actual problem.
 
+<!-- runtime:cut -->
+
 *2.9 AI Guidance — to be written*
+
+<!-- /runtime:cut -->
 
 **2.10 Examples**: "If travel is about thrills, why do we seek what we recognize?"
 

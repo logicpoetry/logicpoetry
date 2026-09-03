@@ -23,6 +23,8 @@ The first three steps function as a **Logic Stack**. They are not three separate
 
 If any of these three connections breaks, the stack is not logic — it's word salad with strategic formatting.
 
+<!-- runtime:cut -->
+
 **Applied Example A — iCHEF (F&B Operations Software, Taiwan)**
 *Strategy: Reframing "Software" as a "Specialized Hire" to address Opportunity Cost.*
 
@@ -36,6 +38,8 @@ If any of these three connections breaks, the stack is not logic — it's word s
 | | Key Insight Statement | **Hiring a system is cheaper than hiring yourself. The boss is their own most expensive and least-trained employee.** |
 
 *Connectivity check:* Because there are no staff (ZG), the owner does the accounting (Observation) ✓. Because the owner is exhausted by a double shift (TN), they resist adding "extra homework" (Friction) ✓. By "hiring" the system (Explanation), the owner can return to being a chef (Desire) ✓.
+
+<!-- /runtime:cut -->
 
 **Applied Example B — QLiEER (Appointment Booking Services, Taiwan)**
 *Campaign: 少說歹勢 / "One Less Paiseh" — Final confirmed version*

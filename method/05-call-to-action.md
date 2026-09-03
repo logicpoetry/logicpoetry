@@ -9,16 +9,24 @@ version: 1.0.0
 
 ### 5. Call to Action (CTA)
 
+<!-- runtime:cut -->
+
 **5.1 Also Known As**
 *Change in Behavior, Catalyst for Change, Campaign Rally, One Simple Task, The #Hashtag, Communication Objective*
+
+<!-- /runtime:cut -->
 
 **5.2 The Job**: The CTA is where the story asks something of the audience. It is the step that bridges the brand's role with a desired outcome — inspiring or facilitating a change in the audience's behavior, perception, or participation.
 
 **5.2.1 Why This Step Is Explicit**: Many campaigns are built without a clear CTA — and that means the campaign was all for nothing. If there's nothing for people to do, think about, or participate in after experiencing the campaign, the story went nowhere. The CTA is the end result the client is actually looking for. It is the step that answers: "What changed because this campaign existed?" This is why the Logic Poetry makes it a named, non-skippable step — because too many teams build beautiful stories that go nowhere.
 
+<!-- runtime:cut -->
+
 **5.2.2 Why the CTA Sits at Step 5 (Not the Start)**: Most brief templates put the objective at the top. By the time you're deep into the creative solution, the audience has forgotten what they were solving for. The Logic Poetry deliberately places the CTA at the threshold between the problem space (Steps 1-3) and the solution space (Steps 6-9), with the Role (Step 4) as the bridge. This means the CTA functions as a recap of the objective right before the solutions begin. When the Strategy and Creative land one or two steps later, the objective is still fresh — the solution feels like it directly answers something specific, not something that was set up 20 minutes ago.
 
 **5.3 Cultural Analogy — The Spider-Man Analogy (Step 5: The Mission Crystallizes)**: Uncle Ben dies. The grief settles. Peter stands in the rain and realizes his purpose isn't just to have powers — it is to *act*. The objective is now set: protect the city. He isn't just "Peter Parker who can do things" anymore. He is a defender with a specific mission. The passive state turns into an active direction. The CTA is that threshold moment — the point at which everything that came before (world, conflict, understanding, character) converts into a single forward motion.
+
+<!-- /runtime:cut -->
 
 The CTA must be simple and single-minded. Whether it's a direct product action or an inspired movement, it has to be reducible to one clear thing the audience can do, feel, or join. If it takes more than one sentence to explain the ask, it's not a CTA yet.
 

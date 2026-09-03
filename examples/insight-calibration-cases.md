@@ -23,6 +23,8 @@ These cases are organized as pure Insight → Strategy → Creative chains. They
 
 ---
 
+<!-- runtime:cut -->
+
 **2. Tencent Foundation / China Organ Donation — "A Team of One"** *(Loong, Beijing — ADFEST Grande for Humanity)*
 - **Context**: Boost voluntary donor registration in China using a human interest story that communicated one donor's impact on many lives.
 - **Insight**: An organ donor lives on through their recipients. *(Insight type: Human — the most distilled possible statement of an emotional truth)*
@@ -31,6 +33,8 @@ These cases are organized as pure Insight → Strategy → Creative chains. They
 - **What the insight unlocks**: The insight is so clean it becomes the creative directly (Insight-as-Creative). The "living on through recipients" truth turned into a team sport — because sport is the one cultural context where individual contribution to a collective is most viscerally legible.
 
 ---
+
+<!-- /runtime:cut -->
 
 **3. CALM — "Project 84"** *(adam&eveDDB)*
 - **Context**: Male suicide is the UK's biggest killer of men under 45. People weren't talking about how to fix it.
@@ -41,6 +45,8 @@ These cases are organized as pure Insight → Strategy → Creative chains. They
 
 ---
 
+<!-- runtime:cut -->
+
 **4. Samsung — "Listen to Your Heart"** *(Cheil Singapore)*
 - **Context**: Samsung wanted its noise-cancelling headphones and heart rate monitor watch positioned outside fitness category norms, cross-promoting their complementary features.
 - **Insight**: What we hear affects our heart. *(Insight type: Brand/Product — the literal product truth becomes an emotional truth. The feature connection between headphones and heart rate monitor is also an emotional connection)*
@@ -49,6 +55,10 @@ These cases are organized as pure Insight → Strategy → Creative chains. They
 - **What the insight unlocks**: The Insight-as-Creative path. The dual product brief (headphones + heart monitor) seemed like a feature-stacking problem. The insight reframed it as one idea: hearing and heartbeat are the same emotional system. No product specs needed.
 
 ---
+
+<!-- /runtime:cut -->
+
+<!-- runtime:cut -->
 
 **5. Juanita's Foods — "Nacho Cheese Dip-Spenser"** *(BBDO Los Angeles)*
 - **Context**: Post-COVID, customers eager to socialize but anxious about germs. Juanita's wanted to promote its Nacho Cheese Sauce.
@@ -59,6 +69,10 @@ These cases are organized as pure Insight → Strategy → Creative chains. They
 
 ---
 
+<!-- /runtime:cut -->
+
+<!-- runtime:cut -->
+
 **6. Coca-Cola Brazil — "Together the Magic Happens"** *(WMcCann)*
 - **Context**: Coca-Cola's long Santa Claus tradition. For a seasonal campaign in Brazil, they wanted underrepresented communities to feel seen at Christmas.
 - **Insight**: Santa Claus is only special if he represents us all. *(Insight type: Cultural — names the implicit contract between a cultural icon and its audience: an icon that excludes cannot truly represent the magic it claims)*
@@ -67,6 +81,8 @@ These cases are organized as pure Insight → Strategy → Creative chains. They
 - **What the insight unlocks**: The Hypocrisy Lens at work. Coca-Cola had been the keeper of the Santa image for decades. The insight named the gap between the brand's promise ("Coca-Cola brings people together") and the exclusionary reality of who their Santa represented. Fixing the icon was fixing the brand.
 
 ---
+
+<!-- /runtime:cut -->
 
 **7. IMVEXXY — "Long May She Reign"** *(McCann NY)*
 - **Context**: IMVEXXY (estradiol vaginal inserts) wanted to increase preference among menopausal women while challenging a healthcare taboo.
@@ -86,6 +102,8 @@ These cases are organized as pure Insight → Strategy → Creative chains. They
 
 ---
 
+<!-- runtime:cut -->
+
 **9. Finish (Turkey) — "Finish Water Index"** *(Turkey)*
 - **Context**: Finish (dishwasher tablets) wanted to strengthen brand preference via ESG. Turkey faces a severe water scarcity problem.
 - **Insight**: Water is a scarce resource, subject to market conditions — like any high-value commodity. The most vital resource has become the most undervalued entity. *(Insight type: Category/Cultural — the insight reframes an environmental problem through a financial frame the audience already understands and responds to.)*
@@ -94,6 +112,8 @@ These cases are organized as pure Insight → Strategy → Creative chains. They
 - **What the insight unlocks**: Category Reframing (Creative Move #10). Water is not treated seriously because it lacks the market signals people use to assign value (price fluctuation, scarcity indicators, financial language). The index gave water those signals. The brand earned ESG credibility by doing the intellectual work, not just claiming commitment.
 
 ---
+
+<!-- /runtime:cut -->
 
 **10. Jif — "The Lil Jif Project"** *(Publicis New York PSOne)*
 - **Context**: As peanut butter commoditized, Jif faced price competition and budget pressure. They sought to use popular culture rather than traditional CPG messaging.

@@ -9,14 +9,22 @@ version: 1.0.0
 
 ### 7. The Creative
 
+<!-- runtime:cut -->
+
 **7.1 Also Known As**
 *Creative Platform, Tagline, Slogan, Campaign Title, The Surprise, Campaign Launchpad, Campaign Vehicle, Overarching Theme, Show Title, Creative Angle, Platform Idea, The Hook, The Line*
+
+<!-- /runtime:cut -->
 
 **7.2 The Job**: The Creative is where all the dots connect. Steps 1 through 6 have built a logical chain — context, conflict, reframe, protagonist, objective, and a validated strategy. The Creative is the moment where that chain becomes something that triggers an emotional response: delight, surprise, recognition, weight, wit, or provocation.
 
 It is the expression layer. Not the strategy itself, but the *way the strategy is expressed* such that people feel something when they encounter it. A good strategy that is badly expressed dies in a deck. A good strategy that is brilliantly expressed becomes a campaign people remember for years.
 
+<!-- runtime:cut -->
+
 **7.3 Cultural Analogy — The Spider-Man Analogy (Step 7: Swinging Through Manhattan)**: Spider-Man appears in public for the first time. The city sees him. But they don't see Peter Parker, student, bitten by a radioactive spider. They see the red and blue suit. They see the swinging arc between buildings. They hear the quips. "Your friendly neighborhood Spider-Man." The same hero, the same powers, the same mission — but the costume and name are what make him an *icon* rather than just a person who can do things. The Creative is that costume. It doesn't change what's underneath — the strategy is the same — but it determines how the world receives it.
+
+<!-- /runtime:cut -->
 
 **7.4 Definition — What "The Creative" Actually Is**: It is not one fixed thing. Depending on the brief, The Creative might take the form of:
 
@@ -174,6 +182,8 @@ The practical implication: if the brief is for a brand platform (long-term), tes
 
 ---
 
+<!-- runtime:cut -->
+
 ### HOW TO REVERSE ENGINEER A CREATIVE
 
 **The honest caveat first**: Most award-winning case studies are post-rationalized. The cleaned-up narrative in the case study film is not how the idea actually arrived — the real process was messier, accidental, and nonlinear. Reverse engineering is not about reconstructing the exact creative process. It's about decoding the underlying strategic logic so you can build pattern recognition. The more creatives you decode, the faster you get at recognizing which moves are in play before you've fully consciously processed them.
@@ -223,6 +233,8 @@ The practical implication: if the brief is for a brand platform (long-term), tes
 - R6: E1 (The Data Portrait / Behavioral Mirror) — uses real user output to reflect the audience's own potential back at them. + B21 (Comparison Subversion) — competes not against Samsung but against professional photography. By comparing to a superior category, it elevates the product beyond the smartphone category entirely.
 
 ---
+
+<!-- /runtime:cut -->
 
 ### THE CREATIVE EFFECTIVENESS LADDER
 

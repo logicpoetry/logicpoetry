@@ -16,7 +16,11 @@ version: 1.0.0
 
 It should be single-minded: one idea, one execution, one unmistakable message. If you need to explain the Big Idea with a paragraph, it's not big enough. It should be describable in one sentence and visualizable in one image.
 
+<!-- runtime:cut -->
+
 **8.3 Cultural Analogy — The Spider-Man Analogy (Step 8: The Queensboro Bridge)**: The Green Goblin holds MJ in one hand and a cable car full of children in the other. He drops both. Spider-Man has to save them. This is the one moment that defines everything — not a montage of heroic acts, not a series of smaller saves. One defining action that proves who this hero is to the entire city. The Big Idea is that scene. It doesn't summarize the campaign. It *is* the campaign — the single execution you'd make if you only had the budget for one thing, and it would still be enough.
+
+<!-- /runtime:cut -->
 
 **8.4 Definition**: The "Curtain Raiser." A single-minded execution that brings the platform to life immediately and unmistakably.
 

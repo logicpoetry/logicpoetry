@@ -18,7 +18,11 @@ The critical principle: **you are bringing the brand into the world's conversati
 
 This is why campaigns work. A campaign is not an ad for the brand. A campaign makes the brand relevant to something that's already relevant to people. The Zeitgeist is where you select that "something."
 
+<!-- runtime:cut -->
+
 **1.3 Cultural Analogy — The Spider-Man Analogy (Step 1: The Opening Scene)**: Raimi's 2002 film opens on Queens: the yellow school bus, the high school hierarchy, the cramped apartment, the way the world treats a nerdy kid who doesn't fit. We don't know the protagonist yet. We just know the world he lives in. Every detail is legible without explanation — we understand the social rules, the power dynamics, the stakes — because we already live in a version of this world. That's the Zeitgeist. It doesn't introduce the story. It *activates* the audience's existing understanding of the story they're about to watch.
+
+<!-- /runtime:cut -->
 
 **1.4 Definition**: What the world currently believes to be true. The cultural script, the unspoken consensus, or the "poetic norm." The Zeitgeist lands on established wisdom, knowledge, or stereotypes that already exist — not things the brand needs to teach.
 
@@ -65,9 +69,13 @@ This is why campaigns work. A campaign is not an ad for the brand. A campaign ma
 
 **1.7 Interface**: The Zeitgeist constrains what Tensions are valid. The type of Zeitgeist lens chosen shapes the type of Tension that naturally follows (e.g., a Moral Background leads to a Moral Conflict; a Universal Truth leads to Where the Consensus Cracks).
 
+<!-- runtime:cut -->
+
 *1.8 Quality Tests — to be written*
 
 *1.9 AI Guidance — to be written*
+
+<!-- /runtime:cut -->
 
 **1.10 Examples**: "Travel is about new places, new thrills, new people."
 

@@ -9,10 +9,14 @@ version: 1.0.0
 
 ### 3. Insight (Key Insight Statement)
 
+<!-- runtime:cut -->
+
 **3.1 Also Known As**
 * Key Insight Statement, Revelation, Inflection Point, Unspoken Truth, Hidden Desire, Light Bulb Moment, A-HA! Moment, Epiphany, Candid Moment, Underlying Motivation, The Turn, The Flip, The Reframe, The Unlock, The Human Truth, The Core Truth, The So What, The Because, The Real Tension, The Emotional Truth, Consumer Truth, Brand Truth, Cultural Truth, The Strategic Unlock, The Tension Release, The Why Behind the What, 恍然大悟、會心一笑*
 
 **3.1.1 Alias Recognition Note**: In real-world briefs, decks, and proposals, the Insight step is rarely labelled "Insight." When auditing or dissecting existing work, look for any of the above labels — or for an unlabelled statement that sits between the problem description and the brand's role, and that reframes how you see the problem. That's the insight, regardless of what it's called. The test is functional, not terminological: does it explain why the friction exists, and does it make the brand's entry feel earned?*
+
+<!-- /runtime:cut -->
 
 **3.2 The Job**: The Insight is the reframe that makes the rest of the campaign feel inevitable.
 
@@ -20,7 +24,11 @@ You've set the scene (Zeitgeist). You've named the conflict (Tension). The audie
 
 It's not the answer. That's critical. The Insight is not the solution (that's the brand's Role). The Insight is the *shift in understanding* that makes the right solution suddenly obvious. In movie terms: the hero doesn't defeat the villain at this moment — they *see* the villain differently. They notice the weakness. And once they see it, they can't unsee it, and neither can the audience.
 
+<!-- runtime:cut -->
+
 **3.3 Cultural Analogy — The Spider-Man Analogy (Step 3: The Morning After)**: Peter wakes up. He reaches for his glasses — but his vision is already perfect. He looks at his hands. He looks at his body. He catches a lunch tray mid-fall with a reflex that shouldn't exist. Nothing in the world has changed. But his relationship to it has fundamentally shifted. "With great power comes great responsibility." Uncle Ben's line doesn't introduce a new concept — it names what Peter already felt but couldn't articulate. That's the Insight. It doesn't create the truth. It surfaces it. The world was always this way. The Insight is the moment you finally see it clearly.
+
+<!-- /runtime:cut -->
 
 **What makes it an Insight and not just an observation**: An observation says "here's what's happening." An Insight says "here's what's *actually* going on underneath, and you already knew it but couldn't name it." The test is recognition, not education. You're not teaching the audience something new. You're articulating something they already felt but never had the words for. That's why the reaction is "yes" — not "oh, interesting." It's a moment of identification, not information.
 
@@ -44,6 +52,8 @@ This three-reaction test is attributed to Arthur Koestler. What all three reacti
 
 Target reactions when a real insight lands: "I hadn't thought of it that way." "Everything suddenly makes sense." "I can't believe I didn't see this before." "This changes everything." "I feel like a light bulb switched on." "That gives me chills." "Penny dropped." "This feels like a breakthrough." "My mind is blown." If your insight doesn't trigger something in this register, dig deeper.
 
+<!-- runtime:cut -->
+
 **3.8.3 The Five Cognitive Attributes**:
 A real insight follows this sequence in the listener's mind:
 1. **Impasse** — there's a problem that needs a solution (established by Tension)
@@ -53,6 +63,8 @@ A real insight follows this sequence in the listener's mind:
 5. **Pleasant reaction** — there's satisfaction or even delight in the reframe
 
 Note: these cognitive attributes can only be validated by the person who has the problem (your target audience), not by the strategist in the room. Make sure the target audience actually experiences the tension before testing whether the insight lands.
+
+<!-- /runtime:cut -->
 
 **3.8.4 Truth vs Revelatory Truth — The Pampers Test**:
 - Truth: "Mothers have never been busier than they are now." Everyone nods. No one's perspective changes. It's a fact, not an insight.
@@ -70,13 +82,23 @@ The test: state your insight. If it could have been written by someone who has n
 
 - **Seamless** — Zeitgeist: NYC is saturated with food delivery apps all offering sign-up discounts. Tension: Transplants (new arrivals) see no difference between any of them. Insight: In the suburbs, regular food delivery is a sign of failure — you're a slob on the couch. In New York, it's a sign of success — you have a social schedule and don't have time to cook. For transplants whose worst fear is looking like a tourist, food delivery is key to feeling like a real New Yorker. (The reframe: delivery isn't laziness, it's belonging.)
 
+<!-- runtime:cut -->
+
 - **Coles** — Zeitgeist: Australians have been through extended lockdowns and lost some of their spirit. Tension: People are isolated and craving connection, but the supermarket conversation is stuck on price and discounts. Insight: Food is the connector that brings people together — and Australians want to share it outdoors, with family and friends. (The reframe: the value of food isn't its cost, it's what it enables.)
+
+<!-- /runtime:cut -->
 
 - **Cheetos** — Zeitgeist: Gen Z is pressured to optimize every minute — hustle culture says idle time is wasted time. Tension: There's no socially acceptable excuse to just do nothing. Insight: Cheetos dust on your fingers physically prevents you from doing anything else. (The reframe: the product's "flaw" is actually its superpower — it forces you to stop.)
 
+<!-- runtime:cut -->
+
 - **PlayStation** — Zeitgeist: Gamers are culturally dismissed — athletes are admired and cheered for, while gamers are seen as geeks. Tension: Gamers feel their wins count less than "real" sports victories. Insight: The emotion you feel winning FIFA 21 on PlayStation is as real as when you win your indoor soccer league. (The reframe: the feeling is identical — only the cultural respect is missing.)
 
+<!-- /runtime:cut -->
+
 - **Adidas "Beyond the Surface"** — Zeitgeist: 88% of UAE women feel uncomfortable in swimwear. Tension: Women in conservative societies face judgment when swimming in public. Insight: Swimwear is judged when you're outside the water, but inside the water you're free from judgment. (The reframe: the water line is the boundary — above it, society watches; below it, you're free.)
+
+<!-- runtime:cut -->
 
 - **Virgin Australia** — Zeitgeist: Flyers hate the middle seat — it's on every list of air travel complaints. Tension: Unassigned flyers rely on random chance for seating. Insight: Getting the middle seat feels like losing the lottery. (The reframe: if it feels like a lottery, make it an actual lottery — with prizes.)
 
@@ -86,9 +108,13 @@ The test: state your insight. If it could have been written by someone who has n
 
 - **Pampers** — Tension: Parents don't feel confident when outside with the baby — messes happen multiple times a day. Insight: When a baby gives that far-away stare, it strikes fear into an unprepared parent. (The reframe: a visual, specific, universal moment that every parent recognizes — and it sparks a chuckle.)
 
+<!-- /runtime:cut -->
+
 - **Deliveroo** — Zeitgeist: Delivery has become a commodity game with cheap alternatives flooding the market. Tension: Consumers see no difference between delivery apps — it's all about price. Insight: A dish is only as good as what it's like when it's delivered. No matter how good the chef, ingredients, or restaurant — if it's delivered badly, it's ruined. (The reframe: the delivery process isn't a commodity add-on, it's the thing that determines whether the food is any good. Led to a cookbook compiled from one-star reviews of competitors.)
 
 **3.9 AI Guidance**:
+
+<!-- runtime:cut -->
 
 **3.9.1 Why Step 3 Is the Most Human-Dependent Step in the Framework**
 
@@ -97,6 +123,8 @@ AI has fundamentally changed what strategy work looks like. The "thinking theate
 Insight is where that authority is earned. You cannot outsource recognition to a machine. LLMs generate volume. Humans recognize the winner. Step 3 is the non-negotiable human step in the entire framework — the one that separates a strategist who can lead a room from one who just assembles decks.
 
 This is why Step 3 is a mandatory pit stop. It is not optional. It is not something the AI should power through unilaterally. Generate the field — then wait.
+
+<!-- /runtime:cut -->
 
 **3.9.2 The Anti-Insight Problem**:
 
@@ -174,6 +202,8 @@ If a column feels vague, that's the signal to go back to raw material — not fo
 - Key Insight Statement: **The pride of winning is universal, but society decides which arenas count as real competition.**
 - What it unlocked: "Greatness Awaits" — an invitation for gamers to claim the legitimacy society withholds. Became the highest-selling console launch in gaming history.
 
+<!-- runtime:cut -->
+
 *Equinox:*
 - Observation: Young professionals turn down spontaneous physical activities.
 - Desire: They want a life worth talking about — adventures, stories, experiences.
@@ -187,11 +217,15 @@ If a column feels vague, that's the signal to go back to raw material — not fo
 - Friction: I enjoy the puzzles, but they feel hard to justify — they produce nothing useful.
 - Key Insight Statement: **When we measure time through productivity, enjoyment alone feels like poor justification for how we spend it.** The puzzle isn't the problem. The way we've been taught to value time is the problem.
 
+<!-- /runtime:cut -->
+
 *Scrolling (interactive exercise — Julian Cole):*
 - Observation: People scroll when mentally exhausted.
 - Desire: They want their brain to stop — a real break.
 - Friction: Scrolling feels restful but leaves them more drained.
 - Key Insight Statement: **Passive consumption looks like rest but functions like more stimulation — the brain can't recover if it's still processing.** It's not a break. It's empty calories.
+
+<!-- runtime:cut -->
 
 *Supermarket Donation (personal conflict example — Julian Cole):*
 - Observation: He walked past a food donation stand outside a supermarket and didn't donate.
@@ -199,9 +233,13 @@ If a column feels vague, that's the signal to go back to raw material — not fo
 - Friction: Being publicly asked didn't feel right — it felt like pressure.
 - Key Insight Statement: **Generosity feels virtuous when freely chosen. It feels like coercion when publicly requested.** The same act feels entirely different depending on who initiates it.
 
+<!-- /runtime:cut -->
+
 ---
 
 **Where to Find Raw Insight Material — The Mining Grounds**
+
+<!-- runtime:cut -->
 
 Insights don't come from sitting in a room thinking. They come from mining raw material in the right places, then running it through the Excavation Formula above.
 
@@ -239,6 +277,8 @@ The same raw material can yield multiple legitimate insight framings. This is no
 
 The most campaign-leverageable framing here would depend on the brand and brief. A razor brand for younger men might use the insecurity version. A premium grooming brand for older men might use the aging version. The Comedian gives you the raw material; the Excavation Formula and the brief tell you which framing to use.
 
+<!-- /runtime:cut -->
+
 **4. AI / The Belief Breaker (The Cliché Flip)**
 AI is structurally terrible at generating insights directly (see Anti-Insight Problem above). But it's excellent at generating the category clichés that insights need to overturn. Use it as a provocation engine, not an answer engine.
 - Step 1: "What are 10 commonly held beliefs (or clichés) about [category]?"
@@ -271,6 +311,8 @@ If you're explaining → you might have an insight. Run it through the Three Fil
 
 **LLM self-correction instruction**: If an insight candidate fails the Beard Test, do not rewrite it with fancier language. Instead, ask: *"What is the unspoken rule of society, the category, or the audience's psychology that makes this behavior mandatory or inevitable?"* Shift from describing the action to explaining the system. That's where the real insight lives.
 
+<!-- runtime:cut -->
+
 **Additional Worked Example — Grooming Signal** *(from Julian Cole's custom GPT output, same class):*
 
 | | OBSERVATION | DESIRE | TENSION | INSIGHT |
@@ -278,6 +320,8 @@ If you're explaining → you might have an insight. Run it through the Three Fil
 | **Grooming Signal (AI-assisted)** | Middle-aged consumers prefer understated brands and subtle signals of status over loud, obvious luxury. | They want to feel confident and respected. | They still want to signal status, but don't want to appear like they're trying too hard — overt status signals feel desperate after a certain age. | **Middle-aged confidence is expressed through subtle signals rather than loud displays.** |
 
 What this produced as a creative direction: *"Grooming becomes a daily ritual of self-determination — a place to reclaim agency over change."* Note how the Insight is doing the heavy lifting: it explains *why* the understated preference exists (signaling without appearing to signal), which is the real strategic problem to solve.
+
+<!-- /runtime:cut -->
 
 ---
 
@@ -355,6 +399,8 @@ Sometimes the Insight is so sharp, so perfectly compressed, and so immediately r
 
 This is the highest-efficiency outcome in the framework. It means the excavation was so precise that the raw material is already the finished product.
 
+<!-- runtime:cut -->
+
 - **Snickers: "You're Not You When You're Hungry"** — The insight that hunger changes your personality didn't need translation into a separate creative idea. The insight IS the tagline. It has run for over a decade across dozens of executions because the truth it names is universal and endlessly reproducible.
 - **Hinge: "The dating app designed to be deleted"** — The Category Insight (dating apps are built to keep you swiping, not to help you find someone) became the brand's promise verbatim. The insight IS the positioning.
 - **Cheetos dust** — The Brand/Product Insight (the dust physically prevents you from doing anything else) became the campaign idea. The product flaw IS the alibi for doing nothing.
@@ -362,7 +408,11 @@ This is the highest-efficiency outcome in the framework. It means the excavation
 
 **When to recognize this opportunity**: If, after articulating the insight, the room says "that's the line" — trust that reaction. Don't manufacture a creative layer on top of something that's already arrived. Flag it. Propose treating the insight as the working Creative line.
 
+<!-- /runtime:cut -->
+
 **Important — the sequence still runs**: Insight-as-Creative does not mean skipping Steps 4, 5, and 6. It means the Creative at Step 7 is already written — the insight IS the line. But Steps 4 (Role), 5 (CTA), and 6 (GWTB) still execute in full, because they validate whether the insight actually holds up as a campaign platform. The GWTB in particular will confirm whether the insight-as-line earns its place in the BY — or reveal that it's still only an insight, not a campaign position. If it flows cleanly through the GWTB, you have a Creative. If it doesn't, you need to keep developing.
+
+<!-- runtime:cut -->
 
 **When it doesn't work**: Not all insights can survive as campaign lines. Insights that explain a structural or systemic truth often need creative translation to become emotionally resonant. Only insights that are already *felt* as well as understood — the ones that trigger the "ha" or "aha" reaction on first hearing — are candidates for this path.
 
@@ -374,6 +424,8 @@ This is the highest-efficiency outcome in the framework. It means the excavation
 3. Does the Insight's Explanation satisfy the Desire in a way that resolves the Tension? *(Because we understand the real cause → the brand's role becomes obvious.)*
 
 If any connection breaks, go back and fix it at the broken step — not downstream. A broken Logic Stack cannot be rescued by a clever creative platform. See the **LOGIC STACK** section immediately below for worked examples.
+
+<!-- /runtime:cut -->
 
 **How the Insight maps to the GWTB brief structure**: The slides from Julian Cole's class show the mechanical connection explicitly:
 

@@ -16,7 +16,11 @@ version: 1.0.0
 
 Small Ideas solve a specific problem: the disconnect between creative and media. A brilliant creative idea that only works in one format is a one-off, not a campaign. Small Ideas ensure the idea is *built out in a way that makes sense for each environment it shows up in* — optimized for the channel, the audience behavior in that channel, and the stage of the customer journey.
 
+<!-- runtime:cut -->
+
 **9.3 Cultural Analogy — The Spider-Man Analogy (Step 9: The City Responds)**: The Daily Bugle runs headlines. Kids at school wear Spider-Man masks. New Yorkers throw garbage at the Green Goblin from the Queensboro Bridge to help him. The idea of the hero has traveled beyond the one man — it now lives in newsstands, on TV, in the streets, in the behavior of ordinary people. Spider-Man didn't orchestrate any of that. The idea did. Small Ideas are how you build the conditions for a campaign to travel the same way — showing up in the right form, at the right moment, in the right environment, so the idea propagates on its own logic.
+
+<!-- /runtime:cut -->
 
 **9.4 Definition**: Amplifiers. How the Big Idea travels across Paid, Earned, Shared, and Owned (PESO) channels, adapted for each environment while maintaining the same core message.
 

@@ -6,6 +6,7 @@ market: UK
 kind: model-answer
 steps: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 calibration: true
+runtime: true
 version: 1.0.0
 ---
 
@@ -80,4 +81,8 @@ The line is the strategy. The creative is the line. The catalogue does the rest.
 
 ---
 
+<!-- runtime:cut -->
+
 *Sources: Creative Review (Annual Awards, Honourable Mention — Advertising, Print), D&AD Awards Archive, The DCA, Cut+Run, case-study video. Created by Who Wot Why for Spotify UK & Ireland (2019). Senior Art Director: Jack Walker. Senior Copywriter: Ali Dickinson. ECD: Sean Thompson.*
+
+<!-- /runtime:cut -->

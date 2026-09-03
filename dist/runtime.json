@@ -1,0 +1,128 @@
+{
+  "version": "1.0.0",
+  "sha256": "d4266d04040d3ad69b3b3f457c403512b786c8451a3e8e8ae6c76a1ce300692f",
+  "bytes": 157886,
+  "est_tokens": 44051,
+  "modules": [
+    {
+      "id": "method/OPERATING-MANUAL.md",
+      "bytes": 4471,
+      "est_tokens": 1241
+    },
+    {
+      "id": "method/00-core-philosophy.md",
+      "bytes": 1737,
+      "est_tokens": 482
+    },
+    {
+      "id": "method/01-zeitgeist.md",
+      "bytes": 4250,
+      "est_tokens": 1184
+    },
+    {
+      "id": "method/02-tension.md",
+      "bytes": 6263,
+      "est_tokens": 1742
+    },
+    {
+      "id": "method/03-insight.md",
+      "bytes": 31508,
+      "est_tokens": 8752
+    },
+    {
+      "id": "method/03b-logic-stack.md",
+      "bytes": 3380,
+      "est_tokens": 952
+    },
+    {
+      "id": "examples/insight-calibration-cases.md",
+      "bytes": 6056,
+      "est_tokens": 1682
+    },
+    {
+      "id": "method/04-role.md",
+      "bytes": 7463,
+      "est_tokens": 2073
+    },
+    {
+      "id": "method/05-call-to-action.md",
+      "bytes": 9644,
+      "est_tokens": 2678
+    },
+    {
+      "id": "method/06-strategy.md",
+      "bytes": 2378,
+      "est_tokens": 660
+    },
+    {
+      "id": "method/06b-gwtb-engine.md",
+      "bytes": 13938,
+      "est_tokens": 3871
+    },
+    {
+      "id": "examples/gwtb-quality-calibration.md",
+      "bytes": 2860,
+      "est_tokens": 794
+    },
+    {
+      "id": "method/07-the-creative.md",
+      "bytes": 22253,
+      "est_tokens": 6193
+    },
+    {
+      "id": "catalog/README.md",
+      "bytes": 1899,
+      "est_tokens": 527
+    },
+    {
+      "id": "@catalog-digest",
+      "bytes": 5784,
+      "est_tokens": 1606
+    },
+    {
+      "id": "method/creative-moves.md",
+      "bytes": 3618,
+      "est_tokens": 1005
+    },
+    {
+      "id": "method/08-big-idea.md",
+      "bytes": 1966,
+      "est_tokens": 546
+    },
+    {
+      "id": "method/09-small-ideas.md",
+      "bytes": 3579,
+      "est_tokens": 994
+    },
+    {
+      "id": "method/validation-checklist.md",
+      "bytes": 1329,
+      "est_tokens": 369
+    },
+    {
+      "id": "method/behavioral-guardrails.md",
+      "bytes": 1956,
+      "est_tokens": 543
+    },
+    {
+      "id": "examples/model-answer-spotify-listen-like-you-used-to.md",
+      "bytes": 4373,
+      "est_tokens": 1214
+    },
+    {
+      "id": "examples/cases/01-matterport.md",
+      "bytes": 2401,
+      "est_tokens": 666
+    },
+    {
+      "id": "examples/cases/09-willing-hearts.md",
+      "bytes": 4086,
+      "est_tokens": 1135
+    },
+    {
+      "id": "examples/cases/12-qlieer.md",
+      "bytes": 10395,
+      "est_tokens": 3048
+    }
+  ]
+}
