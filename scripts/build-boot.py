@@ -79,7 +79,7 @@ def prompt_order(index):
         "catalog/README.md", *sorted(rel(p) for p in (ROOT / "catalog").glob("[A-L]-*.md")),
         "frameworks/README.md", *sorted(rel(p) for p in (ROOT / "frameworks").glob("[0-9][0-9]-*.md")),
         "method/debugging-suite.md", "method/creative-moves.md", "method/validation-checklist.md",
-        "method/output-models.md", "method/brief-types.md", "method/behavioral-guardrails.md",
+        "method/output-models.md", "method/soundcheck.md", "method/brief-types.md", "method/behavioral-guardrails.md",
         "examples/README.md", "examples/insight-calibration-cases.md", "examples/cases/README.md", *calib,
         "examples/gwtb-quality-calibration.md", "examples/model-answer-spotify-listen-like-you-used-to.md",
     ]

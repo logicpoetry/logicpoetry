@@ -3,7 +3,7 @@ id: method/output-models
 title: OUTPUT_MODELS
 kind: output
 part: method
-version: 1.0.0
+version: 1.0.1
 ---
 
 ## OUTPUT_MODELS
@@ -14,9 +14,17 @@ version: 1.0.0
 
 **What Deck Mode is**: Logic Poetry solves the problem. Deck Mode sells the solution. The underlying strategic logic stays identical — but the visible scaffolding softens, the language becomes more conversational, and the structure is optimized for live presentation rather than strategic documentation.
 
+**Soundcheck is part of Deck Mode.** Use it from the title outline through
+the final review: establish the audience and desired outcome, structure
+the argument, then polish the lines. Keep the nine-step logic and selected
+strategy intact. If presentation review reveals a strategic gap, return
+that decision to its human checkpoint.
+
+Read `method/soundcheck.md` in full; it is also embedded in the compiled prompt.
+
 **The core shift — from solving to selling**:
 - Internal framework labels (Zeitgeist, Tension, Insight, Role, CTA) are replaced with slide titles that a non-strategist in the room can follow immediately
-- Strategic conclusions are written as claims and provocations, not as framework outputs
+- Strategic conclusions become supported claims whose significance is clear to the audience
 - Page-to-page transitions have narrative logic, not just sequential logic
 - Emotional pacing matters — the deck should have a build, a pivot, and a payoff
 
@@ -27,12 +35,12 @@ version: 1.0.0
 - The Creative Platform as the reveal moment — the deck builds toward it
 
 **Format per slide**:
-- One punchy slide title (5 words or fewer where possible — this is the room-facing claim)
+- One title that carries the slide's point. Use as few words as preserve the argument; title-length limits come from the chosen layout, not this framework.
 - Notes = max 2 bullets (speaker guidance, not slide copy)
 - No sub-bullets
 - If bilingual output is needed: slide title in Delivery Language, with Working Language translation in notes
 
-**Narrative flow** (default — adjust to brief type):
+**Narrative flow** (default — adjust to brief type; these describe slide jobs, not finished titles):
 1. The world as it is → (Zeitgeist)
 2. The contradiction nobody talks about → (Tension)
 3. What this reveals → (Insight)
@@ -45,6 +53,11 @@ version: 1.0.0
 
 **Conversion examples — Logic Poetry language → Deck language**:
 
+These illustrate one creative route. Use the factual premises and implied
+claims only when the brief, knowledge or research supports them. Creative
+reveals and rhetorical setups have their own jobs; their wording is not a
+substitute for an unsupported claim on a content slide.
+
 | Logic Poetry label | Deck slide title (example) |
 |---|---|
 | Zeitgeist | "Taiwan's restaurant industry is running on empty" |
@@ -52,10 +65,10 @@ version: 1.0.0
 | Insight | "The boss is their own worst employee" |
 | Role | "iCHEF: the hire behind the hire" |
 | CTA | "Fire yourself. Hire better." |
-| Strategy (GWTB) | "One line that holds it all together" |
+| Strategy (GWTB) | "Free the owner from doing every job" |
 | Creative Reveal | "你最真貴 — Your Worst Employee Is You" |
 | Big Idea | "The termination letter every owner needs to send" |
-| Small Ideas | "How the idea travels" |
+| Small Ideas | "Every touchpoint turns 'fire yourself' into a next step" |
 
 **Bilingual note**: When Delivery Language differs from Working Language, the slide title should appear in the Delivery Language first. The Working Language version goes in the notes as translation context. Never subordinate the Delivery Language to the Working Language — the deck must be readable and emotionally resonant in the language it will be presented in.
 

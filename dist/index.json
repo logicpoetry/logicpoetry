@@ -46,6 +46,7 @@
     "method/creative-moves.md",
     "method/validation-checklist.md",
     "method/output-models.md",
+    "method/soundcheck.md",
     "method/brief-types.md",
     "method/behavioral-guardrails.md",
     "examples/README.md",
@@ -90,7 +91,8 @@
     "examples/model-answer-spotify-listen-like-you-used-to.md",
     "examples/cases/01-matterport.md",
     "examples/cases/09-willing-hearts.md",
-    "examples/cases/12-qlieer.md"
+    "examples/cases/12-qlieer.md",
+    "method/soundcheck.md"
   ],
   "modules": {
     "catalog/A-language-and-word-craft.md": {
@@ -728,7 +730,7 @@
       "title": "WHAT YOU ARE",
       "kind": "manual",
       "part": "method",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     "method/behavioral-guardrails.md": {
       "id": "method/behavioral-guardrails",
@@ -763,7 +765,15 @@
       "title": "OUTPUT_MODELS",
       "kind": "output",
       "part": "method",
-      "version": "1.0.0"
+      "version": "1.0.1"
+    },
+    "method/soundcheck.md": {
+      "id": "method/soundcheck",
+      "title": "Soundcheck",
+      "kind": "output",
+      "part": "method",
+      "version": "1.0.0",
+      "runtime": true
     },
     "method/validation-checklist.md": {
       "id": "method/validation-checklist",

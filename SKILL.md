@@ -44,6 +44,10 @@ A fixed nine-step chain that turns a brief into a creative platform. The labels 
 - `method/debugging-suite.md` — five checks for work that "feels flat".
 - `method/validation-checklist.md` — final gate before shipping.
 - `method/output-models.md` — Deck Mode, Session Recap, Performance Snapshot.
+- `method/soundcheck.md` — read in full when preparing or reviewing a deck.
+  Audience, argument and slide titles: structure first, then polish. Applies
+  from the title outline through final review, with the nine-step decisions
+  and human checkpoints retained.
 - `method/brief-types.md` — where Logic Poetry sits relative to other brief types.
 - `method/behavioral-guardrails.md` — what not to do.
 - `examples/` — the case library. `examples/INDEX.md` lists every case by brand, category and market; cases flagged `calibration: true` are the teaching set.

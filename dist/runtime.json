@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "sha256": "d4266d04040d3ad69b3b3f457c403512b786c8451a3e8e8ae6c76a1ce300692f",
-  "bytes": 157886,
-  "est_tokens": 44051,
+  "sha256": "a76d87a1823fa6babceb2ba8e27cc0854aa683d137ad0edb8832db1e08e7ee50",
+  "bytes": 164843,
+  "est_tokens": 45983,
   "modules": [
     {
       "id": "method/OPERATING-MANUAL.md",
-      "bytes": 4471,
-      "est_tokens": 1241
+      "bytes": 4585,
+      "est_tokens": 1273
     },
     {
       "id": "method/00-core-philosophy.md",
@@ -123,6 +123,11 @@
       "id": "examples/cases/12-qlieer.md",
       "bytes": 10395,
       "est_tokens": 3048
+    },
+    {
+      "id": "method/soundcheck.md",
+      "bytes": 6837,
+      "est_tokens": 1899
     }
   ]
 }

@@ -2,6 +2,18 @@
 
 All notable changes to Logic Poetry. Versions are git tags.
 
+## [Unreleased]
+
+### 2026-09-14 — Soundcheck for presentation arguments and titles
+
+- Added the seven-principle Soundcheck method by Nicolas Chan to Deck Mode,
+  the skill router, the compiled single-paste prompt and hosted-engine runtime.
+- Structure before polish; audience-specific significance, one governing
+  point as far as possible, flexible evidence sources and useful alternatives.
+- Replaced the five-word title target and the instruction to write
+  provocations; clarified the conditional role of the worked deck examples.
+- The nine-step sequence and the Insight/Strategy pit stops are unchanged.
+
 ## [1.0.0] — 2026-09-02
 
 First public release under the name Logic Poetry.
