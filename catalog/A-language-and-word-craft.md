@@ -4,7 +4,7 @@ title: "CLUSTER A: LANGUAGE & WORD CRAFT"
 kind: cluster
 cluster: A
 part: catalog
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### CLUSTER A: LANGUAGE & WORD CRAFT
@@ -99,5 +99,30 @@ Reverses the grammatical structure in the second clause, creating a rhythmic, me
 Takes a figurative expression, cliché, or abstract concept and renders it literally and visually. The contrast between expected figurative meaning and literal execution creates surprise.
 - "Red Bull Gives You Wings" — literally showing a person sprouting wings
 - Source: Pricken's "Take It Literally" chapter. Staple exercise at Miami Ad School and VCU Brandcenter.
+
+### Additional reproducible operations
+
+**A19. Backronym** — Build a coherent phrase whose initials reproduce an existing word in order.
+Use W07; verify initials and naturalness. TextFX ACRONYM prompt: https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js
+
+**A20. Antanaclasis** — Repeat one word with a deliberate change of sense.
+Use R14; both readings must be natural and strategically relevant. https://rhetoric.byu.edu/Figures/A/antanaclasis.htm
+
+**A21. Zeugma** — Use one governing word to connect unlike objects and meanings.
+Use R15; the second connection must carry the argument. https://www.poetryfoundation.org/education/glossary/Zeugma
+
+**A22. Homophonic Resegmentation** — Rehear a spoken seed as different word boundaries or near-homophones.
+Use W02; preserve approximate sound and create another reading. Read aloud in the intended accent. TextFX EXPLODE prompt: https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js
+
+**A23. Lipogram / Vocabulary Exclusion** — Restrict available letters or, separately, habitual category words.
+Use R16; verify the rule. A word ban is an adaptation, not a strict lipogram. https://www.oulipo.net/fr/contraintes/lipogramme
+
+**A24. S+7 Dictionary Substitution** — Replace each noun with the seventh following noun in a specified dictionary.
+Use R17 with a lexicon. Mutated text is not an authentic quotation. https://oulipo.net/contraintes/s7
+
+**A25. Seed-Context Harvesting** — Retrieve established expressions containing a seed and compare their meanings.
+Use W10; verify existence and recognition. TextFX UNFOLD prompt: https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js
+
+Existing A1 connects to W11, A6 to W06, A8 to W02/R14, and A9 to R12/R13/W10. Full procedures and checks: `method/research-operators.md`.
 
 ---

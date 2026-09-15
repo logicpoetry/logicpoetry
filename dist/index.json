@@ -1,8 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "prompt_sequence": [
     "method/OPERATING-MANUAL.md",
     "method/00-core-philosophy.md",
+    "method/research-brief.md",
+    "method/research-operators.md",
+    "method/creative-operator-routing.md",
     "method/01-zeitgeist.md",
     "method/02-tension.md",
     "method/03-insight.md",
@@ -67,9 +70,17 @@
     "examples/gwtb-quality-calibration.md",
     "examples/model-answer-spotify-listen-like-you-used-to.md"
   ],
+  "research_sequence": [
+    "method/research-brief.md",
+    "method/research-operators.md",
+    "method/creative-operator-routing.md"
+  ],
   "runtime_sequence": [
     "method/OPERATING-MANUAL.md",
     "method/00-core-philosophy.md",
+    "method/research-brief.md",
+    "method/research-operators.md",
+    "method/creative-operator-routing.md",
     "method/01-zeitgeist.md",
     "method/02-tension.md",
     "method/03-insight.md",
@@ -89,8 +100,6 @@
     "method/validation-checklist.md",
     "method/behavioral-guardrails.md",
     "examples/model-answer-spotify-listen-like-you-used-to.md",
-    "examples/cases/01-matterport.md",
-    "examples/cases/09-willing-hearts.md",
     "examples/cases/12-qlieer.md",
     "method/soundcheck.md"
   ],
@@ -101,7 +110,7 @@
       "kind": "cluster",
       "cluster": "A",
       "part": "catalog",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "catalog/B-meaning-and-reframing.md": {
       "id": "catalog/B-meaning-and-reframing",
@@ -109,7 +118,7 @@
       "kind": "cluster",
       "cluster": "B",
       "part": "catalog",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "catalog/C-structure-and-format.md": {
       "id": "catalog/C-structure-and-format",
@@ -117,7 +126,7 @@
       "kind": "cluster",
       "cluster": "C",
       "part": "catalog",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "catalog/D-culture-and-reference.md": {
       "id": "catalog/D-culture-and-reference",
@@ -125,7 +134,7 @@
       "kind": "cluster",
       "cluster": "D",
       "part": "catalog",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "catalog/E-proof-and-evidence.md": {
       "id": "catalog/E-proof-and-evidence",
@@ -165,7 +174,7 @@
       "kind": "cluster",
       "cluster": "I",
       "part": "catalog",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "catalog/J-agency-frameworks.md": {
       "id": "catalog/J-agency-frameworks",
@@ -196,7 +205,7 @@
       "title": "Creative Techniques Catalog",
       "kind": "index",
       "part": "catalog",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "examples/README.md": {
       "id": "examples/README",
@@ -223,7 +232,7 @@
         9
       ],
       "calibration": true,
-      "runtime": true,
+      "runtime": false,
       "version": "1.0.0"
     },
     "examples/cases/02-adyen.md": {
@@ -377,7 +386,7 @@
         9
       ],
       "calibration": true,
-      "runtime": true,
+      "runtime": false,
       "version": "1.0.0"
     },
     "examples/cases/10-growasia-foodmarks.md": {
@@ -542,7 +551,7 @@
       "origin": "external",
       "status": "seed",
       "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "license": "CC-BY-SA-4.0"
     },
     "frameworks/07-mcquarrie-mick-rhetorical-figures.md": {
@@ -591,8 +600,8 @@
       "kind": "framework",
       "origin": "external",
       "status": "seed",
-      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
-      "version": "1.0.0",
+      "source_note": "Procedure and primary source reviewed; a sourced campaign example remains to be added.",
+      "version": "1.1.0",
       "license": "CC-BY-SA-4.0"
     },
     "frameworks/12-phillips-mcquarrie-visual-rhetoric.md": {
@@ -601,8 +610,8 @@
       "kind": "framework",
       "origin": "external",
       "status": "seed",
-      "source_note": "Migrated from catalog cluster J. Needs a full write-up and citations.",
-      "version": "1.0.0",
+      "source_note": "Procedure and primary source reviewed; a sourced campaign example remains to be added.",
+      "version": "1.1.0",
       "license": "CC-BY-SA-4.0"
     },
     "frameworks/13-the-pratfall-effect.md": {
@@ -635,7 +644,7 @@
       "kind": "step",
       "part": "method",
       "step": "1",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/02-tension.md": {
       "id": "method/02-tension",
@@ -643,7 +652,7 @@
       "kind": "step",
       "part": "method",
       "step": "2",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/03-insight.md": {
       "id": "method/03-insight",
@@ -651,7 +660,7 @@
       "kind": "step",
       "part": "method",
       "step": "3",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/03b-logic-stack.md": {
       "id": "method/03b-logic-stack",
@@ -667,7 +676,7 @@
       "kind": "step",
       "part": "method",
       "step": "4",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/05-call-to-action.md": {
       "id": "method/05-call-to-action",
@@ -675,7 +684,7 @@
       "kind": "step",
       "part": "method",
       "step": "5",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/06-strategy.md": {
       "id": "method/06-strategy",
@@ -683,7 +692,7 @@
       "kind": "step",
       "part": "method",
       "step": "6",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/06b-gwtb-engine.md": {
       "id": "method/06b-gwtb-engine",
@@ -699,7 +708,7 @@
       "kind": "step",
       "part": "method",
       "step": "7",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/07a-manifesto.md": {
       "id": "method/07a-manifesto",
@@ -715,7 +724,7 @@
       "kind": "step",
       "part": "method",
       "step": "8",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/09-small-ideas.md": {
       "id": "method/09-small-ideas",
@@ -723,21 +732,21 @@
       "kind": "step",
       "part": "method",
       "step": "9",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/OPERATING-MANUAL.md": {
       "id": "method/OPERATING-MANUAL",
       "title": "WHAT YOU ARE",
       "kind": "manual",
       "part": "method",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     "method/behavioral-guardrails.md": {
       "id": "method/behavioral-guardrails",
       "title": "BEHAVIORAL_GUARDRAILS",
       "kind": "guardrails",
       "part": "method",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/brief-types.md": {
       "id": "method/brief-types",
@@ -753,12 +762,19 @@
       "part": "method",
       "version": "1.0.0"
     },
+    "method/creative-operator-routing.md": {
+      "id": "method/creative-operator-routing",
+      "title": "From sourced material to distinct campaign routes",
+      "kind": "guide",
+      "part": "method",
+      "version": "1.1.0"
+    },
     "method/debugging-suite.md": {
       "id": "method/debugging-suite",
       "title": "DEBUGGING_SUITE",
       "kind": "suite",
       "part": "method",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "method/output-models.md": {
       "id": "method/output-models",
@@ -766,6 +782,20 @@
       "kind": "output",
       "part": "method",
       "version": "1.0.1"
+    },
+    "method/research-brief.md": {
+      "id": "method/research-brief",
+      "title": "Build and run a research brief for Logic Poetry",
+      "kind": "research-workflow",
+      "part": "method",
+      "version": "1.1.0"
+    },
+    "method/research-operators.md": {
+      "id": "method/research-operators",
+      "title": "Research and creative operator library",
+      "kind": "operator-library",
+      "part": "method",
+      "version": "1.1.0"
     },
     "method/soundcheck.md": {
       "id": "method/soundcheck",
@@ -780,7 +810,7 @@
       "title": "VALIDATION_CHECKLIST",
       "kind": "checklist",
       "part": "method",
-      "version": "1.0.0"
+      "version": "1.1.0"
     }
   }
 }

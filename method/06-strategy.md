@@ -4,7 +4,7 @@ title: 6. Strategy (The GWTB Checkpoint)
 kind: step
 part: method
 step: 6
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### 6. Strategy (The GWTB Checkpoint)
@@ -44,5 +44,7 @@ See STRATEGY_CHECKPOINT section below for strict formatting rules, WHO vs FROM d
 *6.9 AI Guidance — see 3.9.3 (Step 3 Pit Stop) and STRATEGY_CHECKPOINT section below*
 
 **6.4.1 The Diagnostic Rule**: If your GWTB flows cleanly and feels logical, you have strong building blocks. If it feels like word salad or doesn't connect smoothly, **go back and revise steps 1-5**. The strategy should be a natural, sensible synthesis of all your inputs from Zeitgeist to CTA.
+
+**Research continuity**: Trace GET, WHO/FROM, TO and BY to source records, the selected Insight, Role and CTA. Flag unsupported links instead of inventing facts. A passed rubric does not replace the human Strategy checkpoint. Wait for selection/validation before Step 7 and retain that decision as a fixed premise for creative permutations.
 
 ---

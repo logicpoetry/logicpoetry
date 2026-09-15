@@ -4,28 +4,27 @@ name: De Bono's Lateral Thinking / PO Technique
 kind: framework
 origin: external
 status: seed
-source_note: Migrated from catalog cluster J. Needs a full write-up and citations.
-version: 1.0.0
+source_note: Procedure and primary source reviewed; a sourced campaign example remains to be added.
+version: 1.1.0
 license: CC-BY-SA-4.0
 ---
 
 # De Bono's Lateral Thinking / PO Technique
 
 ## What it does
-Provocative Operation: make a deliberately absurd statement, resist rejection, explore possibilities, extract useful concepts. Edward de Bono.
+Create a deliberate provocation, then use movement to extract a useful principle.
 
 ## When to use it
-_To be written. Which step of the chain does this framework serve best, and on what kind of brief?_
+Steps 3, 7 and 8 when assumptions block exploration. Step 3 outputs remain hypotheses for research and human selection.
 
 ## How to apply it
-_To be written. The moves, in order, as a practitioner would run them inside Logic Poetry._
+Use R08 in `method/research-operators.md`: identify an assumption, suspend or alter it, examine consequences, extract a principle, reconnect to verified capability. Preserve lineage and fixed premises.
 
 ## Failure mode
-_To be written. How this framework goes wrong in practice._
+Stopping at absurdity, treating inversion as evidence, or changing the selected strategy without its checkpoint.
 
 ## Example
-_To be written. One sourced campaign where the framework is visibly at work._
+Illustrative exercise: “The repair happens before a fault is reported” suggests preventive checks based on known product age. This is a hypothetical application, not a documented campaign.
 
 ## Source and confidence
-Provocative Operation: make a deliberately absurd statement, resist rejection, explore possibilities, extract useful concepts. Edward de Bono.
-Confidence: seed entry, one-line summary only. Contributions welcome.
+Edward de Bono, “Serious Creativity,” provocation and movement: https://www.debono.com/serious-creativity-article. Method reviewed; campaign application illustrative.

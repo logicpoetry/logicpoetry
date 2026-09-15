@@ -4,7 +4,7 @@ title: 4. Role (The Brand's Superpower)
 kind: step
 part: method
 step: 4
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### 4. Role (The Brand's Superpower)
@@ -61,18 +61,28 @@ Critically, **the Role is not always a brand or product.** It can be an idea, a 
 The way to get from feature to benefit: ask "what problem is this feature actually solving for the human?" The answer to that question is the benefit.
 
 - **Coles** — Feature: "We're the cheapest supermarket." Benefit: "Food connects Australians to each other." When Aldi entered the market and undercut Coles on price, the feature-based positioning collapsed. "Value the Australian Way" reframed value from cost to connection — and became a platform that could carry both brand equity and weekly specials simultaneously.
+<!-- runtime:cut -->
 - **Planet Fitness** — Feature: "We're a cheap gym." Benefit: "A gym where nobody judges you." One leads to discount promotions. The other built an entire brand platform ("No Gymtimidation") and a defensible market position.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - **Seamless** — Feature: "We have the most restaurants on our app." Benefit: "We're how you become a real New Yorker." Having the most restaurants is a feature Uber Eats could eventually match. Being the app that makes transplants feel like they belong is an emotional position no competitor can copy.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - **Hinge** — Feature: "Our matching algorithm is better." Benefit: "We're the dating app designed to be deleted." The insight that people think dating apps are built to keep you swiping (not to help you find someone) gave Hinge a Role no competitor was claiming — the app that actually wants you to leave.
+<!-- /runtime:cut -->
 
 **The test**: If a competitor could claim the same Role by outspending you, it's a feature. If it requires a genuine reframe that only your brand can credibly own, it's a benefit.
 
 **4.8.2 Proving You Belong by Showing You Understand**: There's a third way a brand can earn its Role, beyond features and benefits. The brand earns credibility not through product claims or emotional benefits, but by *demonstrating understanding of the audience's reality*. The brand proves it belongs in the story by showing it has been paying attention.
 
+<!-- runtime:cut -->
 - **Carhartt** — Didn't claim "our jackets are tough." Instead showed "we know what day one feels like for a rookie." The jacket "has to earn the right to be on your back" — the product's journey mirrors the worker's journey. That parallel is what converts skeptics. The brand proved it understood the audience's world, and that understanding *was* the pitch.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - **Lysol "Protect Like a Mother"** — Didn't claim "we kill 99.9% of germs." Instead showed "we understand that protection is what mothers do instinctively — and our strength matches yours." The brand paralleled its own quality to something the audience already does and values. The product became an extension of maternal instinct, not a clinical intervention.
+<!-- /runtime:cut -->
 
-*4.9 AI Guidance — to be written*
+**4.9 AI Guidance**: Start from the selected Insight and verified capability records. List the specific utility, its evidence, delivery owner and limits. Use R09 for transferable mechanisms and R24 for service dependencies. Separate what the brand can deliver from what it would need to build. An attractive analogy cannot establish ownership or capacity.
 
 *4.10 Examples — see 4.8.1 and 4.8.2 above*
 

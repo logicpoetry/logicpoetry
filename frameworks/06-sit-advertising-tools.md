@@ -5,7 +5,7 @@ kind: framework
 origin: external
 status: seed
 source_note: Migrated from catalog cluster J. Needs a full write-up and citations.
-version: 1.0.0
+version: 1.1.0
 license: CC-BY-SA-4.0
 ---
 
@@ -29,3 +29,9 @@ _To be written. One sourced campaign where the framework is visibly at work._
 ## Source and confidence
 Unification, Activation, Metaphor Fusion, Subtraction, Extreme Consequence, Absurd Alternative, Inversion, Extreme Effort.
 Confidence: seed entry, one-line summary only. Contributions welcome.
+
+### Product and service operations
+
+Use C10/C11/C15–C17 and R18–R20 for the related five-tool SIT tradition. Keep the distinction explicit: the advertising templates and product/service operations are related descriptions, not interchangeable lists. Source: https://drewboyd.com/wp-content/uploads/2016/09/DB-Faculty-Guide-Final.pdf.
+
+---

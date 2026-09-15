@@ -3,7 +3,7 @@ id: method/validation-checklist
 title: VALIDATION_CHECKLIST
 kind: checklist
 part: method
-version: 1.0.0
+version: 1.1.0
 ---
 
 ## VALIDATION_CHECKLIST
@@ -18,5 +18,9 @@ After generating The Creative, run this post-platform self-check. A strong Creat
 6. **Brand as only credible protagonist?** — Could anyone else own this story, or is the brand uniquely positioned?
 7. **Additive to existing equity?** — Does it complement, not contradict, what the brand already stands for?
 8. **Dual-purpose?** — Can the platform carry both long-term brand equity AND short-term commercial messaging? The strongest platforms work as a container for product-level comms (weekly specials, feature launches, promotions) without diluting the brand story. Coles' "Value the Australian Way" built brand meaning around food-as-connection while still housing weekly price specials. A platform that can only do brand *or* product — but not both — has a shorter shelf life.
+
+### Evidence and platform readiness
+
+Alongside the eight creative questions, check source traceability, actual brand capability, distinct mechanisms, cultural recognition and feasibility. Keep facts and hypotheses separate. A platform needs five different execution sketches; its hero needs an unprompted comprehension check. Scores do not override missing evidence or human checkpoints. Plan how the CTA's outcome could be assessed; do not infer award potential from an LLM rating.
 
 ---

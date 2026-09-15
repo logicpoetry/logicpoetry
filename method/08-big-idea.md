@@ -4,7 +4,7 @@ title: 8. Big Idea
 kind: step
 part: method
 step: 8
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### 8. Big Idea
@@ -24,9 +24,20 @@ It should be single-minded: one idea, one execution, one unmistakable message. I
 
 **8.4 Definition**: The "Curtain Raiser." A single-minded execution that brings the platform to life immediately and unmistakably.
 
-*8.5 Exploration Lenses — to be written*
+**8.5 Exploration Lenses**:
+- **Demonstrate**: What one encounter could make the platform's claim visible or testable?
+- **Do something useful**: Which verified capability can become an artifact or service?
+- **Change a structure**: Try division, multiplication or attribute dependency (R18–R20), alongside existing subtraction/unification.
+- **Make the world concrete**: Use design fiction (R23) or visual rhetoric (R26) to reveal the object or image implied by the platform.
+- **Invite a consequential action**: Give the audience a role connected to the CTA.
 
-*8.6 How to Find It — to be written*
+**8.6 How to Find It**:
+1. Hold the chosen platform rule, Insight, Role and CTA fixed.
+2. Gather relevant evidence, components, mechanisms and capability records.
+3. Apply a few mechanically different operations. Describe each result as one action, object or experience.
+4. Show what happens, what the audience understands or does, and how the brand delivers it.
+5. Map dependencies (R24). Rehearse the smallest meaningful experience (R25); distinguish simulation from audience evidence.
+6. Apply the Stand-Alone Test and select one hero execution. Develop its amplifiers at Step 9.
 
 **8.8 Quality Tests**:
 
@@ -40,6 +51,6 @@ It should be single-minded: one idea, one execution, one unmistakable message. I
 
 **8.7 Interface**: The Big Idea is constrained by The Creative (it must feel like it lives under that roof). It sets the tone and format for all Small Ideas that follow.
 
-*8.9 AI Guidance — to be written*
+**8.9 AI Guidance**: Return a one-sentence execution, scene description, strategic connection, source-linked ingredients, capability requirements and the next feasibility/comprehension test. Label sketches and predictions as speculative. Reject unsupported proof and concepts that lose the platform's rule. Return upstream if the strategy would need to change.
 
 ---

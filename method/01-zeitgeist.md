@@ -4,7 +4,7 @@ title: 1. Zeitgeist (The Context)
 kind: step
 part: method
 step: 1
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### 1. Zeitgeist (The Context)
@@ -78,5 +78,7 @@ This is why campaigns work. A campaign is not an ad for the brand. A campaign ma
 <!-- /runtime:cut -->
 
 **1.10 Examples**: "Travel is about new places, new thrills, new people."
+
+**Research inputs**: Use R01/R03/R06 and W09/W10 to collect specific situations, emerging practices, cultural scripts and language. Preserve market, date, source and contrary examples. Generated sensory details are prompts for investigation, not observations. The record contract is in `method/research-brief.md`; operations are in `method/research-operators.md`.
 
 ---

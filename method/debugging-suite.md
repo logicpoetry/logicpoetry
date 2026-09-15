@@ -3,7 +3,7 @@ id: method/debugging-suite
 title: DEBUGGING_SUITE
 kind: suite
 part: method
-version: 1.0.0
+version: 1.1.0
 ---
 
 ## DEBUGGING_SUITE
@@ -46,6 +46,8 @@ Trigger this when the user says "Debug this" or "This feels flat." Do not just r
 - Do you have another version or perspective from someone else?
 - Different backgrounds = different POVs = more diverse ideas
 - Can you combine the best parts of multiple versions?
+
+**Research/operator check**: Compare source packets, meanings and mechanisms. If versions differ only in wording, use `method/creative-operator-routing.md` to find a missing input or a different operation. Check that consumer claims have evidence.
 
 **Action**: Compare versions side-by-side. Pick the strongest elements from each. Ask: "Do you have any other versions or examples to compare?"
 

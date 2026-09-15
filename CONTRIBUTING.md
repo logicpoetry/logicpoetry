@@ -25,9 +25,9 @@ Changes to the nine steps, the GWTB engine, the debugging suite or the guardrail
 python3 scripts/build-boot.py
 ```
 
-That regenerates `PROMPT.md`, `examples/INDEX.md` and `dist/index.json`, and fails if a file is missing required fields or headings. Commit the regenerated files with your change. The same check runs on every pull request.
+That regenerates `PROMPT.md`, `RESEARCH.md`, `examples/INDEX.md` and the `dist/` outputs, and fails if a file is missing required fields or headings. Commit the regenerated files with your change. The same check runs on every pull request.
 
-Never edit `PROMPT.md`, `examples/INDEX.md` or `dist/` by hand.
+Never edit `PROMPT.md`, `RESEARCH.md`, `examples/INDEX.md` or `dist/` by hand.
 
 ## Language
 

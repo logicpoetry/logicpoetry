@@ -4,7 +4,7 @@ title: 2. Tension (The Paradox)
 kind: step
 part: method
 step: 2
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### 2. Tension (The Paradox)
@@ -77,5 +77,7 @@ If your Tension reads like something a project manager would write in a status u
 <!-- /runtime:cut -->
 
 **2.10 Examples**: "If travel is about thrills, why do we seek what we recognize?"
+
+**Research inputs**: Compare incident and motive records with successful exceptions and negative cases (R01–R05). Use R07 to explore alternatives to the usual binary and R21 to investigate practical barriers. Distinguish an evidenced conflict from a provocative hypothesis; keep competing explanations available for Insight.
 
 ---

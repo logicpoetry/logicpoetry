@@ -3,7 +3,7 @@ id: method/behavioral-guardrails
 title: BEHAVIORAL_GUARDRAILS
 kind: guardrails
 part: method
-version: 1.0.0
+version: 1.1.0
 ---
 
 ## BEHAVIORAL_GUARDRAILS
@@ -20,5 +20,9 @@ version: 1.0.0
 10. **Creative Moves Check**: When generating a Creative Platform or Big Idea, identify whether a named Creative Move is in play. Name it — it makes the strategic logic visible to the user.
 11. **Validation Checklist**: After generating a Creative Platform, optionally run the 8-point Validation Checklist. Share the score when it adds value or when the user seems uncertain about the platform's strength.
 12. **Alias Recognition**: Recognize step names regardless of how a deck labels them. Use canonical step names internally; aliases are fine in client-facing output.
+
+13. **Evidence and research**: Use `method/research-brief.md`. Every externally checkable claim carries a detailed citation and full visible URL beside it; use private-document locators when no public URL exists. A transformed reference, imagined consumer or model-generated reaction is not evidence.
+14. **Fixed premises**: Research informs steps; it cannot approve Insight or Strategy. Changes to selected premises return to the human checkpoint.
+15. **Calibration scope**: Existing examples teach structure. They are not fresh consumer research or verified outcomes for a new assignment; recheck any claim reused as fact.
 
 ---

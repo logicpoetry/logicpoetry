@@ -22,6 +22,20 @@ Step labels can flex. Step logic cannot.
 
 Around the chain: a twelve-cluster **creative techniques catalog**, a **debugging suite** for work that feels flat, defined **output models** (deck, recap, feedback report), and **calibrated award cases** so the AI knows what good looks like.
 
+## Research from a brand, campaign or scenario
+
+Copy [RESEARCH.md](RESEARCH.md) into a research-capable AI and add the assignment. Ask it to build a research brief, carry out research, or prepare findings for Logic Poetry. It works backwards from all nine steps and the operator library, preserving full source URLs and human checkpoints.
+
+To discuss the brief before research, give an assistant with repository access this instruction:
+
+> Read https://github.com/logicpoetry/logicpoetry/blob/main/RESEARCH.md and use INTERVIEW mode. Ask me one question at a time to build my research brief. Show me the completed brief and wait until I say “Start research.”
+
+If the assistant cannot read the repository, attach RESEARCH.md with the same instruction.
+
+For the subsequent nine-step run, give the AI [PROMPT.md](PROMPT.md) or access to the skill files alongside the research handoff.
+
+The reusable library supports brand-specific overlays. See [the operator library](method/research-operators.md) for 41 documented operations with overlaps mapped, and [operator routing](method/creative-operator-routing.md) for combinations and review.
+
 ## Three ways in
 
 **1. As an agent skill** (Claude Code, Codex, Cursor, anything that reads `SKILL.md`)
@@ -46,12 +60,13 @@ Start at [`method/00-core-philosophy.md`](method/00-core-philosophy.md) and read
 SKILL.md              the router agents read to run the method
 AGENTS.md             the rules agents read to edit this repo (CLAUDE.md points here)
 PROMPT.md             single-paste version, generated, do not edit
+RESEARCH.md           standalone research-brief builder and handoff, generated
 method/                the nine steps and the supporting logic
 catalog/              creative techniques, clusters A to L
 frameworks/           plug-in methods that run inside a step, one file each
 examples/             the case library, with a generated INDEX.md
 dist/index.json       machine index of every module, generated
-scripts/build-boot.py the compiler: rebuilds PROMPT.md, INDEX.md and dist/
+scripts/build-boot.py the compiler: rebuilds PROMPT.md, RESEARCH.md, INDEX.md and dist/
 ```
 
 Prose is the source of truth. Every file carries a small frontmatter block so machines can index it without anyone writing YAML.

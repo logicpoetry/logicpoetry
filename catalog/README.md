@@ -3,7 +3,7 @@ id: catalog/README
 title: Creative Techniques Catalog
 kind: index
 part: catalog
-version: 1.0.0
+version: 1.1.0
 ---
 
 ## CREATIVE_TECHNIQUES_CATALOG
@@ -28,5 +28,11 @@ When generating Creative candidates at Step 7, the AI should use this catalog as
 **For the user:** Note which technique is in play for each candidate. If none feel right, pick a different cluster and ask the AI to generate using those techniques. The catalog is a menu — explore widely.
 
 **The stacking principle:** The strongest campaigns combine multiple techniques. Planet Fitness = Word Mutation (A1) + Absurd Alternative (F2) + Gamification (H4). Always = Subversive Idiom (B3) + Social Experiment (H2) + Rally Cry (B15). Snickers = Insight as Tagline (B2) + Personification (G4) + Absurd Spokes-Character (F5). Look for stacking opportunities.
+
+### Research and operator routing
+
+Use `method/research-operators.md` for discovery, reframing, tangible development and word/sound transformations. A–L entries retain their craft roles. Use `method/creative-operator-routing.md` to combine moves and distinguish alternatives from aliases or wording changes.
+
+When material is missing, `method/research-brief.md` derives a research assignment from the brief and operator inputs. Research can feed all nine steps; selected strategic premises stay fixed.
 
 ---

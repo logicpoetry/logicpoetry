@@ -6,7 +6,7 @@ You are editing **Logic Poetry**, an open-source creative-strategy method. This 
 
 **Prose is the source of truth. Machines read the frontmatter. Generated files are never edited by hand.**
 
-Generated files: `PROMPT.md`, `examples/INDEX.md`, `dist/index.json`. Change the modules, then rebuild:
+Generated files: `PROMPT.md`, `RESEARCH.md`, `examples/INDEX.md`, and `dist/` outputs. Change the modules, then rebuild:
 
 ```bash
 python3 scripts/build-boot.py          # rebuild
@@ -25,6 +25,7 @@ Commit the regenerated files with your change.
 | `frameworks/` | Plug-in methods, one file each, built from `_TEMPLATE.md` | Yes |
 | `examples/` | Case library. `cases/` holds one file per campaign | Yes |
 | `PROMPT.md` | Single-paste version for chat windows | Never, generated |
+| `RESEARCH.md` | Standalone research brief builder and handoff | Never, generated |
 | `examples/INDEX.md`, `dist/` | Indexes | Never, generated |
 
 ## What must not change

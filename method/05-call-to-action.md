@@ -4,7 +4,7 @@ title: 5. Call to Action (CTA)
 kind: step
 part: method
 step: 5
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### 5. Call to Action (CTA)
@@ -18,7 +18,11 @@ version: 1.0.0
 
 **5.2 The Job**: The CTA is where the story asks something of the audience. It is the step that bridges the brand's role with a desired outcome — inspiring or facilitating a change in the audience's behavior, perception, or participation.
 
+<!-- runtime:cut -->
+
 **5.2.1 Why This Step Is Explicit**: Many campaigns are built without a clear CTA — and that means the campaign was all for nothing. If there's nothing for people to do, think about, or participate in after experiencing the campaign, the story went nowhere. The CTA is the end result the client is actually looking for. It is the step that answers: "What changed because this campaign existed?" This is why the Logic Poetry makes it a named, non-skippable step — because too many teams build beautiful stories that go nowhere.
+
+<!-- /runtime:cut -->
 
 <!-- runtime:cut -->
 
@@ -36,51 +40,83 @@ The CTA must be simple and single-minded. Whether it's a direct product action o
 
 **5.5.1 The Direct Solve**
 The brand fixes the problem. "Use this. Choose this." The brand is the hero who defeats the villain. Straightforward, product-led, often commercial.
+<!-- runtime:cut -->
 - Typical in: product campaigns, B2B, performance marketing.
+<!-- /runtime:cut -->
 - GWTB "BY" shape: BY showing [product benefit]
+<!-- runtime:cut -->
 - Example: "Order McDelivery on moving day."
+<!-- /runtime:cut -->
 
 **5.5.2 The Spark**
 The brand demonstrates a quality that lights a fire in others. The brand's conviction inspires the audience's conviction. The brand doesn't ask you to buy — it asks you to believe.
+<!-- runtime:cut -->
 - Typical in: brand campaigns, cause work, social movements.
+<!-- /runtime:cut -->
 - GWTB "BY" shape: BY demonstrating [brand quality] that makes them want to [audience action]
+<!-- runtime:cut -->
 - Example: Always "Like a Girl" — the brand didn't ask you to buy pads. It asked you to reconsider a phrase, and earned relevance by being the one brave enough to say it. Spider-Man 2 — Peter Parker's bravery stopping the train inspires passengers to stand up to Doc Ock. The hero's conviction became the audience's conviction.
+<!-- /runtime:cut -->
 
 **5.5.3 The Shift**
 The brand asks you to change a specific behavior — to stop doing something, start doing something, or replace one habit with another. The brand positions itself as the reason the change is now possible or desirable. Different from The Direct Solve because it's not "use our product" — it's "change how you live." The product may enable the change, but the ask is about the person, not the product.
+<!-- runtime:cut -->
 - Typical in: health campaigns, public good, sustainability, fintech.
+<!-- /runtime:cut -->
 - GWTB "BY" shape: BY making [new behaviour] easier/more desirable than [old behaviour]
+<!-- runtime:cut -->
 - Example: SKM "Pause before you send." The ask isn't to use a product — it's to change a reflexive behavior.
+<!-- /runtime:cut -->
 
 **5.5.4 The New Identity**
 The CTA invites the audience to see themselves differently. Not to do something, but to *be* something. The brand gives them permission or vocabulary for a new self-concept, and the actions follow naturally.
+<!-- runtime:cut -->
 - Typical in: luxury, lifestyle, employer branding, community-building.
+<!-- /runtime:cut -->
 - GWTB "BY" shape: BY giving them the identity of [new self-concept]
+<!-- runtime:cut -->
 - Example: Apple "Think Different" — Apple never asked you to buy a computer. It asked you to see yourself as the kind of person who thinks differently. The purchase was a downstream consequence. Seamless — the campaign didn't ask transplants to order food. It asked them to see themselves as real New Yorkers, and Seamless as essential to that identity.
+<!-- /runtime:cut -->
 
 **5.5.5 The Rally**
 The CTA invites the audience to contribute to something larger. The brand provides the platform or structure; the audience provides the content, stories, or energy. Different from The Spark because here the audience isn't just acting on their own — they're building something *together with the brand*. The output is collaborative.
+<!-- runtime:cut -->
 - Typical in: UGC campaigns, community campaigns, cultural moments.
+<!-- /runtime:cut -->
 - GWTB "BY" shape: BY inviting them to [contribute/build/share]
+<!-- runtime:cut -->
 - Example: Spotify Wrapped — the CTA is "share your year in music." Spotify built the tool; users create the content that *is* the campaign.
+<!-- /runtime:cut -->
 
 **5.5.6 The Second Look**
 The CTA asks the audience to look at something familiar with fresh eyes. Not to do anything new — but to reconsider something they'd already made up their mind about. The action is cognitive, not behavioral. The brand's job is to remove a prejudice, bias, or assumption so the audience can see clearly.
+<!-- runtime:cut -->
 - Typical in: repositioning campaigns, tourism, category disruption, stigma-reduction.
+<!-- /runtime:cut -->
 - GWTB "BY" shape: BY removing [the assumption] so they can see [the truth]
+<!-- runtime:cut -->
 - Example: Hong Kong Tourism — "You think you've done Hong Kong. Look again." Redress — visitors don't know garments are preowned until they already love them. Hinge — "The dating app designed to be deleted." People assumed all dating apps were built to keep you swiping. Hinge asked them to reconsider: what if an app actually wanted to help you find someone and leave?
+<!-- /runtime:cut -->
 
 **5.5.7 The Permission Slip**
 The CTA gives the audience permission to do something they already wanted to do but felt they couldn't — because of social norms, guilt, fear, or convention. The brand doesn't create new desire. It removes an existing barrier (usually psychological or social) that was blocking action.
+<!-- runtime:cut -->
 - Typical in: indulgence brands, mental health, financial products, taboo categories.
+<!-- /runtime:cut -->
 - GWTB "BY" shape: BY giving them permission to [thing they already wanted]
+<!-- runtime:cut -->
 - Example: "It's okay to not be okay." The CTA isn't to do something — it's to stop feeling bad about something you already feel. Cheetos — in a hustle-culture world where Gen Z is pressured to optimize every minute, Cheetos dust is the perfect alibi for doing nothing. The brand gave permission to stop, framed as a physical inevitability rather than a moral choice.
+<!-- /runtime:cut -->
 
 **5.5.8 The Megaphone**
 The CTA asks the audience to spread a message, share a story, or amplify a voice that isn't being heard. The brand's role is to give the audience a megaphone. Different from The Rally because the audience isn't building something new — they're boosting something that already exists.
+<!-- runtime:cut -->
 - Typical in: advocacy, CSR, media partnerships, social justice.
+<!-- /runtime:cut -->
 - GWTB "BY" shape: BY giving them the tools to amplify [message/voice/cause]
+<!-- runtime:cut -->
 - Example: Ice Bucket Challenge — the CTA is "share this and tag others." The audience becomes the distribution channel.
+<!-- /runtime:cut -->
 
 **Note on combining types**: These types are not mutually exclusive. The Spark + The Rally is common (inspired action that takes the form of co-creation). The Second Look + The Permission Slip can overlap (reappraisal that grants permission). Naming them separately gives distinct starting points for exploration — the LLM can generate variations within one type, or across multiple types for comparison.
 
@@ -102,7 +138,7 @@ The CTA asks the audience to spread a message, share a story, or amplify a voice
 
 **5.7 Interface**: The CTA is constrained by the Role (what the brand credibly is determines what it can credibly ask). The CTA feeds directly into the Strategy/GWTB — it becomes the payoff in the "BY" line. The CTA type also shapes The Creative (Step 7), because the type of ask changes the tone and vehicle of the creative work.
 
-*5.9 AI Guidance — to be written*
+**5.9 AI Guidance**: Define who should do, reconsider or join what, and in which circumstances. Use R21 (COM-B) to investigate capability, opportunity and motivation; retain competing diagnoses when evidence is thin. Use R22 (EAST) for intervention hypotheses addressing the diagnosed barrier. Define how the change could be observed. Channels and concrete activations are developed later. Procedures and sources: `method/research-operators.md`, R21–R22.
 
 **5.10 Examples**: "Go deeper, not just farther."
 

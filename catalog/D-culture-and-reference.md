@@ -4,7 +4,7 @@ title: "CLUSTER D: CULTURE & REFERENCE"
 kind: cluster
 cluster: D
 part: catalog
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### CLUSTER D: CULTURE & REFERENCE
@@ -36,5 +36,9 @@ Ride an existing cultural force and steer it.
 **D7. The Language Rescue (Untranslatable Word)**
 Adopt an untranslatable word from another language as brand territory.
 - "Fahrvergnügen" — Volkswagen (1990)
+
+### Source-linked cultural material
+
+For D4, use R12/R13/W10. Record the original cue, meaning, expected completion, variable slots and evidence of recognition. Titles, sayings and fables supply structures; recognition varies by community. Keep original wording separate from invented transformations and retain full citations. Procedures and sources: `method/research-operators.md`.
 
 ---

@@ -4,7 +4,7 @@ title: 7. The Creative
 kind: step
 part: method
 step: 7
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### 7. The Creative
@@ -117,10 +117,18 @@ These are not brainstorming prompts. They are quality gates. Run every Creative 
 **Test 1 — The Post-It Test** *(Luke Sullivan)*
 Can you write the entire creative idea in one sentence on a Post-It note? If you need more space, the idea isn't simple enough to survive in the world. Complexity at the idea level kills execution at every downstream step.
 
+<!-- runtime:cut -->
 - ✅ *"You're Not You When You're Hungry"* — Snickers. One sentence. The full campaign logic is inside it.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"The dating app designed to be deleted"* — Hinge. One clause. The paradox is complete.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Shot on iPhone"* — Apple. Three words. The claim, the proof, and the invitation are all there.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ❌ *"We want to show young professional Singaporeans who feel their lives are becoming predictable that Equinox gives them the confidence to say yes to bigger experiences"* — that's a brief, not a creative. Can't fit on a Post-It. Doesn't pass.
+<!-- /runtime:cut -->
 
 The discipline: if you're struggling to compress it, you haven't found the idea yet. You've found the territory.
 
@@ -129,10 +137,18 @@ The discipline: if you're struggling to compress it, you haven't found the idea 
 **Test 2 — The Platform Test** *(Luke Sullivan)*
 A platform is an idea that creates other ideas. Not a line — a world with its own rules, like a film franchise or a sci-fi novel. The test: can you generate five completely different executions that all unmistakably belong under this roof? If yes, it's a platform. If it only generates variations of the same execution, it's a tagline.
 
+<!-- runtime:cut -->
 - ✅ *"You're Not You When You're Hungry"* — Snickers. Over a decade, it has housed Betty White on a football field, Mr. T firing a cannon, a diva on a construction site, and dozens more. Different characters, different situations, different media. The rule is fixed ("hunger transforms you into someone you're not"), and the executions are infinite.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Impossible is Nothing"* — Adidas. Has housed athlete documentaries, cause campaigns, social experiments, and product launches. The rule ("redefine what's possible") generates endless territory.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Gymtimidation"* — Planet Fitness. One coined word generates an entire brand universe: no mirrors, no judgment zones, the Lunk Alarm, the $10 membership. The word IS the world.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ❌ *"The Moldy Whopper"* — Burger King. Brilliant execution. Doesn't generate a second one — you can only do "show a burger decomposing to prove no preservatives" once. That's a Big Idea, not a Platform.
+<!-- /runtime:cut -->
 
 The distinction matters because clients buy platforms, not executions. If what you have only works once, call it the Big Idea (Step 8), not The Creative.
 
@@ -141,42 +157,78 @@ The distinction matters because clients buy platforms, not executions. If what y
 **Test 3 — The Camouflage Test** *(Luke Sullivan)*
 Cover the logo. Could you guess the brand from the creative alone? "The strategy should be evident in the campaign, but the campaign should not be evident in the strategy." If a competitor could run the same creative with their logo substituted in and it would still make sense, the creative isn't specific enough to this brand.
 
+<!-- runtime:cut -->
 - ✅ *"Think Different"* — Apple. Remove the Apple logo. The black-and-white photography, the faces of rebels and visionaries, the tone of defiant idealism — it couldn't belong to Dell or HP. The creative is Apple.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Vorsprung durch Technik"* — Audi. The German, the precision, the understated prestige. Remove the rings and it's still unmistakably Audi, not BMW or Mercedes-Benz.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Like a Girl"* — Always. The social experiment format, the specific reclamation of a gendered insult — remove the Always logo and you'd still narrow it down to one brand type: a feminine hygiene brand that earned the right to own this conversation by being in the room at the exact moment it matters.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ❌ Generic bank ads showing families in sunlit kitchens with the tagline "We're here for life's moments." Remove the logo and it could be any of 50 banks. Fails the camouflage test completely.
+<!-- /runtime:cut -->
 
 ---
 
 **Test 4 — The Distinctiveness Test** *(WARC/Cannes Effectiveness Research)*
 Distinctiveness is the single biggest predictor of creative effectiveness across nearly 5,000 Cannes effectiveness case studies. It's not the same as memorability. Memorability says "I remember it." Distinctiveness says "I could only remember it as *that brand*." The test: is this unmistakably and exclusively theirs?
 
+<!-- runtime:cut -->
 - ✅ *"Shot on iPhone"* — Apple. The UGC format, the outdoor scale, the focus on what the camera captures rather than its specs — competitors have better cameras on paper. Nobody else owns "show the world through your phone." Samsung's camera ads look like camera ads. Apple's look like art exhibitions.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Dumb Ways to Die"* — Metro Trains Melbourne. The animation style, the earworm song, the absurdist humor applied to a safety message — every element is specific to this brand and this brief. No other transit authority in the world would or could run this.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Belong Anywhere"* — Airbnb. Not "book a room." Not "travel differently." The word "belong" in that context is theirs. Hotels can't say it. Travel companies can't say it. Only a platform that connects hosts and guests in people's actual homes can credibly claim belonging as its territory.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ❌ *"We put people first"* / *"Innovation for a better tomorrow"* — fails immediately. Every competitor can and does say this. Zero distinctiveness.
+<!-- /runtime:cut -->
 
 ---
 
 **Test 5 — The Culture Test** *(John Hegarty)*
 *"Great advertising elevates the status of a brand to such an extent that it becomes part of culture. That way you get greater fame, greater value, greater certainty and greater effectiveness."* The test: do people use this creative's language or reference the campaign in contexts that have nothing to do with buying the product?
 
+<!-- runtime:cut -->
 - ✅ *"Just Do It"* — Nike. People say "just do it" to each other about job applications, relationships, difficult conversations. It escaped the product entirely and became a piece of cultural language. Nike didn't invent the sentiment — it named it in a way so precise that nobody else can own it.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Love it or Hate it"* — Marmite. People describe themselves as "a Marmite person" with no jar of yeast extract anywhere nearby. The campaign generated a personality type that exists in cultural conversation independently of the product.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Like a Girl"* — Always. "#LikeAGirl" became a rallying phrase used in conversations about gender, sport, education, and leadership — none of which require buying a pad. The creative escaped the category entirely.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"I'm Lovin' It"* — McDonald's. The jingle completes itself in people's heads involuntarily. It exists in popular culture independently of any ad.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ❌ A well-executed product demonstration ad. People remember the product worked. They do not reference it in any other context.
+<!-- /runtime:cut -->
 
 ---
 
 **Test 6 — The Endurance Test** *(WARC Effectiveness Code — Field & Hurman)*
 Is the underlying insight genuinely enduring (a permanent human truth, not a trending conversation), and is the idea genuinely limitless (can flex across channels, audiences, cultural moments, and years without losing itself)? The highest tier of creative effectiveness — the Enduring Icon — requires both.
 
+<!-- runtime:cut -->
 - ✅ *"You're Not You When You're Hungry"* — Snickers. The insight (hunger alters your personality) is a biological constant. It doesn't age. It works across genders, ages, cultures, and media. It was true in 2010 and it's true in 2025. That's why it's still running.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Real Beauty"* — Dove. The insight (society imposes unrealistic beauty standards and it damages women's self-image) is not going away. Dove has been running this platform since 2004 and won Cannes Lions in 2025 for new work under the same idea. The insight is enduring; the expressions keep updating.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ✅ *"Think Different"* — Apple. The insight (the people who challenge convention are the ones who change the world) will always be true. Apple can apply it to any product, any era, any cultural moment.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ❌ *"Because You're Worth It"* — L'Oréal. Still running but shows its era (1970s second-wave feminism as the cultural context). Less enduring than it once was because the cultural moment that made it radical has shifted.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - ❌ Campaign tied to a specific news event or trending cultural moment. Brilliant for 3 months. Irrelevant by next year.
+<!-- /runtime:cut -->
 
 The practical implication: if the brief is for a brand platform (long-term), test for endurance aggressively. If the brief is for a campaign (6-12 months), the Endurance Test is less critical — but the other five still apply.
 
@@ -236,6 +288,8 @@ The practical implication: if the brief is for a brand platform (long-term), tes
 
 <!-- /runtime:cut -->
 
+<!-- runtime:cut -->
+
 ### THE CREATIVE EFFECTIVENESS LADDER
 
 *(Source: WARC / Cannes Lions — "The Effectiveness Code," Field & Hurman, based on 4,863 case studies)*
@@ -257,9 +311,13 @@ A hierarchy of what creative work can achieve. For every brief: identify which l
 
 ---
 
+<!-- /runtime:cut -->
+
 **Interface**: The Creative is constrained by the Strategy/GWTB (if the GWTB doesn't flow, The Creative can't hold). It shapes the Big Idea (Step 8) and all Small Ideas (Step 9). Every execution should feel like it belongs under The Creative's roof.
 
-*7.9 AI Guidance — to be written*
+**7.9 AI Guidance**: Use `method/creative-operator-routing.md` with the selected Strategy, sourced material and R/W menu. Generate across relevant operation families within the existing 20–30 candidate range. Preserve source → transformation → candidate lineage; apply sound and formal checks where required. Separate meaningful differences from wording variants. For shortlisted platforms, state the generative rule and sketch five distinct executions; identify brand proof and the weakest assumption. Present 3–5 candidates for human selection. A route needing a different Insight or Strategy returns to its earlier checkpoint.
+
+<!-- runtime:cut -->
 
 **7.10 Examples**:
 - "熟的更好玩,懂?" (The familiar is more fun, you know?) — HK Tourism (play on language, cultural reference)
@@ -276,3 +334,5 @@ A hierarchy of what creative work can achieve. For every brief: identify which l
 - "FoodMarks" — GrowAsia (word mutation — borrows the weight of "trademark" for food security)
 
 ---
+
+<!-- /runtime:cut -->

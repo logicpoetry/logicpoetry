@@ -4,28 +4,27 @@ name: Phillips & McQuarrie Visual Rhetoric
 kind: framework
 origin: external
 status: seed
-source_note: Migrated from catalog cluster J. Needs a full write-up and citations.
-version: 1.0.0
+source_note: Procedure and primary source reviewed; a sourced campaign example remains to be added.
+version: 1.1.0
 license: CC-BY-SA-4.0
 ---
 
 # Phillips & McQuarrie Visual Rhetoric
 
 ## What it does
-Three visual structures: juxtaposition (side by side), fusion (merged), replacement (one absent, implied). Academic taxonomy for visual advertising.
+Explore juxtaposition, fusion and replacement across connection, comparison for similarity and comparison for opposition.
 
 ## When to use it
-_To be written. Which step of the chain does this framework serve best, and on what kind of brief?_
+Steps 7–8 when a strategic relationship needs a visual expression or hero image.
 
 ## How to apply it
-_To be written. The moves, in order, as a practitioner would run them inside Logic Poetry._
+Use R26 in `method/research-operators.md`. State the intended inference, choose elements, vary structure and meaning operation, then test comprehension without the explanation.
 
 ## Failure mode
-_To be written. How this framework goes wrong in practice._
+An ingenious interpretation viewers do not make; resemblance without the strategic relationship.
 
 ## Example
-_To be written. One sourced campaign where the framework is visibly at work._
+Illustrative exercise: show a repaired object beside its history, merge history with the object, or imply the object through its record. Compare the inferences. This is a proposed exercise, not a sourced campaign.
 
 ## Source and confidence
-Three visual structures: juxtaposition (side by side), fusion (merged), replacement (one absent, implied). Academic taxonomy for visual advertising.
-Confidence: seed entry, one-line summary only. Contributions welcome.
+Phillips and McQuarrie, “Beyond Visual Metaphor,” Marketing Theory 4(1/2), 2004, Figure 2: https://www.researchgate.net/publication/235361038_Beyond_Visual_Metaphor_A_New_Typology_of_Visual_Rhetoric_in_Advertising. Taxonomy reviewed; application illustrative.

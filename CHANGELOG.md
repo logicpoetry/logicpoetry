@@ -4,6 +4,17 @@ All notable changes to Logic Poetry. Versions are git tags.
 
 ## [Unreleased]
 
+### 2026-09-16 — Research and creative operators (1.1.0 working version)
+
+- Integrated 26 research/design methods and 15 word/sound operations with sources, inputs, procedures, checks and catalog cross-references.
+- Added a brand/campaign/scenario research-brief builder, record contract and handoff; full source URLs remain visible beside claims.
+- Added INTERVIEW mode for questions before research, and a repository reference in every completed brief.
+- Added operation selection, transformation lineage and diversity controls.
+- Filled Role/CTA and hero/amplifier guidance; connected research to existing steps and human checkpoints.
+- Added generated RESEARCH.md for AI without repository access.
+- Full teaching material remains in PROMPT.md. The hosted runtime keeps its existing size budget by trimming extended examples and using a compact operator menu; dedicated Insight/GWTB calibration, Spotify and QLiEER remain in the runtime.
+- Method version 1.1.0; release tagging and hosted deployment are separate.
+
 ### 2026-09-14 — Soundcheck for presentation arguments and titles
 
 - Added the seven-principle Soundcheck method by Nicolas Chan to Deck Mode,

@@ -4,7 +4,7 @@ title: "CLUSTER B: MEANING & REFRAMING"
 kind: cluster
 cluster: B
 part: catalog
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### CLUSTER B: MEANING & REFRAMING
@@ -110,5 +110,9 @@ Compare the product to something from an entirely different, superior category �
 - "Our bed vs. sleeping on a cloud" — competing with an ideal, not a rival
 - Singapore Airlines "A Great Way to Fly" — framing against the general flying experience, not other airlines
 - Source: Goldenberg's "Competition" template.
+
+### Research-linked reframing
+
+Extend B3 with R12: preserve the saying's form, context and lesson before modifying it or challenging its proposition. Extend B18 with R07: explore not-A, not-B and coherent both/neither positions. Use R05 for real contrary cases. Full procedures and sources: `method/research-operators.md`.
 
 ---

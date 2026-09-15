@@ -4,7 +4,7 @@ title: 3. Insight (Key Insight Statement)
 kind: step
 part: method
 step: 3
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### 3. Insight (Key Insight Statement)
@@ -67,8 +67,12 @@ Note: these cognitive attributes can only be validated by the person who has the
 <!-- /runtime:cut -->
 
 **3.8.4 Truth vs Revelatory Truth — The Pampers Test**:
+<!-- runtime:cut -->
 - Truth: "Mothers have never been busier than they are now." Everyone nods. No one's perspective changes. It's a fact, not an insight.
+<!-- /runtime:cut -->
+<!-- runtime:cut -->
 - Revelatory Truth: "When a baby gives that far-away stare, it strikes fear into an unprepared parent." Visual, specific, sparks recognition and a chuckle. It reframes the problem from abstract busyness to a concrete, shared moment that every parent instantly recognizes.
+<!-- /runtime:cut -->
 
 The test: state your insight. If it could have been written by someone who has never met the audience, it's still a truth. If it makes someone in the audience involuntarily laugh, wince, or say "that's so true" — it's revelatory.
 
@@ -76,29 +80,31 @@ The test: state your insight. If it could have been written by someone who has n
 
 **3.7 Interface**: The Insight **explains** the Tension (why the crack exists) and **enables** the Role (gives the brand permission to enter the story). If it doesn't do both, it's either still an observation (too close to Tension) or already a strategy (too close to Role). The Insight is constrained by the Tension it must explain, and it constrains which Role the brand can credibly play.
 
+<!-- runtime:cut -->
+
 **3.10 Examples**: "It's not the newness that makes a trip memorable — it's how a place makes us feel."
 
 **Additional Examples**:
 
 - **Seamless** — Zeitgeist: NYC is saturated with food delivery apps all offering sign-up discounts. Tension: Transplants (new arrivals) see no difference between any of them. Insight: In the suburbs, regular food delivery is a sign of failure — you're a slob on the couch. In New York, it's a sign of success — you have a social schedule and don't have time to cook. For transplants whose worst fear is looking like a tourist, food delivery is key to feeling like a real New Yorker. (The reframe: delivery isn't laziness, it's belonging.)
 
-<!-- runtime:cut -->
+
 
 - **Coles** — Zeitgeist: Australians have been through extended lockdowns and lost some of their spirit. Tension: People are isolated and craving connection, but the supermarket conversation is stuck on price and discounts. Insight: Food is the connector that brings people together — and Australians want to share it outdoors, with family and friends. (The reframe: the value of food isn't its cost, it's what it enables.)
 
-<!-- /runtime:cut -->
+
 
 - **Cheetos** — Zeitgeist: Gen Z is pressured to optimize every minute — hustle culture says idle time is wasted time. Tension: There's no socially acceptable excuse to just do nothing. Insight: Cheetos dust on your fingers physically prevents you from doing anything else. (The reframe: the product's "flaw" is actually its superpower — it forces you to stop.)
 
-<!-- runtime:cut -->
+
 
 - **PlayStation** — Zeitgeist: Gamers are culturally dismissed — athletes are admired and cheered for, while gamers are seen as geeks. Tension: Gamers feel their wins count less than "real" sports victories. Insight: The emotion you feel winning FIFA 21 on PlayStation is as real as when you win your indoor soccer league. (The reframe: the feeling is identical — only the cultural respect is missing.)
 
-<!-- /runtime:cut -->
+
 
 - **Adidas "Beyond the Surface"** — Zeitgeist: 88% of UAE women feel uncomfortable in swimwear. Tension: Women in conservative societies face judgment when swimming in public. Insight: Swimwear is judged when you're outside the water, but inside the water you're free from judgment. (The reframe: the water line is the boundary — above it, society watches; below it, you're free.)
 
-<!-- runtime:cut -->
+
 
 - **Virgin Australia** — Zeitgeist: Flyers hate the middle seat — it's on every list of air travel complaints. Tension: Unassigned flyers rely on random chance for seating. Insight: Getting the middle seat feels like losing the lottery. (The reframe: if it feels like a lottery, make it an actual lottery — with prizes.)
 
@@ -108,9 +114,11 @@ The test: state your insight. If it could have been written by someone who has n
 
 - **Pampers** — Tension: Parents don't feel confident when outside with the baby — messes happen multiple times a day. Insight: When a baby gives that far-away stare, it strikes fear into an unprepared parent. (The reframe: a visual, specific, universal moment that every parent recognizes — and it sparks a chuckle.)
 
-<!-- /runtime:cut -->
+
 
 - **Deliveroo** — Zeitgeist: Delivery has become a commodity game with cheap alternatives flooding the market. Tension: Consumers see no difference between delivery apps — it's all about price. Insight: A dish is only as good as what it's like when it's delivered. No matter how good the chef, ingredients, or restaurant — if it's delivered badly, it's ruined. (The reframe: the delivery process isn't a commodity add-on, it's the thing that determines whether the food is any good. Led to a cookbook compiled from one-star reviews of competitors.)
+
+<!-- /runtime:cut -->
 
 **3.9 AI Guidance**:
 
@@ -142,15 +150,21 @@ You cannot brainstorm an insight — you excavate it. Most "insights" in briefs 
 
 1. **Observation (The Fact)** — *Grounded in the Zeitgeist*
 What specific behavior or moment are you noticing? No interpretation. No meaning yet. The Observation is always traceable back to the Zeitgeist — it only exists *because* the world is a certain way. If the Zeitgeist is "hustle culture rewards productivity above all else," the Observation is "people feel guilty spending hours doing puzzles." If the Zeitgeist is "gaming is culturally dismissed," the Observation is "gamers joke about their wins." The world creates the behavior.
+<!-- runtime:cut -->
 *"Gamers make jokes about their wins."* | *"People scroll when they're mentally exhausted."* | *"Men spend years perfecting a beard that looks effortless."*
+<!-- /runtime:cut -->
 
 2. **Desire (The Fuel)**
 What does the person actually want? Not the functional thing — the emotional thing. What are they fighting for underneath the behavior? This is the human goal the Observation is circling around.
+<!-- runtime:cut -->
 *"They want recognition. They want the win to feel meaningful."* | *"They want their brain to stop — a real break."* | *"They want to feel confident about how they look."*
+<!-- /runtime:cut -->
 
 3. **Friction (The Barrier)** — *Created by the Tension*
 What is stopping the Desire from being fulfilled? The Friction is always traceable back to the Tension — it's the Tension made personal. The Tension is the crack in the world (Step 2); the Friction is how that crack lands inside the individual. If the Tension is "society doesn't validate gaming as real competition," the Friction is "gamers feel embarrassed to celebrate their wins." External Tension becomes internal Friction.
+<!-- runtime:cut -->
 *"They want to celebrate, but feel embarrassed to take gaming seriously."* | *"Scrolling feels like rest but leaves them more drained."* | *"Masculinity norms mean caring about appearance has to look effortless."*
+<!-- /runtime:cut -->
 
 4. **Key Insight Statement**
 This is the only part that counts. The Observation, Desire, and Friction are the setup. The Key Insight Statement is the revelation — the underlying rule, system, or psychological truth that explains *why* the Friction exists, and in doing so, reframes everything that came before it.
@@ -162,15 +176,25 @@ A genuine Key Insight Statement must do three things simultaneously:
 
 **How to write it**: The Key Insight Statement should read like a sentence that has been unwrapped from the inside out. It starts from what was hidden — the underlying rule — and states it in a way that makes the audience say "of course, that's why" rather than "yes, that's what." The test: does it *explain* the friction, or does it *restate* it?
 
+<!-- runtime:cut -->
 *"Society decides which arenas count as real competition."* — Not "gamers feel dismissed" (restatement). This names the social mechanism that produces the feeling.
+<!-- /runtime:cut -->
 
+<!-- runtime:cut -->
 *"Passive consumption looks like rest but functions like more stimulation — the brain can't recover if it's still processing."* — Not "scrolling is tiring" (restatement). This names the physiological rule that makes the contradiction inevitable.
+<!-- /runtime:cut -->
 
+<!-- runtime:cut -->
 *"Masculinity rewards effort that doesn't look like effort."* — Not "men care about looking good but hide it" (restatement). This names the cultural system that forces the behavior.
+<!-- /runtime:cut -->
 
+<!-- runtime:cut -->
 *"Generosity feels virtuous when freely chosen. It feels like coercion when publicly requested."* — Not "people don't like being asked to donate." This names the psychological rule about autonomy and moral ownership.
+<!-- /runtime:cut -->
 
 **The juxtaposition test**: A Key Insight Statement qualifies as genuine if — when placed next to the Observation, Desire, and Friction — it reframes all three. The audience should feel that the problem they thought they were looking at has been turned inside out. That inversion is what makes it a revelation rather than a summary.
+
+<!-- runtime:cut -->
 
 **The Starter Formula** *(for when you're beginning — builds muscle memory):*
 
@@ -185,6 +209,8 @@ A genuine Key Insight Statement must do three things simultaneously:
 
 Julian Cole: *"I don't use the starters anymore because I've worked up the muscle memory — but if you're beginning, this is a really good way to use it."* The goal is to internalize the structure until the "because" question becomes instinctive.
 
+<!-- /runtime:cut -->
+
 **Critical process instruction — fill one column at a time**: The 4-part chain is sequential, not a brainstorm template. Do not jump ahead. Lock each column before moving to the next:
 - Observation grounds the moment in a specific, real behavior
 - Desire gives it emotional stakes
@@ -192,6 +218,8 @@ Julian Cole: *"I don't use the starters anymore because I've worked up the muscl
 - Key Insight Statement reveals the underlying rule that explains why the Friction exists
 
 If a column feels vague, that's the signal to go back to raw material — not forward to the answer. Jumping to the Explanation too early produces conclusions without foundations, and those fail the Beard Test every time. The discipline is in the sequence.
+
+<!-- runtime:cut -->
 
 **Applied Examples**:
 
@@ -202,7 +230,7 @@ If a column feels vague, that's the signal to go back to raw material — not fo
 - Key Insight Statement: **The pride of winning is universal, but society decides which arenas count as real competition.**
 - What it unlocked: "Greatness Awaits" — an invitation for gamers to claim the legitimacy society withholds. Became the highest-selling console launch in gaming history.
 
-<!-- runtime:cut -->
+
 
 *Equinox:*
 - Observation: Young professionals turn down spontaneous physical activities.
@@ -217,7 +245,7 @@ If a column feels vague, that's the signal to go back to raw material — not fo
 - Friction: I enjoy the puzzles, but they feel hard to justify — they produce nothing useful.
 - Key Insight Statement: **When we measure time through productivity, enjoyment alone feels like poor justification for how we spend it.** The puzzle isn't the problem. The way we've been taught to value time is the problem.
 
-<!-- /runtime:cut -->
+
 
 *Scrolling (interactive exercise — Julian Cole):*
 - Observation: People scroll when mentally exhausted.
@@ -225,7 +253,7 @@ If a column feels vague, that's the signal to go back to raw material — not fo
 - Friction: Scrolling feels restful but leaves them more drained.
 - Key Insight Statement: **Passive consumption looks like rest but functions like more stimulation — the brain can't recover if it's still processing.** It's not a break. It's empty calories.
 
-<!-- runtime:cut -->
+
 
 *Supermarket Donation (personal conflict example — Julian Cole):*
 - Observation: He walked past a food donation stand outside a supermarket and didn't donate.
@@ -233,9 +261,11 @@ If a column feels vague, that's the signal to go back to raw material — not fo
 - Friction: Being publicly asked didn't feel right — it felt like pressure.
 - Key Insight Statement: **Generosity feels virtuous when freely chosen. It feels like coercion when publicly requested.** The same act feels entirely different depending on who initiates it.
 
-<!-- /runtime:cut -->
+
 
 ---
+
+<!-- /runtime:cut -->
 
 **Where to Find Raw Insight Material — The Mining Grounds**
 
@@ -427,11 +457,17 @@ If any connection breaks, go back and fix it at the broken step — not downstre
 
 <!-- /runtime:cut -->
 
+<!-- runtime:cut -->
+
 **How the Insight maps to the GWTB brief structure**: The slides from Julian Cole's class show the mechanical connection explicitly:
 
 - The **Tension** (Step 2) sits between the **WHO** and the **TO** in the GWTB — it is the named gap between where the audience is and where they want to be.
 - The **Insight** powers the **BY** line — it is the unlock that allows the brand's role to feel earned rather than slapped on. BY = insight + brand role.
 - This means the Insight is doing two jobs simultaneously: it explains the Tension (resolving the problem space), and it gives the brand a credible entry point (opening the solution space).
+
+<!-- /runtime:cut -->
+
+<!-- runtime:cut -->
 
 **Worked example — Equinox:**
 - Tension (WHO → TO gap): Young professionals feel their lives are becoming predictable but can't seem to say yes to the adventures they want.
@@ -440,4 +476,10 @@ If any connection breaks, go back and fix it at the broken step — not downstre
 
 The BY line is only credible because of the Insight. Without the Insight (body fear, not desire gap), the BY would read as generic gym marketing. The Insight is what makes "live more boldly" feel like a specific, earned promise rather than a slogan.
 
+
+
 ---
+
+<!-- /runtime:cut -->
+
+**Source-backed excavation**: Consume the research handoff from `method/research-brief.md`. Attach sources to the Observation and any evidenced Desire or Friction. Label inferred motives and causal explanations as hypotheses. Use R02/R05/R07/R08 for alternative readings; a generated inversion is not a consumer finding. Retain the 15–20 candidate ceiling, present 2–3 survivors with the epistemic warning, and wait for human selection before Step 4.

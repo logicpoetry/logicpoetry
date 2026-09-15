@@ -4,7 +4,7 @@ title: "CLUSTER C: STRUCTURE & FORMAT"
 kind: cluster
 cluster: C
 part: catalog
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### CLUSTER C: STRUCTURE & FORMAT
@@ -80,5 +80,16 @@ Show what's normally hidden — inside the product, inside the body, inside a pr
 - Dyson vacuum transparent casing — literally showing the engineering
 - Anti-smoking campaigns — tar accumulation inside lungs
 - Source: Pricken's "Take a Look Inside" chapter.
+
+**C15. Division** — Split a component or sequence, then rearrange its parts to create useful value.
+Use R18 at Steps 8–9. Check dependencies and the whole experience.
+
+**C16. Multiplication** — Copy a component and change a meaningful characteristic of the copy.
+Use R19 at Step 8. Require a useful added function.
+
+**C17. Attribute Dependency** — Make a change in one attribute govern another.
+Use R20 at Steps 8–9. Verify the data, economics and incentives.
+
+These are the product/service SIT tradition alongside C10/C11; distinguish it from the advertising templates in framework 06. Source: Drew Boyd, Faculty Guide to SIT, pp. 4, 17–18, 21: https://drewboyd.com/wp-content/uploads/2016/09/DB-Faculty-Guide-Final.pdf. Procedures: `method/research-operators.md`.
 
 ---

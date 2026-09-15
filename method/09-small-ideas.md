@@ -4,7 +4,7 @@ title: 9. Small Ideas (Tactics)
 kind: step
 part: method
 step: 9
-version: 1.0.0
+version: 1.1.0
 ---
 
 ### 9. Small Ideas (Tactics)
@@ -52,9 +52,15 @@ Example (Lacoste): Creative idea = in a divided world, Lacoste clothing threads 
 
 **9.6.3 Channel as Execution, Not Strategy**: The specific channel or platform where a Small Idea lives (Instagram, OOH, TVC, event) is an execution decision made at Step 9 — not a strategic input. The GWTB checkpoint (Step 6) stays channel-agnostic. The CTA (Step 5) defines the desired action; the Small Ideas define where that action is activated.
 
-*9.8 Quality Tests — to be written*
+**9.8 Quality Tests**:
+- Does each amplifier support the selected hero and platform?
+- Does it give the audience a distinct action or experience suited to that setting?
+- Is its connection to the CTA and next touchpoint clear?
+- Are capabilities, dependencies and proof credible?
+- Does the audience understand it without the internal explanation?
+- Can its contribution be evaluated separately from reach or attention alone?
 
-*9.9 AI Guidance — to be written*
+**9.9 AI Guidance**: Map moment → audience action → amplifier → connection to hero → next action → evidence of contribution. Use R22 for barrier/timing hypotheses and R24/R25 for handoff and experience checks. Vary mechanisms and audience roles while preserving the central rule. A new channel alone is not a new idea. Keep source URLs attached to facts; changes to Insight or Strategy return through their checkpoints.
 
 **9.7 Interface**: Small Ideas are constrained by the Big Idea (they must feel like they belong to the same campaign) and The Creative (they must live under the same roof). They lead out to Tactics, media planning, and execution — the operational layer that sits downstream of Logic Poetry.
 
