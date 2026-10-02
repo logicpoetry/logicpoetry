@@ -45,13 +45,13 @@ Use the menu to choose relevant operations. Read the full card when the procedur
 | W01 | Simile | One property → concrete analogy in another domain | 7; G1/R09; check the shared relation |
 | W02 | Explode | Spoken seed → new boundaries / near-homophones → another reading | 7; A22; read aloud in intended accent |
 | W03 | Unexpect | Ordinary scene → identify and violate an expectation | 7,8; F10/F11; name what changed |
-| W04 | Chain | Seed → successive explainable associations → distant arrivals | 1,7; explain links, deduplicate |
+| W04 | Chain | Seed → explainable branches and different senses → distant arrivals or useful meeting points | 1,7; keep links visible, explore obvious seeds; distinguish facts, cultural associations and assumptions; converging paths are not independent evidence |
 | W05 | POV (historical TextFX) | One topic → different values, judgments or interpretations | 2,3,7; distinguish from stakeholder simulation |
 | W06 | Alliteration | Topic + initial → vocabulary satisfying meaning and sound | 7; A6; letters do not guarantee sounds |
 | W07 | Backronym | Existing word → coherent phrase reproducing its initials | 7; A19; verify order and naturalness |
 | W08 | Fuse | Two concepts → specific shared property or relationship | 7; R09/R10; shared meaning differs from mixed sound |
 | W09 | Scene | Situation → particular cues across the senses | 1,7,8; imagined details are not observations |
-| W10 | Unfold | Seed → established compounds, idioms, titles and contexts | 1,7; A25; verify existence and recognition |
+| W10 | Unfold | Seed → established compounds, idioms, titles and contexts → useful overlapping meanings | 1,7; A25; verify existence and recognition; each meaning must contribute to audience relevance, brand benefit or experience |
 | W11 | Mixer | Input words → blended sound shapes → pronounceable spelling | 7; A1/I5; sound does not guarantee shared meaning |
 | W12 | Respeller | Spoken seed + allowed alphabet → alternative spelling | 7; I6; check alphabet and recognisability separately |
 | W13 | Mouthfeel | Utterance + sound-feature direction → altered articulation | 7; I7; test by listening, avoid universal emotion claims |
@@ -545,6 +545,14 @@ Pincelate's specialised spelling/phonetic model reflects North American English;
 - **Illustration:** `light → feather → bird → nest → home → key → lock → secret`.
 - **Check:** Explain every link. The final word can be distant from the seed while the journey remains intelligible.
 
+**Logic Poetry application extension — branch and reconnect:**
+
+When using Chain, explore branches as well as a single sequence. Seeds can include professional language, behaviours, objects, cultural references, stereotypes or a brand benefit. Distinguish observed facts from cultural associations and assumptions.
+
+At words with several meanings, follow the different meanings separately. Look for words, phrases or experiences reached from more than one path. Explain what each path contributes. Meeting at the same word is useful only when the connections add relevant meaning; several paths do not independently verify an audience claim.
+
+Keep the useful intermediate links visible. Do not discard an obvious seed before exploring what it can lead to. Stop or change direction when the links require strained explanations.
+
 **Evidence:** The documented prompt specifies eight words; its filter checks the starting word, length and repeated items. Eight is an implementation choice, not a necessary property of the general technique. Locators: `CHAIN_PROMPT_COMPONENTS`, line 302, https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js ; `processChainOutputs`, https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/postprocess.js
 
 #### W05. Interpretive reframing — POV, historical
@@ -624,6 +632,12 @@ Pincelate's specialised spelling/phonetic model reflects North American English;
 - **Procedure:** Search compounds, idioms, common expressions and recognisable titles → collect different contexts → distinguish established expressions from invented ones.
 - **Observed:** A `light` run included `green light`, `lighthearted` and `shed light on`. Live tool: https://textfx.withgoogle.com/
 - **Check:** Establish that the expression really exists before treating it as culturally familiar. The historical filter only checks whether the seed occurs in the output; that does not verify familiarity or provenance.
+
+**Logic Poetry application extension — useful overlapping meanings:**
+
+After finding established expressions containing a seed, compare their different meanings. When a phrase connects naturally to the audience, the brand's intended benefit or a possible experience, develop that connection.
+
+Look for expressions whose meanings reinforce one another. More meanings are not automatically better: each should add something useful. Keep established phrases separate from invented variations, and check familiarity where recognition matters.
 
 **Evidence:** Locator: `UNFOLD_PROMPT_COMPONENTS`, line 703, https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js ; `processUnfoldOutputs`, https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/postprocess.js
 

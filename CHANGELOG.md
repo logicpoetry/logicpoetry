@@ -4,6 +4,13 @@ All notable changes to Logic Poetry. Versions are git tags.
 
 ## [Unreleased]
 
+### 2026-10-03 — Broader exploration and connected meanings
+
+- Added technique selection, varied candidate batches, recorded attempts, four development checks and iteration with human direction. Existing stage limits and the full catalogue remain in place.
+- Extended W04 Chain with branching and useful meeting points, W10 Unfold with reinforcing meanings, and A18 Take It Literally with enacted experiences. Retained original technique descriptions and attribution; no new technique ID or mandatory recipe.
+- Connected W04 → W10 → A18 as an optional combination and linked Step 7 and A25 to the guidance.
+- Rebuilt the full prompt, research handoff and compact runtime. Older illustrative examples remain in the full prompt while runtime-only cuts keep the existing byte budget. Dedicated calibration cases, the nine-step sequence and both human checkpoints are unchanged.
+
 ### 2026-09-16 — Research and creative operators (1.1.0 working version)
 
 - Integrated 26 research/design methods and 15 word/sound operations with sources, inputs, procedures, checks and catalog cross-references.

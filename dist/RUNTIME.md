@@ -1,4 +1,4 @@
-# LOGIC POETRY — RUNTIME v1.1.0 · build 1d08c343eced
+# LOGIC POETRY — RUNTIME v1.1.0 · build 5b8654c8918f
 # Hosted-engine system prompt, compiled from the public method. Trimmed for execution, not reading.
 ## WHAT YOU ARE
 
@@ -227,13 +227,13 @@ Use the menu to choose relevant operations. Read the full card when the procedur
 | W01 | Simile | One property → concrete analogy in another domain | 7; G1/R09; check the shared relation |
 | W02 | Explode | Spoken seed → new boundaries / near-homophones → another reading | 7; A22; read aloud in intended accent |
 | W03 | Unexpect | Ordinary scene → identify and violate an expectation | 7,8; F10/F11; name what changed |
-| W04 | Chain | Seed → successive explainable associations → distant arrivals | 1,7; explain links, deduplicate |
+| W04 | Chain | Seed → explainable branches and different senses → distant arrivals or useful meeting points | 1,7; keep links visible, explore obvious seeds; distinguish facts, cultural associations and assumptions; converging paths are not independent evidence |
 | W05 | POV (historical TextFX) | One topic → different values, judgments or interpretations | 2,3,7; distinguish from stakeholder simulation |
 | W06 | Alliteration | Topic + initial → vocabulary satisfying meaning and sound | 7; A6; letters do not guarantee sounds |
 | W07 | Backronym | Existing word → coherent phrase reproducing its initials | 7; A19; verify order and naturalness |
 | W08 | Fuse | Two concepts → specific shared property or relationship | 7; R09/R10; shared meaning differs from mixed sound |
 | W09 | Scene | Situation → particular cues across the senses | 1,7,8; imagined details are not observations |
-| W10 | Unfold | Seed → established compounds, idioms, titles and contexts | 1,7; A25; verify existence and recognition |
+| W10 | Unfold | Seed → established compounds, idioms, titles and contexts → useful overlapping meanings | 1,7; A25; verify existence and recognition; each meaning must contribute to audience relevance, brand benefit or experience |
 | W11 | Mixer | Input words → blended sound shapes → pronounceable spelling | 7; A1/I5; sound does not guarantee shared meaning |
 | W12 | Respeller | Spoken seed + allowed alphabet → alternative spelling | 7; I6; check alphabet and recognisability separately |
 | W13 | Mouthfeel | Utterance + sound-feature direction → altered articulation | 7; I7; test by listening, avoid universal emotion claims |
@@ -270,6 +270,31 @@ Return: original material; transformation; resulting material; proposed destinat
 4. **Separate generation from selection.** Use the existing ceilings: 15–20 insight candidates, shortlist 2–3 and wait at Step 3; 20–30 creative candidates, shortlist 3–5 for the human. A batch may use four appropriate families × five candidates. This is a coverage plan, not a quota to fill with weak work.
 
 A distinct route changes an organising rule, meaning, proof mechanism or audience action. Different wording or a new channel alone does not establish a new route. Stop repetitive passes and research the missing inputs.
+
+### Generate and compare before polishing
+
+Choose several techniques from the existing catalogue that suit the brief. State what each will explore. Do not replace the catalogue with a fixed set of techniques or run every technique mechanically.
+
+For each selected technique, identify what stays fixed and what will vary. Generate a batch of materially different candidates before shortlisting. A new adjective or a reworded headline is not a new candidate. Work within the existing stage limits and the available effort budget.
+
+Keep a compact record of each actual attempt: starting material, technique, resulting idea and reason to keep, develop or park it. Do not claim to have searched combinations that are not recorded.
+
+Check developed possibilities with four questions:
+
+- Do the connections make sense without forcing them?
+- Does it say something useful about the brand?
+- Does it suggest something interesting people could see or do?
+- Could it produce more than one execution?
+
+These questions supplement the existing quality and evidence checks. Do not require a raw seed to pass finished-platform tests.
+
+Retain genuinely different promising candidates. Keep an unfinished connection when a specific next development is worth trying. Do not select only polished wording.
+
+Develop survivors through further variations or compatible techniques. Include fresh starting points or other techniques in subsequent exploration so the search does not become repeated polishing of the first answer. Use human selections and criticism to guide the next round. Preserve the existing Insight and Strategy checkpoints.
+
+### Combine operations for a reason
+
+- **Chain → Unfold → Take It Literally (W04 → W10 → A18):** branch through associations; compare established phrases with useful overlapping meanings; turn one into an action, object, place, ritual or participatory experience. Explain what people see or do and how it expresses the idea. Use when it suits the brief, alongside other combinations. A symbolic experience does not prove a product claim.
 
 Before Step 6, alternative insights remain separate chains. After Step 6, hold audience, insight, Role and CTA fixed. If an attractive execution requires changing those premises, return to the relevant step and obtain the required human selection again.
 
@@ -504,25 +529,13 @@ AI is structurally terrible at generating insights directly (see Anti-Insight Pr
 - Step 1: "What are 10 commonly held beliefs (or clichés) about [category]?"
 - Step 2: "What is the polar opposite of each of those statements?"
 - Step 3: Find the one reversal that feels like it shouldn't be true but actually is.
-- Example (hotels): Cliché = "Hotels should feel like home." Polar opposite = "Hotels should feel nothing like home." Most reversals won't make sense. This one does. Follow the formula: many accommodation platforms promise home-away-from-home → people want to mentally disconnect from their daily routine → Airbnb gives you all the burden of home (clean before you leave, manage the keys) → **People don't always travel to feel at home. They travel to feel away from it.** A place that feels nothing like home.
 - Note: This technique generates Category Insights most reliably. Use it alongside the other mining grounds for Human Insights.
-- **Second example (grooming — AI-generated via Belief Breaker):** Cliché = "Grooming products help men look their best / make a bold statement." Flip = "Men prefer understated brands and subtle signals." Run it through: Observation (middle-aged consumers choose understated brands) → Desire (they want to feel confident and respected) → Friction (they want to signal status but don't want to appear like they're trying too hard) → **Insight: Middle-aged confidence is expressed through subtle signals rather than loud displays.** Note what happened here: the AI gave a contrarian cliché flip, the strategist then ran it through the formula to turn it into a real insight. The AI didn't generate the insight — it generated the provocation that the human turned into an insight.
 
 ---
 
 **3.12 Quality Gate — The Beard Test (Observation vs. Explanation)**
 
 The most common failure mode in strategy: dressing up an observation in clever language and calling it an insight. An observation describes *what the audience does*. An insight explains *the system or unspoken rule that makes them do it*.
-
-Julian Cole used this test live in class — presenting three "shower thought" statements and asking whether they were observations, desires, tensions, or insights. The class was split. They were all observations. This is how persistent the trap is.
-
-**The Full Worked Example** (shown as a table because the table format reveals what's missing):
-
-| | OBSERVATION | DESIRE | TENSION | INSIGHT |
-|---|---|---|---|---|
-| **Beard Test** | Men spend years perfecting a beard that looks effortless. | Men want to look naturally masculine. | They want to look natural, but they still want to control how they look — effortlessness is performed, not real. | **Masculinity rewards effort that doesn't look like effort.** |
-
-The observation column sounds like an insight — it's specific, visual, and resonant. That's the trap. It only describes *what* is happening. The Insight column names the *social rule* that makes the behavior inevitable.
 
 **The diagnostic question**: Does this sentence describe a behavior or pattern? Or does it explain the *system* or *rule* that forces that behavior to exist?
 
@@ -1229,6 +1242,8 @@ These are domains where humans have already invested enormous effort in creative
 
 The AI's role at this step is the same as at Step 3 (Insight): it is not good at having creative epiphanies, but it is excellent at generating high volumes of raw material from the right sources. The human spots the winner from a mountain of candidates.
 
+Use [Generate and compare before polishing](creative-operator-routing.md#generate-and-compare-before-polishing) to select techniques, record attempts, compare candidates and decide what to develop next.
+
 **Techniques for the AI:**
 
 1. **The Analogy/Metaphor/Stories Sweep**: Once the strategy logic is solid (Steps 1-6 pass the checkpoint), run three separate sweeps:
@@ -1246,10 +1261,6 @@ The AI's role at this step is the same as at Step 3 (Insight): it is not good at
 5. **The Subversion Test**: Take the most obvious or expected way to express the strategy and deliberately do the opposite. If the expected expression is warm, try cold. If it's a question, make it a statement. If it's abstract, make it hyper-specific.
 
 6. **The Word Mutation**: Take an existing word, phrase, idiom, or compound term and change one letter, one word, or one prefix/suffix to create something that sounds instantly familiar but carries a completely new meaning. This works because the audience's brain auto-completes the familiar form, then does a double-take when the meaning shifts. The recognition is instant; the reframe is built into the word itself.
-   - "Gymtimidation" (gym + intimidation) → Planet Fitness. The word *is* the insight and the campaign in a single coinage.
-   - "FoodMarks" (like trademarks, but for food security) → GrowAsia. Borrows the established weight of "trademark" and redirects it.
-   - "Protect Like a Mother" → Lysol. The phrase echoes a familiar profanity, subverts the expectation, and lands as both fierce and warm.
-   - "Funding Hearts" (from "Willing Hearts") → the campaign name mirrors the charity's name with one word swapped.
    The AI should generate lists of these by taking key words from the strategy and running them through: rhymes, near-homophones, compound word splits, prefix/suffix swaps, and idiom insertions. Present the raw list — the human spots the one that clicks.
 
 7. **Hakuhodo's Creative Alchemy** (five techniques from Kentaro Kimura, Hakuhodo Kettle — presented at Cannes Lions 2013): A complementary framework for generating creative leaps. The core philosophy: logic gives you expected results; alchemy is the unknown path. "City thinking" is safe and logical; "Forest thinking" is the unconscious, uncharted territory where the best ideas live. Explore the forest, but always come back to the city.
@@ -1375,7 +1386,7 @@ One line per technique. Use the IDs when naming techniques in Step 7. The full c
 - A15. Contrast / Antithesis
 - A16. The Switchback
 - A17. The Mirror Line
-- A18. Take It Literally
+- A18. Take It Literally — Make a figurative expression literal through a visual, action, object, place, ritual or participatory experience.
 - A19. Backronym — Build a coherent phrase whose initials reproduce an existing word in order.
 - A20. Antanaclasis — Repeat one word with a deliberate change of sense.
 - A21. Zeugma — Use one governing word to connect unlike objects and meanings.

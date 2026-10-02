@@ -1,8 +1,8 @@
 {
   "version": "1.1.0",
-  "sha256": "113b1643dc773570d29146ef0fe0c6592cdc496fcf683521701f0072ba3c3e7c",
-  "bytes": 164885,
-  "est_tokens": 45989,
+  "sha256": "4b9042a44664c2e1f9cd083a76b6209006c6441e4c93cdb6c7cbbdb5353266b4",
+  "bytes": 164768,
+  "est_tokens": 45956,
   "modules": [
     {
       "id": "method/OPERATING-MANUAL.md",
@@ -21,13 +21,13 @@
     },
     {
       "id": "method/research-operators.md",
-      "bytes": 7158,
-      "est_tokens": 1988
+      "bytes": 7422,
+      "est_tokens": 2061
     },
     {
       "id": "method/creative-operator-routing.md",
-      "bytes": 3485,
-      "est_tokens": 968
+      "bytes": 5552,
+      "est_tokens": 1542
     },
     {
       "id": "method/01-zeitgeist.md",
@@ -41,8 +41,8 @@
     },
     {
       "id": "method/03-insight.md",
-      "bytes": 24610,
-      "est_tokens": 6836
+      "bytes": 22361,
+      "est_tokens": 6211
     },
     {
       "id": "method/03b-logic-stack.md",
@@ -81,8 +81,8 @@
     },
     {
       "id": "method/07-the-creative.md",
-      "bytes": 13139,
-      "est_tokens": 3655
+      "bytes": 12822,
+      "est_tokens": 3567
     },
     {
       "id": "catalog/README.md",
@@ -91,8 +91,8 @@
     },
     {
       "id": "@catalog-digest",
-      "bytes": 7249,
-      "est_tokens": 2013
+      "bytes": 7367,
+      "est_tokens": 2046
     },
     {
       "id": "method/creative-moves.md",

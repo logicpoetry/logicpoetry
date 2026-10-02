@@ -314,9 +314,14 @@ AI is structurally terrible at generating insights directly (see Anti-Insight Pr
 - Step 1: "What are 10 commonly held beliefs (or clichés) about [category]?"
 - Step 2: "What is the polar opposite of each of those statements?"
 - Step 3: Find the one reversal that feels like it shouldn't be true but actually is.
+<!-- runtime:cut -->
 - Example (hotels): Cliché = "Hotels should feel like home." Polar opposite = "Hotels should feel nothing like home." Most reversals won't make sense. This one does. Follow the formula: many accommodation platforms promise home-away-from-home → people want to mentally disconnect from their daily routine → Airbnb gives you all the burden of home (clean before you leave, manage the keys) → **People don't always travel to feel at home. They travel to feel away from it.** A place that feels nothing like home.
+<!-- /runtime:cut -->
 - Note: This technique generates Category Insights most reliably. Use it alongside the other mining grounds for Human Insights.
+<!-- runtime:cut -->
 - **Second example (grooming — AI-generated via Belief Breaker):** Cliché = "Grooming products help men look their best / make a bold statement." Flip = "Men prefer understated brands and subtle signals." Run it through: Observation (middle-aged consumers choose understated brands) → Desire (they want to feel confident and respected) → Friction (they want to signal status but don't want to appear like they're trying too hard) → **Insight: Middle-aged confidence is expressed through subtle signals rather than loud displays.** Note what happened here: the AI gave a contrarian cliché flip, the strategist then ran it through the formula to turn it into a real insight. The AI didn't generate the insight — it generated the provocation that the human turned into an insight.
+<!-- /runtime:cut -->
+
 
 ---
 
@@ -324,6 +329,7 @@ AI is structurally terrible at generating insights directly (see Anti-Insight Pr
 
 The most common failure mode in strategy: dressing up an observation in clever language and calling it an insight. An observation describes *what the audience does*. An insight explains *the system or unspoken rule that makes them do it*.
 
+<!-- runtime:cut -->
 Julian Cole used this test live in class — presenting three "shower thought" statements and asking whether they were observations, desires, tensions, or insights. The class was split. They were all observations. This is how persistent the trap is.
 
 **The Full Worked Example** (shown as a table because the table format reveals what's missing):
@@ -334,6 +340,7 @@ Julian Cole used this test live in class — presenting three "shower thought" s
 
 The observation column sounds like an insight — it's specific, visual, and resonant. That's the trap. It only describes *what* is happening. The Insight column names the *social rule* that makes the behavior inevitable.
 
+<!-- /runtime:cut -->
 **The diagnostic question**: Does this sentence describe a behavior or pattern? Or does it explain the *system* or *rule* that forces that behavior to exist?
 
 If you're describing → you have an observation. Keep digging.

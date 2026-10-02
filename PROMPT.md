@@ -348,13 +348,13 @@ Use the menu to choose relevant operations. Read the full card when the procedur
 | W01 | Simile | One property → concrete analogy in another domain | 7; G1/R09; check the shared relation |
 | W02 | Explode | Spoken seed → new boundaries / near-homophones → another reading | 7; A22; read aloud in intended accent |
 | W03 | Unexpect | Ordinary scene → identify and violate an expectation | 7,8; F10/F11; name what changed |
-| W04 | Chain | Seed → successive explainable associations → distant arrivals | 1,7; explain links, deduplicate |
+| W04 | Chain | Seed → explainable branches and different senses → distant arrivals or useful meeting points | 1,7; keep links visible, explore obvious seeds; distinguish facts, cultural associations and assumptions; converging paths are not independent evidence |
 | W05 | POV (historical TextFX) | One topic → different values, judgments or interpretations | 2,3,7; distinguish from stakeholder simulation |
 | W06 | Alliteration | Topic + initial → vocabulary satisfying meaning and sound | 7; A6; letters do not guarantee sounds |
 | W07 | Backronym | Existing word → coherent phrase reproducing its initials | 7; A19; verify order and naturalness |
 | W08 | Fuse | Two concepts → specific shared property or relationship | 7; R09/R10; shared meaning differs from mixed sound |
 | W09 | Scene | Situation → particular cues across the senses | 1,7,8; imagined details are not observations |
-| W10 | Unfold | Seed → established compounds, idioms, titles and contexts | 1,7; A25; verify existence and recognition |
+| W10 | Unfold | Seed → established compounds, idioms, titles and contexts → useful overlapping meanings | 1,7; A25; verify existence and recognition; each meaning must contribute to audience relevance, brand benefit or experience |
 | W11 | Mixer | Input words → blended sound shapes → pronounceable spelling | 7; A1/I5; sound does not guarantee shared meaning |
 | W12 | Respeller | Spoken seed + allowed alphabet → alternative spelling | 7; I6; check alphabet and recognisability separately |
 | W13 | Mouthfeel | Utterance + sound-feature direction → altered articulation | 7; I7; test by listening, avoid universal emotion claims |
@@ -843,6 +843,14 @@ Pincelate's specialised spelling/phonetic model reflects North American English;
 - **Illustration:** `light → feather → bird → nest → home → key → lock → secret`.
 - **Check:** Explain every link. The final word can be distant from the seed while the journey remains intelligible.
 
+**Logic Poetry application extension — branch and reconnect:**
+
+When using Chain, explore branches as well as a single sequence. Seeds can include professional language, behaviours, objects, cultural references, stereotypes or a brand benefit. Distinguish observed facts from cultural associations and assumptions.
+
+At words with several meanings, follow the different meanings separately. Look for words, phrases or experiences reached from more than one path. Explain what each path contributes. Meeting at the same word is useful only when the connections add relevant meaning; several paths do not independently verify an audience claim.
+
+Keep the useful intermediate links visible. Do not discard an obvious seed before exploring what it can lead to. Stop or change direction when the links require strained explanations.
+
 **Evidence:** The documented prompt specifies eight words; its filter checks the starting word, length and repeated items. Eight is an implementation choice, not a necessary property of the general technique. Locators: `CHAIN_PROMPT_COMPONENTS`, line 302, https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js ; `processChainOutputs`, https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/postprocess.js
 
 #### W05. Interpretive reframing — POV, historical
@@ -922,6 +930,12 @@ Pincelate's specialised spelling/phonetic model reflects North American English;
 - **Procedure:** Search compounds, idioms, common expressions and recognisable titles → collect different contexts → distinguish established expressions from invented ones.
 - **Observed:** A `light` run included `green light`, `lighthearted` and `shed light on`. Live tool: https://textfx.withgoogle.com/
 - **Check:** Establish that the expression really exists before treating it as culturally familiar. The historical filter only checks whether the seed occurs in the output; that does not verify familiarity or provenance.
+
+**Logic Poetry application extension — useful overlapping meanings:**
+
+After finding established expressions containing a seed, compare their different meanings. When a phrase connects naturally to the audience, the brand's intended benefit or a possible experience, develop that connection.
+
+Look for expressions whose meanings reinforce one another. More meanings are not automatically better: each should add something useful. Keep established phrases separate from invented variations, and check familiarity where recognition matters.
 
 **Evidence:** Locator: `UNFOLD_PROMPT_COMPONENTS`, line 703, https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js ; `processUnfoldOutputs`, https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/postprocess.js
 
@@ -1035,7 +1049,30 @@ Return: original material; transformation; resulting material; proposed destinat
 
 A distinct route changes an organising rule, meaning, proof mechanism or audience action. Different wording or a new channel alone does not establish a new route. Stop repetitive passes and research the missing inputs.
 
+### Generate and compare before polishing
+
+Choose several techniques from the existing catalogue that suit the brief. State what each will explore. Do not replace the catalogue with a fixed set of techniques or run every technique mechanically.
+
+For each selected technique, identify what stays fixed and what will vary. Generate a batch of materially different candidates before shortlisting. A new adjective or a reworded headline is not a new candidate. Work within the existing stage limits and the available effort budget.
+
+Keep a compact record of each actual attempt: starting material, technique, resulting idea and reason to keep, develop or park it. Do not claim to have searched combinations that are not recorded.
+
+Check developed possibilities with four questions:
+
+- Do the connections make sense without forcing them?
+- Does it say something useful about the brand?
+- Does it suggest something interesting people could see or do?
+- Could it produce more than one execution?
+
+These questions supplement the existing quality and evidence checks. Do not require a raw seed to pass finished-platform tests.
+
+Retain genuinely different promising candidates. Keep an unfinished connection when a specific next development is worth trying. Do not select only polished wording.
+
+Develop survivors through further variations or compatible techniques. Include fresh starting points or other techniques in subsequent exploration so the search does not become repeated polishing of the first answer. Use human selections and criticism to guide the next round. Preserve the existing Insight and Strategy checkpoints.
+
 ### Combine operations for a reason
+
+- **Chain → Unfold → Take It Literally (W04 → W10 → A18):** branch through associations; compare established phrases with useful overlapping meanings; turn one into an action, object, place, ritual or participatory experience. Explain what people see or do and how it expresses the idea. Use when it suits the brief, alongside other combinations. A symbolic experience does not prove a product claim.
 
 - Incident → COM-B → division: a real obstacle becomes a possible service change.
 - Successful exception → functional analogy → prototype: an observed practice becomes a testable intervention.
@@ -2184,6 +2221,8 @@ These are domains where humans have already invested enormous effort in creative
 
 The AI's role at this step is the same as at Step 3 (Insight): it is not good at having creative epiphanies, but it is excellent at generating high volumes of raw material from the right sources. The human spots the winner from a mountain of candidates.
 
+Use [Generate and compare before polishing](creative-operator-routing.md#generate-and-compare-before-polishing) to select techniques, record attempts, compare candidates and decide what to develop next.
+
 **Techniques for the AI:**
 
 1. **The Analogy/Metaphor/Stories Sweep**: Once the strategy logic is solid (Steps 1-6 pass the checkpoint), run three separate sweeps:
@@ -2643,10 +2682,18 @@ Reverses the grammatical structure in the second clause, creating a rhythmic, me
 - "Ask not what your country can do for you — ask what you can do for your country" — JFK (studied in ad schools as a structural model)
 - Source: Classical rhetoric (antimetabole); frequently taught at creative schools as a tagline construction technique.
 
-**A18. Take It Literally**
+**A18. Take It Literally** — Make a figurative expression literal through a visual, action, object, place, ritual or participatory experience.
 Takes a figurative expression, cliché, or abstract concept and renders it literally and visually. The contrast between expected figurative meaning and literal execution creates surprise.
 - "Red Bull Gives You Wings" — literally showing a person sprouting wings
 - Source: Pricken's "Take It Literally" chapter. Staple exercise at Miami Ad School and VCU Brandcenter.
+
+**Logic Poetry application extension — make the meaning happen:**
+
+Alongside literal visual treatments, explore whether an expression can become an action, object, place, ritual or participatory experience.
+
+Describe what people would see or do and how that experience expresses the idea. The line should help generate the experience, and the experience should make the meaning clearer. Avoid attaching an unrelated event to a clever phrase.
+
+Chain → Unfold → Take It Literally is one available combination. Use it when it suits the brief; retain other techniques and combinations. A symbolic experience can illustrate a promise, but product claims still require evidence.
 
 ### Additional reproducible operations
 
@@ -2669,7 +2716,7 @@ Use R16; verify the rule. A word ban is an adaptation, not a strict lipogram. ht
 Use R17 with a lexicon. Mutated text is not an authentic quotation. https://oulipo.net/contraintes/s7
 
 **A25. Seed-Context Harvesting** — Retrieve established expressions containing a seed and compare their meanings.
-Use W10; verify existence and recognition. TextFX UNFOLD prompt: https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js
+Use W10, including its application extension on useful overlapping meanings; verify existence and recognition. TextFX UNFOLD prompt: https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js
 
 Existing A1 connects to W11, A6 to W06, A8 to W02/R14, and A9 to R12/R13/W10. Full procedures and checks: `method/research-operators.md`.
 

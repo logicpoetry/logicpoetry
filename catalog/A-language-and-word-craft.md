@@ -95,10 +95,18 @@ Reverses the grammatical structure in the second clause, creating a rhythmic, me
 - "Ask not what your country can do for you — ask what you can do for your country" — JFK (studied in ad schools as a structural model)
 - Source: Classical rhetoric (antimetabole); frequently taught at creative schools as a tagline construction technique.
 
-**A18. Take It Literally**
+**A18. Take It Literally** — Make a figurative expression literal through a visual, action, object, place, ritual or participatory experience.
 Takes a figurative expression, cliché, or abstract concept and renders it literally and visually. The contrast between expected figurative meaning and literal execution creates surprise.
 - "Red Bull Gives You Wings" — literally showing a person sprouting wings
 - Source: Pricken's "Take It Literally" chapter. Staple exercise at Miami Ad School and VCU Brandcenter.
+
+**Logic Poetry application extension — make the meaning happen:**
+
+Alongside literal visual treatments, explore whether an expression can become an action, object, place, ritual or participatory experience.
+
+Describe what people would see or do and how that experience expresses the idea. The line should help generate the experience, and the experience should make the meaning clearer. Avoid attaching an unrelated event to a clever phrase.
+
+Chain → Unfold → Take It Literally is one available combination. Use it when it suits the brief; retain other techniques and combinations. A symbolic experience can illustrate a promise, but product claims still require evidence.
 
 ### Additional reproducible operations
 
@@ -121,7 +129,7 @@ Use R16; verify the rule. A word ban is an adaptation, not a strict lipogram. ht
 Use R17 with a lexicon. Mutated text is not an authentic quotation. https://oulipo.net/contraintes/s7
 
 **A25. Seed-Context Harvesting** — Retrieve established expressions containing a seed and compare their meanings.
-Use W10; verify existence and recognition. TextFX UNFOLD prompt: https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js
+Use W10, including its application extension on useful overlapping meanings; verify existence and recognition. TextFX UNFOLD prompt: https://raw.githubusercontent.com/google/generative-ai-docs/main/demos/palm/web/textfx/src/lib/priming.js
 
 Existing A1 connects to W11, A6 to W06, A8 to W02/R14, and A9 to R12/R13/W10. Full procedures and checks: `method/research-operators.md`.
 

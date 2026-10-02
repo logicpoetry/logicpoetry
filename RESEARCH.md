@@ -235,13 +235,13 @@ Use the menu to choose relevant operations. Read the full card when the procedur
 | W01 | Simile | One property → concrete analogy in another domain | 7; G1/R09; check the shared relation |
 | W02 | Explode | Spoken seed → new boundaries / near-homophones → another reading | 7; A22; read aloud in intended accent |
 | W03 | Unexpect | Ordinary scene → identify and violate an expectation | 7,8; F10/F11; name what changed |
-| W04 | Chain | Seed → successive explainable associations → distant arrivals | 1,7; explain links, deduplicate |
+| W04 | Chain | Seed → explainable branches and different senses → distant arrivals or useful meeting points | 1,7; keep links visible, explore obvious seeds; distinguish facts, cultural associations and assumptions; converging paths are not independent evidence |
 | W05 | POV (historical TextFX) | One topic → different values, judgments or interpretations | 2,3,7; distinguish from stakeholder simulation |
 | W06 | Alliteration | Topic + initial → vocabulary satisfying meaning and sound | 7; A6; letters do not guarantee sounds |
 | W07 | Backronym | Existing word → coherent phrase reproducing its initials | 7; A19; verify order and naturalness |
 | W08 | Fuse | Two concepts → specific shared property or relationship | 7; R09/R10; shared meaning differs from mixed sound |
 | W09 | Scene | Situation → particular cues across the senses | 1,7,8; imagined details are not observations |
-| W10 | Unfold | Seed → established compounds, idioms, titles and contexts | 1,7; A25; verify existence and recognition |
+| W10 | Unfold | Seed → established compounds, idioms, titles and contexts → useful overlapping meanings | 1,7; A25; verify existence and recognition; each meaning must contribute to audience relevance, brand benefit or experience |
 | W11 | Mixer | Input words → blended sound shapes → pronounceable spelling | 7; A1/I5; sound does not guarantee shared meaning |
 | W12 | Respeller | Spoken seed + allowed alphabet → alternative spelling | 7; I6; check alphabet and recognisability separately |
 | W13 | Mouthfeel | Utterance + sound-feature direction → altered articulation | 7; I7; test by listening, avoid universal emotion claims |
@@ -292,7 +292,30 @@ Return: original material; transformation; resulting material; proposed destinat
 
 A distinct route changes an organising rule, meaning, proof mechanism or audience action. Different wording or a new channel alone does not establish a new route. Stop repetitive passes and research the missing inputs.
 
+### Generate and compare before polishing
+
+Choose several techniques from the existing catalogue that suit the brief. State what each will explore. Do not replace the catalogue with a fixed set of techniques or run every technique mechanically.
+
+For each selected technique, identify what stays fixed and what will vary. Generate a batch of materially different candidates before shortlisting. A new adjective or a reworded headline is not a new candidate. Work within the existing stage limits and the available effort budget.
+
+Keep a compact record of each actual attempt: starting material, technique, resulting idea and reason to keep, develop or park it. Do not claim to have searched combinations that are not recorded.
+
+Check developed possibilities with four questions:
+
+- Do the connections make sense without forcing them?
+- Does it say something useful about the brand?
+- Does it suggest something interesting people could see or do?
+- Could it produce more than one execution?
+
+These questions supplement the existing quality and evidence checks. Do not require a raw seed to pass finished-platform tests.
+
+Retain genuinely different promising candidates. Keep an unfinished connection when a specific next development is worth trying. Do not select only polished wording.
+
+Develop survivors through further variations or compatible techniques. Include fresh starting points or other techniques in subsequent exploration so the search does not become repeated polishing of the first answer. Use human selections and criticism to guide the next round. Preserve the existing Insight and Strategy checkpoints.
+
 ### Combine operations for a reason
+
+- **Chain → Unfold → Take It Literally (W04 → W10 → A18):** branch through associations; compare established phrases with useful overlapping meanings; turn one into an action, object, place, ritual or participatory experience. Explain what people see or do and how it expresses the idea. Use when it suits the brief, alongside other combinations. A symbolic experience does not prove a product claim.
 
 - Incident → COM-B → division: a real obstacle becomes a possible service change.
 - Successful exception → functional analogy → prototype: an observed practice becomes a testable intervention.

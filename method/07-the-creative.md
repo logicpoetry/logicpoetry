@@ -66,6 +66,8 @@ These are domains where humans have already invested enormous effort in creative
 
 The AI's role at this step is the same as at Step 3 (Insight): it is not good at having creative epiphanies, but it is excellent at generating high volumes of raw material from the right sources. The human spots the winner from a mountain of candidates.
 
+Use [Generate and compare before polishing](creative-operator-routing.md#generate-and-compare-before-polishing) to select techniques, record attempts, compare candidates and decide what to develop next.
+
 **Techniques for the AI:**
 
 1. **The Analogy/Metaphor/Stories Sweep**: Once the strategy logic is solid (Steps 1-6 pass the checkpoint), run three separate sweeps:
@@ -83,10 +85,12 @@ The AI's role at this step is the same as at Step 3 (Insight): it is not good at
 5. **The Subversion Test**: Take the most obvious or expected way to express the strategy and deliberately do the opposite. If the expected expression is warm, try cold. If it's a question, make it a statement. If it's abstract, make it hyper-specific.
 
 6. **The Word Mutation**: Take an existing word, phrase, idiom, or compound term and change one letter, one word, or one prefix/suffix to create something that sounds instantly familiar but carries a completely new meaning. This works because the audience's brain auto-completes the familiar form, then does a double-take when the meaning shifts. The recognition is instant; the reframe is built into the word itself.
+   <!-- runtime:cut -->
    - "Gymtimidation" (gym + intimidation) → Planet Fitness. The word *is* the insight and the campaign in a single coinage.
    - "FoodMarks" (like trademarks, but for food security) → GrowAsia. Borrows the established weight of "trademark" and redirects it.
    - "Protect Like a Mother" → Lysol. The phrase echoes a familiar profanity, subverts the expectation, and lands as both fierce and warm.
    - "Funding Hearts" (from "Willing Hearts") → the campaign name mirrors the charity's name with one word swapped.
+   <!-- /runtime:cut -->
    The AI should generate lists of these by taking key words from the strategy and running them through: rhymes, near-homophones, compound word splits, prefix/suffix swaps, and idiom insertions. Present the raw list — the human spots the one that clicks.
 
 7. **Hakuhodo's Creative Alchemy** (five techniques from Kentaro Kimura, Hakuhodo Kettle — presented at Cannes Lions 2013): A complementary framework for generating creative leaps. The core philosophy: logic gives you expected results; alchemy is the unknown path. "City thinking" is safe and logical; "Forest thinking" is the unconscious, uncharted territory where the best ideas live. Explore the forest, but always come back to the city.

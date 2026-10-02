@@ -43,9 +43,32 @@ Return: original material; transformation; resulting material; proposed destinat
 
 A distinct route changes an organising rule, meaning, proof mechanism or audience action. Different wording or a new channel alone does not establish a new route. Stop repetitive passes and research the missing inputs.
 
-<!-- runtime:cut -->
+### Generate and compare before polishing
+
+Choose several techniques from the existing catalogue that suit the brief. State what each will explore. Do not replace the catalogue with a fixed set of techniques or run every technique mechanically.
+
+For each selected technique, identify what stays fixed and what will vary. Generate a batch of materially different candidates before shortlisting. A new adjective or a reworded headline is not a new candidate. Work within the existing stage limits and the available effort budget.
+
+Keep a compact record of each actual attempt: starting material, technique, resulting idea and reason to keep, develop or park it. Do not claim to have searched combinations that are not recorded.
+
+Check developed possibilities with four questions:
+
+- Do the connections make sense without forcing them?
+- Does it say something useful about the brand?
+- Does it suggest something interesting people could see or do?
+- Could it produce more than one execution?
+
+These questions supplement the existing quality and evidence checks. Do not require a raw seed to pass finished-platform tests.
+
+Retain genuinely different promising candidates. Keep an unfinished connection when a specific next development is worth trying. Do not select only polished wording.
+
+Develop survivors through further variations or compatible techniques. Include fresh starting points or other techniques in subsequent exploration so the search does not become repeated polishing of the first answer. Use human selections and criticism to guide the next round. Preserve the existing Insight and Strategy checkpoints.
 
 ### Combine operations for a reason
+
+- **Chain → Unfold → Take It Literally (W04 → W10 → A18):** branch through associations; compare established phrases with useful overlapping meanings; turn one into an action, object, place, ritual or participatory experience. Explain what people see or do and how it expresses the idea. Use when it suits the brief, alongside other combinations. A symbolic experience does not prove a product claim.
+
+<!-- runtime:cut -->
 
 - Incident → COM-B → division: a real obstacle becomes a possible service change.
 - Successful exception → functional analogy → prototype: an observed practice becomes a testable intervention.
