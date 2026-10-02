@@ -92,6 +92,10 @@ Audience and operational checks supply new evidence. LLM self-scores help organi
 
 <!-- runtime:cut -->
 
+### Worked case
+
+[Legora — Raise the Bar](../examples/cases/13-legora-raise-the-bar.md) reconstructs how the legal association, promise of higher standards and a physical bar reinforce one another. It compares earlier routes and applies the four development checks. Reported pitch win; campaign results not supplied.
+
 ### Source and confidence
 
 The run controls are Logic Poetry's proposed operating design, not an experimentally validated campaign-generation system. A computational precedent for preserving quality across different behaviours is Mouret and Clune's MAP-Elites: https://arxiv.org/abs/1504.04909.

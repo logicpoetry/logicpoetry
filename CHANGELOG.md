@@ -4,6 +4,12 @@ All notable changes to Logic Poetry. Versions are git tags.
 
 ## [Unreleased]
 
+### 2026-10-03 — Legora case study
+
+- Added the contributor-authorised Raise the Bar case: nine-step reconstruction, legal/standards/venue meanings, activation and earned-story extensions, comparison with earlier routes, and W04 → W10 → A18 teaching notes.
+- Identified the private primary proposal and contributor account; distinguished the reported pitch win from unverified campaign delivery, results and discovery provenance. Source files, commercial details and raw research are not bundled.
+- Linked the case from creative-operator guidance and regenerated the indexes. The new case remains outside default calibration and runtime, following the case contribution rules.
+
 ### 2026-10-03 — Broader exploration and connected meanings
 
 - Added technique selection, varied candidate batches, recorded attempts, four development checks and iteration with human direction. Existing stage limits and the full catalogue remain in place.

@@ -450,6 +450,31 @@
       "runtime": true,
       "version": "1.0.0"
     },
+    "examples/cases/13-legora-raise-the-bar.md": {
+      "id": "examples/cases/13-legora-raise-the-bar",
+      "title": "Legora — Raise the Bar",
+      "brand": "Legora",
+      "category": "Legal AI / B2B Market Entry",
+      "market": "Singapore",
+      "kind": "case",
+      "case_type": "Winning-pitch retrospective",
+      "status": "Pitch win reported; campaign results not supplied",
+      "complete": true,
+      "steps": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "calibration": false,
+      "runtime": false,
+      "version": "1.1.0"
+    },
     "examples/cases/README.md": {
       "id": "examples/cases/README",
       "title": "Campaign cases",
