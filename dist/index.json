@@ -214,6 +214,14 @@
       "part": "examples",
       "version": "1.0.0"
     },
+    "examples/cannes-grand-prix-calibration.md": {
+      "id": "examples/cannes-grand-prix-calibration",
+      "title": "Cannes Grand Prix calibration 2023 to 2026",
+      "kind": "calibration",
+      "part": "examples",
+      "calibration": false,
+      "version": "1.0.0"
+    },
     "examples/cases/01-matterport.md": {
       "id": "examples/cases/01-matterport",
       "brand": "Matterport",
@@ -496,6 +504,14 @@
       "kind": "calibration",
       "part": "examples",
       "calibration": true,
+      "version": "1.0.0"
+    },
+    "examples/judge-scorecard.md": {
+      "id": "examples/judge-scorecard",
+      "title": "Judge scorecard",
+      "kind": "calibration",
+      "part": "examples",
+      "calibration": false,
       "version": "1.0.0"
     },
     "examples/model-answer-spotify-listen-like-you-used-to.md": {

@@ -4,6 +4,12 @@ All notable changes to Logic Poetry. Versions are git tags.
 
 ## [Unreleased]
 
+### 2026-10-10 — Cannes calibration and judge scorecard
+
+- Added `examples/cannes-grand-prix-calibration.md`: AXA Three Words, Orange WoMen's Football, Specsavers The Misheard Version, Xbox The Everyday Tactician, Penny Price Packs, Renault Plug-Inn, CeraVe Michael CeraVe and Dove Real Beauty Redefined for the AI Era, each read through the chain and pinned to the step it calibrates, with seven shared operations (Bait-and-Switch, Build a Utility, Cultural Trojan Horse, Immersive Prank, Package as Medium, Aesthetic Authority, Infrastructure Correction). Award facts checked against festival and trade coverage; the working draft's 2023 to 2025 span was corrected to 2023 to 2026.
+- Added `examples/judge-scorecard.md`: the ten-row 0 to 10 rubric for scoring a nine-step run, carried over from the training scorecard.
+- Both files are `calibration: false`, so the single-paste prompt and the hosted runtime are unchanged. Indexes regenerated.
+
 ### 2026-10-03 — Legora case study
 
 - Added the contributor-authorised Raise the Bar case: nine-step reconstruction, legal/standards/venue meanings, activation and earned-story extensions, comparison with earlier routes, and W04 → W10 → A18 teaching notes.

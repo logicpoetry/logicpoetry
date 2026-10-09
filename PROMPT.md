@@ -3920,6 +3920,15 @@ Use these as calibration for tone, logic, and execution quality. Campaign cases 
 
 ---
 
+## FURTHER CALIBRATION
+
+- `cannes-grand-prix-calibration.md` — eight Grand Prix winners from 2023 to 2026 read through the chain, each pinned to the step it calibrates, plus the seven operations they share.
+- `judge-scorecard.md` — the 0 to 10 rubric for scoring a nine-step run, one row per step, used when several teams work the same brief.
+
+Both sit outside the single-paste prompt (`calibration: false`). Load them when judging work or checking altitude.
+
+---
+
 ### INSIGHT CALIBRATION CASES — Award-Winning Insight → Strategy → Creative Chains
 *(Source: Julian Cole / Strategy Finishing School — "10 Insights from Award Winning Work")*
 
