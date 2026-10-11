@@ -1,10 +1,12 @@
 # Logic Poetry
 
-> **Want to use it right now?** Open [`PROMPT.md`](PROMPT.md), press the copy button in the top-right of the file view, paste it into any chat window as your first message. Or use the one-click copy at [logicpoetry.ai](https://logicpoetry.ai).
+> **Want to use it right now?** Open [`PROMPT.md`](PROMPT.md), press the copy button in the top-right of the file view, paste it into any chat window as your first message. Use the current repository files as the method source.
 >
 > **Sending an AI agent here?** Tell it to read [`SKILL.md`](SKILL.md). Claude Code, Codex and Cursor pick it up as a skill.
 
-**A nine-step framework for turning a brief into a creative platform.** Logic first, poetry second. Built for strategists and creatives, and for the AI agents they work with.
+**A nine-step framework for turning a brief into a creative platform and connected campaign.** Logic first, poetry second. Built for strategists and creatives, and for the AI agents they work with.
+
+**Read the changes:** [`CHANGELOG.md`](CHANGELOG.md) records dated additions and corrections. The working method is **1.1.0**; the latest Git tag is **v1.0.0**. Later changes remain under Unreleased. As of 10 October 2026, the Blueprint integration in this checkout is local and uncommitted; neither a runtime build nor a changelog entry establishes hosted deployment.
 
 ## The chain
 
@@ -15,12 +17,20 @@
 5. **Call to Action** — the observable behaviour change
 6. **Strategy** — Get-Who-To-By, scored against a quality rubric *(mandatory pit stop)*
 7. **The Creative** — the platform, with quality tests and an effectiveness ladder
-8. **Big Idea** — the one thing everything hangs off
-9. **Small Ideas** — the tactics that prove it
+8. **Big Idea** — the hero execution that brings the platform to life
+9. **Small Ideas** — tactics that prove and extend the hero, connected into audience journeys through Blueprint
 
 Step labels can flex. Step logic cannot.
 
 Around the chain: a twelve-cluster **creative techniques catalog**, a **debugging suite** for work that feels flat, defined **output models** (deck, recap, feedback report), and **calibrated award cases** so the AI knows what good looks like.
+
+## Blueprint for connected campaigns
+
+At Step 9, [Nicolas Chan's Blueprint](frameworks/14-blueprint.md) connects the platform, Big Idea and Small Ideas. For each tactic, explain what it contributes to the creative centre and what its CTA urges people to do next.
+
+Each arrow records CTA intent: the action urged, its destination or outcome, and the message connecting the encounters logically. A hyperlink, sign or point of sale helps facilitate that intent where appropriate. The map plots our intended pathways. People may take other routes and still achieve the outcome: a post intended to prompt word of mouth might instead lead someone straight to the website to buy. Audit missing steps, broken handoffs and disconnected tactics; success does not require following the plotted sequence.
+
+The module provides ecosystem maps, highlighted example routes, a connection table and five audit views, with Nespresso, Shopline and HireRight examples from the author's training deck. Use it to design a connected campaign or audit an existing journey. The Insight and Strategy human checkpoints remain intact.
 
 ## Research from a brand, campaign or scenario
 
@@ -59,6 +69,8 @@ Start at [`method/00-core-philosophy.md`](method/00-core-philosophy.md) and read
 ```
 SKILL.md              the router agents read to run the method
 AGENTS.md             the rules agents read to edit this repo (CLAUDE.md points here)
+README.md             how to use the current method
+CHANGELOG.md          dated additions, corrections and release status
 PROMPT.md             single-paste version, generated, do not edit
 RESEARCH.md           standalone research-brief builder and handoff, generated
 method/                the nine steps and the supporting logic
@@ -83,10 +95,10 @@ Add a file, run the compiler, commit:
 python3 scripts/build-boot.py
 ```
 
-Cases marked `calibration: true` go into the single-paste `PROMPT.md`; the rest stay in the library. Versions are tagged; see [`CHANGELOG.md`](CHANGELOG.md).
+Cases marked `calibration: true` go into the single-paste `PROMPT.md`; the rest stay in the library. Record notable changes under Unreleased in [`CHANGELOG.md`](CHANGELOG.md), update this README when user-facing behaviour changes, and run `python3 scripts/build-boot.py --check`. Released versions receive tags; local edits do not create a release.
 
 ## Author and licence
 
 Authored by **Nicolas Chan**. Insight methodology informed by Julian Cole / Strategy Finishing School.
 
-Released under [CC BY-SA 4.0](LICENSE): use it, adapt it, teach it, build products on it. Credit the source and share adaptations under the same terms.
+The base method is released under [CC BY-SA 4.0](LICENSE): credit the source and share adaptations under the same terms. The locally integrated [Blueprint module](frameworks/14-blueprint.md) retains Nicolas Chan's proprietary attribution (`LicenseRef-Proprietary`); its inclusion grants no redistribution rights.

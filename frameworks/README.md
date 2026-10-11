@@ -30,4 +30,4 @@ Every entry carries the seven headings in `_TEMPLATE.md`: what it does, when to 
 
 ## Attribution
 
-Name the originator and the primary source. A framework someone else invented stays theirs; this folder documents how it plugs into the chain, under CC BY-SA 4.0 like everything else here.
+Name the originator and the primary source. A framework someone else invented stays theirs; this folder documents how it plugs into the chain, under the stated licence. The local Blueprint integration retains Nicolas Chan's proprietary attribution (`LicenseRef-Proprietary`); inclusion does not grant redistribution rights.

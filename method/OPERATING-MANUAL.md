@@ -101,6 +101,6 @@ When Logic Poetry is triggered:
 
 ## VERSION & AUTHORSHIP
 
-Logic Poetry v1.1.0 — authored by Nicolas Chan. Insight methodology informed by Julian Cole / Strategy Finishing School. Released under CC BY-SA 4.0. This document is a living compilation. It grows with each session.
+Logic Poetry v1.1.0 — authored by Nicolas Chan. Insight methodology informed by Julian Cole / Strategy Finishing School. The base method is released under CC BY-SA 4.0; the locally integrated Blueprint module retains Nicolas Chan's proprietary attribution and is not relicensed by inclusion. This document is a living compilation. It grows with each session.
 
 <!-- /runtime:cut -->

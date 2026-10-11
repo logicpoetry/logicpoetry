@@ -1,4 +1,4 @@
-# LOGIC POETRY — RUNTIME v1.1.0 · build 5b8654c8918f
+# LOGIC POETRY — RUNTIME v1.1.0 · build ded32efd07da
 # Hosted-engine system prompt, compiled from the public method. Trimmed for execution, not reading.
 ## WHAT YOU ARE
 
@@ -1589,7 +1589,7 @@ It should be single-minded: one idea, one execution, one unmistakable message. I
 3. Apply a few mechanically different operations. Describe each result as one action, object or experience.
 4. Show what happens, what the audience understands or does, and how the brand delivers it.
 5. Map dependencies (R24). Rehearse the smallest meaningful experience (R25); distinguish simulation from audience evidence.
-6. Apply the Stand-Alone Test and select one hero execution. Develop its amplifiers at Step 9.
+6. Apply the Stand-Alone Test and select one hero execution. Develop its amplifiers at Step 9; Blueprint maps their creative and behavioural connections around the selected hero.
 
 **8.8 Quality Tests**:
 
@@ -1611,54 +1611,22 @@ It should be single-minded: one idea, one execution, one unmistakable message. I
 
 ### 9. Small Ideas (Tactics)
 
-**9.1 Also Known As**
-*Tactics, Amplification, Touchpoints, Campaign Phases, Activations, Campaign Ecosystem, Orchestration*
-
 **9.2 The Job**: Small Ideas are how the Big Idea travels. They are the executions across different channels, formats, and touchpoints that amplify and extend the core campaign. Without orchestration, even a great Big Idea stays in one place and dies.
-
-Small Ideas solve a specific problem: the disconnect between creative and media. A brilliant creative idea that only works in one format is a one-off, not a campaign. Small Ideas ensure the idea is *built out in a way that makes sense for each environment it shows up in* — optimized for the channel, the audience behavior in that channel, and the stage of the customer journey.
-
-**9.4 Definition**: Amplifiers. How the Big Idea travels across Paid, Earned, Shared, and Owned (PESO) channels, adapted for each environment while maintaining the same core message.
-
-**9.5 Types — Campaign Structure Approaches**:
-
-**AVOID: Classic (Broken) Approach**
-- Multiple disconnected ideas trying to express the same creative
-- Non-integrated set of executions
-- No clear center
-
-**USE: Integrated Approach**
-- One Big Idea at the center
-- Small Ideas radiate outward to amplify the Big Idea
-- Each Small Idea demonstrates the same core idea via different tactics/touchpoints/channels
-
-**Variations**:
-- **360° Approach**: Big Idea across PESO (Paid, Earned, Shared, Owned, Collab)
-- **Touchpoint Approach**: Big Idea across customer journey (Launch Event, In-Store, Website, Influencer, TVC, Social)
 
 **9.6 How to Find It — Building the Ecosystem**:
 
-**9.6.1 The Campaign Ecosystem**: The one-page illustration that maps all channels, stages, and executions and shows how they work together. It plots the flow of how the audience moves through the campaign — from awareness through engagement to action. Every Small Idea should have a clear role in this flow and point the audience in the right direction.
-
-Example (Heinz Ketchup Fraud): Print ads in premium magazines → newspaper inserts → social media activations encouraging fans to tag restaurants committing "ketchup fraud." Each touchpoint uses the brand's iconic traits (Keystone logo, red, bottle shape) and builds on the same central idea.
-
-**9.6.2 The "Surround the Moment" Prompt**: A powerful method for generating Small Ideas is to ask: "Surround the moment [insert the creative idea]." This turns The Creative into a media and placement strategy.
-
-Example (Lacoste): Creative idea = in a divided world, Lacoste clothing threads the needle by celebrating diversity. Comms strategy = "Surround the moments when different cultures intersect." This guided OOH placement on street corners where different communities actually meet. The creative idea *became* the media strategy.
-
 **9.6.3 Channel as Execution, Not Strategy**: The specific channel or platform where a Small Idea lives (Instagram, OOH, TVC, event) is an execution decision made at Step 9 — not a strategic input. The GWTB checkpoint (Step 6) stays channel-agnostic. The CTA (Step 5) defines the desired action; the Small Ideas define where that action is activated.
+
+**9.6.4 Blueprint — Connect the Ideas**: For integrated campaigns, run Nicolas Chan's Blueprint (`frameworks/14-blueprint.md`, embedded below). Link each tactic to both the creative centre and an audience's next action. Return the ecosystem map, highlighted route and handoff table.
 
 **9.8 Quality Tests**:
 - Does each amplifier support the selected hero and platform?
 - Does it give the audience a distinct action or experience suited to that setting?
-- Is its connection to the CTA and next touchpoint clear?
+- Does each arrow name the action the CTA urges and a logical destination or outcome?
+- Does the audit reveal missing support or friction, with facilitation where useful and room for actual routes to differ?
 - Are capabilities, dependencies and proof credible?
 - Does the audience understand it without the internal explanation?
 - Can its contribution be evaluated separately from reach or attention alone?
-
-**9.9 AI Guidance**: Map moment → audience action → amplifier → connection to hero → next action → evidence of contribution. Use R22 for barrier/timing hypotheses and R24/R25 for handoff and experience checks. Vary mechanisms and audience roles while preserving the central rule. A new channel alone is not a new idea. Keep source URLs attached to facts; changes to Insight or Strategy return through their checkpoints.
-
-**9.7 Interface**: Small Ideas are constrained by the Big Idea (they must feel like they belong to the same campaign) and The Creative (they must live under the same roof). They lead out to Tactics, media planning, and execution — the operational layer that sits downstream of Logic Poetry.
 
 ---
 
@@ -1923,6 +1891,39 @@ This is not a supporting PR document. It is the campaign. The report defines a n
 Every product feature is a 少說歹勢. The platform and the product are the same argument.
 
 ---
+
+---
+
+# Blueprint — connect the idea to the journey
+
+## What it does
+
+Nicolas Chan's Blueprint audits and designs connected journeys. Link tactics to the creative centre and audience progression. **Each arrow records what the CTA urges people to do next.** Plot our intended logical pathways; actual behaviour may differ. Ask “And then?” and “What are we asking them to do?”
+
+## When to use it
+
+Use inside Step 9 for campaign design, or audit existing journeys from their audience, objective and actual assets. Design retains the approved platform, hero and Strategy. Do not invent upstream decisions for an audit. Changed Insight or Strategy returns to its human checkpoint; media buying remains downstream.
+
+## How to apply it
+
+1. Choose stakeholder and audit view: ecosystem, campaign, isolated route or cross-team. Plot intended changes in thinking/action and routes through the encounters.
+2. Place the hero, tactics and supporting assets. State each creative connection, audience barrier and message/proof. Give each a job: recruit, experience, amplify, enable, convert or sustain.
+3. Label each arrow with the action the CTA urges: visit, buy, enquire, share or recommend. Name its destination or intended outcome and the message that makes the next step logical. Links, signs and points of sale help facilitate it; they are not prerequisites.
+4. Show the ecosystem, then highlight one intended route. Distinguish channels, ownership and existing/proposed assets with a legend.
+5. Audit missing support, orphan tactics, friction, overload and unclear intent. A gap needs a human reason, not an empty template cell or absent hyperlink.
+6. Return a map, intended route and table: message/CTA → urged action → destination/outcome → facilitation. Note dependencies and fixes. People may take other routes; assess outcomes separately from adherence to the plan.
+
+## Failure mode
+
+A wall of channel boxes with no audience progression; vague arrows; CTAs with no clear intended action or logical next encounter; treating planned routes as mandatory behaviour; unrelated executions sharing a slogan; the same message everywhere; speculative conversion presented as fact. Fix the broken connection before adding a tactic.
+
+## Example
+
+Nespresso's proposed #TakeYourTime route: partner invitation → Instagram hero → redemption code → boutique sampling → CRM. The invitation urges participation; the code urges a boutique visit for redemption.
+
+## Source and confidence
+
+Blueprint is Nicolas Chan's proprietary method. Local inclusion grants no redistribution rights. Primary source: [Blueprint Methodology Training — 2.0](https://docs.google.com/presentation/d/1b9d19aXaLpIwcINiByRZIyPGbYmkpea_iIf71Dp5KBo), accessed 10 October 2026. Confidence: reviewed against the training diagrams and the author's 10 October 2026 CTA-rule clarification; campaign outcomes remain unverified.
 
 ---
 

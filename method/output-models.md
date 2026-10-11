@@ -3,7 +3,7 @@ id: method/output-models
 title: OUTPUT_MODELS
 kind: output
 part: method
-version: 1.0.1
+version: 1.0.4
 ---
 
 ## OUTPUT_MODELS
@@ -49,7 +49,9 @@ Read `method/soundcheck.md` in full; it is also embedded in the compiled prompt.
 6. The strategic logic in one line → (GWTB)
 7. The idea → (Creative Reveal)
 8. How it comes to life → (Big Idea)
-9. How it travels → (Small Ideas / ecosystem)
+9. How it travels → (Small Ideas / Blueprint ecosystem and highlighted audience route)
+
+**For an integrated campaign**, show the Blueprint: the creative centre, touchpoints placed by audience state, and labelled handoffs towards the CTA. Highlight one intended route within the ecosystem. Arrows label what each CTA urges people to do. Links or physical mechanisms can facilitate it; actual routes may differ and still succeed. Keep ownership, dependencies, assumptions and measures in a companion table or appendix. A channel list is not an ecosystem map. Use the full procedure in `frameworks/14-blueprint.md`.
 
 **Conversion examples — Logic Poetry language → Deck language**:
 

@@ -1,6 +1,6 @@
 # Contributing to Logic Poetry
 
-Three kinds of contribution, three doors. Everything comes in under the repo licence, CC BY-SA 4.0, and stays attributed to you in git history.
+Three kinds of contribution, three doors. Contributions normally use the repo licence, CC BY-SA 4.0, and stay attributed to you in git history. Respect any stated module-specific rights; the local Blueprint integration retains its proprietary attribution.
 
 ## 1. Add a case
 
@@ -18,6 +18,10 @@ Cases are how the framework learns what good looks like. One file per case in `e
 ## 3. Improve the method
 
 Changes to the nine steps, the GWTB engine, the debugging suite or the guardrails live in `method/`. These get the most scrutiny. Open an issue first if the change alters step logic. Step labels can flex; step sequence and the two pit stops cannot.
+
+## Document the change
+
+Add a dated `CHANGELOG.md` entry under Unreleased for notable changes. Explain the resulting behaviour, meaningful corrections and validation. Update `README.md` when usage, capabilities, layout or licensing change. Preserve history and distinguish a local working change from a tagged release or hosted deployment.
 
 ## Before you open a pull request
 

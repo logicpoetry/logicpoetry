@@ -1,8 +1,8 @@
 {
   "version": "1.1.0",
-  "sha256": "4b9042a44664c2e1f9cd083a76b6209006c6441e4c93cdb6c7cbbdb5353266b4",
-  "bytes": 164768,
-  "est_tokens": 45956,
+  "sha256": "ba52475b50ee96df65da3923e9f1da29cf04c6d8097a2de8de7d50ac984daa92",
+  "bytes": 164949,
+  "est_tokens": 46007,
   "modules": [
     {
       "id": "method/OPERATING-MANUAL.md",
@@ -101,13 +101,13 @@
     },
     {
       "id": "method/08-big-idea.md",
-      "bytes": 3355,
-      "est_tokens": 931
+      "bytes": 3439,
+      "est_tokens": 955
     },
     {
       "id": "method/09-small-ideas.md",
-      "bytes": 4361,
-      "est_tokens": 1211
+      "bytes": 1556,
+      "est_tokens": 432
     },
     {
       "id": "method/validation-checklist.md",
@@ -128,6 +128,11 @@
       "id": "examples/cases/12-qlieer.md",
       "bytes": 10395,
       "est_tokens": 3048
+    },
+    {
+      "id": "frameworks/14-blueprint.md",
+      "bytes": 2896,
+      "est_tokens": 804
     },
     {
       "id": "method/soundcheck.md",

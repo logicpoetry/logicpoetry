@@ -4,7 +4,7 @@ title: 8. Big Idea
 kind: step
 part: method
 step: 8
-version: 1.1.0
+version: 1.1.1
 ---
 
 ### 8. Big Idea
@@ -37,7 +37,7 @@ It should be single-minded: one idea, one execution, one unmistakable message. I
 3. Apply a few mechanically different operations. Describe each result as one action, object or experience.
 4. Show what happens, what the audience understands or does, and how the brand delivers it.
 5. Map dependencies (R24). Rehearse the smallest meaningful experience (R25); distinguish simulation from audience evidence.
-6. Apply the Stand-Alone Test and select one hero execution. Develop its amplifiers at Step 9.
+6. Apply the Stand-Alone Test and select one hero execution. Develop its amplifiers at Step 9; Blueprint maps their creative and behavioural connections around the selected hero.
 
 **8.8 Quality Tests**:
 

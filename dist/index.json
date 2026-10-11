@@ -45,6 +45,7 @@
     "frameworks/11-lateral-thinking-po-technique.md",
     "frameworks/12-phillips-mcquarrie-visual-rhetoric.md",
     "frameworks/13-the-pratfall-effect.md",
+    "frameworks/14-blueprint.md",
     "method/debugging-suite.md",
     "method/creative-moves.md",
     "method/validation-checklist.md",
@@ -101,6 +102,7 @@
     "method/behavioral-guardrails.md",
     "examples/model-answer-spotify-listen-like-you-used-to.md",
     "examples/cases/12-qlieer.md",
+    "frameworks/14-blueprint.md",
     "method/soundcheck.md"
   ],
   "modules": {
@@ -665,6 +667,18 @@
       "version": "1.0.0",
       "license": "CC-BY-SA-4.0"
     },
+    "frameworks/14-blueprint.md": {
+      "id": "frameworks/14-blueprint",
+      "name": "Blueprint",
+      "kind": "framework",
+      "origin": "original",
+      "author": "Nicolas Chan",
+      "status": "reviewed",
+      "source_note": "Author's Blueprint Methodology Training 2.0; integration requested 2026-10-10.",
+      "version": "1.0.3",
+      "license": "LicenseRef-Proprietary",
+      "runtime": true
+    },
     "frameworks/README.md": {
       "id": "frameworks/README",
       "title": "Plug-in frameworks",
@@ -765,7 +779,7 @@
       "kind": "step",
       "part": "method",
       "step": "8",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     "method/09-small-ideas.md": {
       "id": "method/09-small-ideas",
@@ -773,7 +787,7 @@
       "kind": "step",
       "part": "method",
       "step": "9",
-      "version": "1.1.0"
+      "version": "1.1.4"
     },
     "method/OPERATING-MANUAL.md": {
       "id": "method/OPERATING-MANUAL",
@@ -794,7 +808,7 @@
       "title": "BRIEF_TYPES (Where Logic Poetry Sits)",
       "kind": "reference",
       "part": "method",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     "method/creative-moves.md": {
       "id": "method/creative-moves",
@@ -822,7 +836,7 @@
       "title": "OUTPUT_MODELS",
       "kind": "output",
       "part": "method",
-      "version": "1.0.1"
+      "version": "1.0.4"
     },
     "method/research-brief.md": {
       "id": "method/research-brief",

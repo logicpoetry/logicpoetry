@@ -46,6 +46,13 @@ Every module starts with a small YAML block. Required everywhere: `id`, `kind`, 
 
 Full contributor guide: `CONTRIBUTING.md`.
 
+## README and change-log upkeep
+
+- Add a dated entry under `CHANGELOG.md` → Unreleased for every notable method, framework, case-library or usage change. State what changed, why it matters and how it was checked.
+- Update `README.md` when entry points, capabilities, layout, version status or licensing change. Keep its change-log link visible.
+- Preserve existing history. Record meaningful corrections and distinguish working module versions, tagged releases, local edits and hosted deployment.
+- Documentation-only edits do not require a method version bump. Method edits still require generated outputs to be rebuilt and checked.
+
 ## Voice
 
 Short stacked sentences. Point form where it earns it. No corporate glaze: no "leverage", "unlock", "synergy", "robust", "thought leadership". If a line can be shorter without losing the idea, cut it.

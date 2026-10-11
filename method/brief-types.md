@@ -3,7 +3,7 @@ id: method/brief-types
 title: BRIEF_TYPES (Where Logic Poetry Sits)
 kind: reference
 part: method
-version: 1.0.0
+version: 1.0.1
 ---
 
 ## BRIEF_TYPES (Where Logic Poetry Sits)
@@ -33,6 +33,6 @@ The Logic Poetry at this level: May not require the full 9 steps. Steps 1-3 (Zei
 - **Comms Strategy** — the bridge between brand strategy and creative strategy. It defines *what is said, when it's said, and why it's said*. It includes the consumer journey, comms framework (phases and barriers), campaign blueprint (timeline and budget), and campaign ecosystem (how all executions connect). Comms strategy is the comprehensive insurance policy for the idea.
 - **Creative Strategy** — defines *how and where* the idea comes to life. This is the platform and execution layer — choosing the creative vehicle and optimizing it for each channel.
 
-Logic Poetry primarily powers creative strategy (Steps 1-7 generate the platform and idea). Steps 8-9 (Big Idea, Small Ideas) overlap with comms strategy territory — orchestration, ecosystem mapping, and tactical channel optimization. When using Logic Poetry for a full campaign, be aware that the downstream output (Small Ideas) may require comms strategy tools (consumer journey mapping, campaign blueprints) that sit beyond Logic Poetry's scope.
+Logic Poetry primarily powers creative strategy (Steps 1-7 generate the platform and idea). Steps 8-9 (Big Idea, Small Ideas) overlap with comms strategy territory — orchestration, ecosystem mapping, and tactical channel optimization. For a full campaign, Nicolas Chan's Blueprint (`frameworks/14-blueprint.md`) supplies the journey and handoff method inside Step 9. Detailed media buying, delivery scheduling and execution management remain outside the creative method.
 
 ---

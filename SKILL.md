@@ -27,7 +27,7 @@ A fixed nine-step chain that turns a brief into a creative platform. The labels 
 | 6 | Strategy | Get-Who-To-By. **Pit stop, run the rubric.** | `method/06-strategy.md` + `method/06b-gwtb-engine.md` |
 | 7 | The Creative | Platform, quality tests, effectiveness ladder | `method/07-the-creative.md` (+ `07a-manifesto.md`) |
 | 8 | Big Idea | The one thing everything hangs off | `method/08-big-idea.md` |
-| 9 | Small Ideas | Tactics that prove the big idea | `method/09-small-ideas.md` |
+| 9 | Small Ideas | Tactics that prove the big idea and connect into a journey | `method/09-small-ideas.md` + `frameworks/14-blueprint.md` for integrated campaigns |
 
 ## How to run it
 
@@ -51,6 +51,7 @@ Use `method/research-operators.md` for the 41-operation menu and detailed attrib
 
 - `catalog/` — Creative Techniques Catalog, clusters A to L. Start at `catalog/README.md` for the selection guide.
 - `frameworks/` — plug-in methods that run inside a step (Disruption, Zagging, Challenger, Predatory Thinking and more). One file each; load on demand.
+- `frameworks/14-blueprint.md` — Nicolas Chan's Blueprint, the Step 9 method for connecting the platform, hero and small ideas into executable audience routes. Load for integrated campaigns and ecosystem audits. Its proprietary attribution is retained.
 - `method/debugging-suite.md` — five checks for work that "feels flat".
 - `method/validation-checklist.md` — final gate before shipping.
 - `method/output-models.md` — Deck Mode, Session Recap, Performance Snapshot.

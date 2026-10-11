@@ -1,14 +1,37 @@
 # Changelog
 
-All notable changes to Logic Poetry. Versions are git tags.
+All notable changes to Logic Poetry. Released versions have Git tags. Dated entries under **Unreleased** record later work; each entry distinguishes local integration from publication or hosted deployment.
 
 ## [Unreleased]
+
+### 2026-10-10 — Blueprint arrows record CTA intent
+
+- Applied the author's further clarification: each arrow shows what the CTA urges people to do, its destination or outcome and the logical transition we intend. This refines the earlier description of arrows as “intended pull.”
+- Explained that hyperlinks, signs, QR codes and points of sale help facilitate the intent where appropriate; the message can express the intent without a direct mechanism.
+- Distinguished the designed pathways from actual behaviour. Added the author's word-of-mouth example: a post intended to prompt recommendations can lead to a direct website purchase instead, and the sale still succeeds.
+- Updated Step 9, Deck Mode and the README, rebuilt generated outputs and refreshed the complete OZ copies and change log. **Status: local, uncommitted clarification; no publication or hosted deployment.**
+
+### 2026-10-10 — Blueprint connects the Big Idea and Small Ideas
+
+- Added Nicolas Chan's Blueprint as a named Step 9 framework, linked from Step 8, the skill router, Deck Mode and the brief-type guide. Each tactic has a creative connection to the platform/hero and a role in audience progression.
+- Added ecosystem maps, highlighted example routes, incremental messages and audit views for stakeholder journeys, whole ecosystems, campaigns, isolated routes and cross-channel/cross-team handoffs. Audits identify missing support, weak nudges, orphan tactics, meaningful friction and dependencies.
+- Included Nespresso #TakeYourTime, Shopline and HireRight teaching examples from the author's training deck. Proposed journeys are distinguished from observed campaign outcomes.
+- Incorporated the author's clarification: a CTA should plausibly nudge someone towards a relevant touchpoint. People can approach through clicks, search, recall, conversation, physical movement and later prompts. Maps are indicative; the earlier literal direct-click requirement was superseded. Concrete link checks belong to delivery review rather than being a universal condition for conceptual connections.
+- Preserved the nine-step sequence, both human checkpoints and Blueprint's proprietary attribution. Kept full teaching material in the generated prompt and a compact working procedure/example in the runtime, within its existing byte budget.
+- Rebuilt and checked generated outputs; refreshed complete personal Markdown copies. **Status: local, uncommitted integration; no publication or hosted deployment.** The overall working method remains 1.1.0; individual module revisions are not a new tagged release.
+
+### 2026-10-10 — README and change-log maintenance
+
+- Updated the README with Blueprint's role, entry points, working-version status and licence distinction; kept the change log linked from the front page.
+- Required dated change-log entries for notable changes and README updates when usage, capabilities, layout or licensing change. Added the same maintenance step to contributor and agent instructions.
+- Corrected the earlier Cannes entry to distinguish case bodies excluded from the prompt from the navigation links that were added to it.
+- Documentation update only; no method version bump, tag, publication or deployment.
 
 ### 2026-10-10 — Cannes calibration and judge scorecard
 
 - Added `examples/cannes-grand-prix-calibration.md`: AXA Three Words, Orange WoMen's Football, Specsavers The Misheard Version, Xbox The Everyday Tactician, Penny Price Packs, Renault Plug-Inn, CeraVe Michael CeraVe and Dove Real Beauty Redefined for the AI Era, each read through the chain and pinned to the step it calibrates, with seven shared operations (Bait-and-Switch, Build a Utility, Cultural Trojan Horse, Immersive Prank, Package as Medium, Aesthetic Authority, Infrastructure Correction). Award facts checked against festival and trade coverage; the working draft's 2023 to 2025 span was corrected to 2023 to 2026.
 - Added `examples/judge-scorecard.md`: the ten-row 0 to 10 rubric for scoring a nine-step run, carried over from the training scorecard.
-- Both files are `calibration: false`, so the single-paste prompt and the hosted runtime are unchanged. Indexes regenerated.
+- Both files are `calibration: false`, so their case bodies are not embedded in the single-paste prompt or hosted runtime. The full prompt gained navigation links through the examples README; the runtime is unchanged. Indexes regenerated.
 
 ### 2026-10-03 — Legora case study
 
