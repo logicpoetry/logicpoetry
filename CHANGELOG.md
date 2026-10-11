@@ -4,12 +4,18 @@ All notable changes to Logic Poetry. Released versions have Git tags. Dated entr
 
 ## [Unreleased]
 
+### 2026-10-11 — Runtime byte budget documented
+
+- Recorded why `RUNTIME_BUDGET_BYTES` is 165,000: it was set on 2026-09-03 (888fd7f), when the first runtime build was 157,886 bytes (~44k tokens), leaving about 7 KB of growth room. It is a self-imposed guard against silent runtime growth, not a model or context limit. On 2026-10-11 the runtime was 164,949 bytes (~46k tokens), 51 bytes under budget.
+- Added the policy to agent instructions and the compiler: when `--check` fails on the budget, trim first by moving reader-only material behind `runtime:cut`; raise the budget only deliberately, with the reason recorded here.
+- Marked the two Blueprint entries and the README as committed and pushed (394d982). Documentation only; no method change, tag, publication or deployment. `--check` passes.
+
 ### 2026-10-10 — Blueprint arrows record CTA intent
 
 - Applied the author's further clarification: each arrow shows what the CTA urges people to do, its destination or outcome and the logical transition we intend. This refines the earlier description of arrows as “intended pull.”
 - Explained that hyperlinks, signs, QR codes and points of sale help facilitate the intent where appropriate; the message can express the intent without a direct mechanism.
 - Distinguished the designed pathways from actual behaviour. Added the author's word-of-mouth example: a post intended to prompt recommendations can lead to a direct website purchase instead, and the sale still succeeds.
-- Updated Step 9, Deck Mode and the README, rebuilt generated outputs and refreshed the complete OZ copies and change log. **Status: local, uncommitted clarification; no publication or hosted deployment.**
+- Updated Step 9, Deck Mode and the README, rebuilt generated outputs and refreshed the complete OZ copies and change log. **Status: committed and pushed 2026-10-11 (394d982); no publication or hosted deployment.**
 
 ### 2026-10-10 — Blueprint connects the Big Idea and Small Ideas
 
@@ -18,7 +24,7 @@ All notable changes to Logic Poetry. Released versions have Git tags. Dated entr
 - Included Nespresso #TakeYourTime, Shopline and HireRight teaching examples from the author's training deck. Proposed journeys are distinguished from observed campaign outcomes.
 - Incorporated the author's clarification: a CTA should plausibly nudge someone towards a relevant touchpoint. People can approach through clicks, search, recall, conversation, physical movement and later prompts. Maps are indicative; the earlier literal direct-click requirement was superseded. Concrete link checks belong to delivery review rather than being a universal condition for conceptual connections.
 - Preserved the nine-step sequence, both human checkpoints and Blueprint's proprietary attribution. Kept full teaching material in the generated prompt and a compact working procedure/example in the runtime, within its existing byte budget.
-- Rebuilt and checked generated outputs; refreshed complete personal Markdown copies. **Status: local, uncommitted integration; no publication or hosted deployment.** The overall working method remains 1.1.0; individual module revisions are not a new tagged release.
+- Rebuilt and checked generated outputs; refreshed complete personal Markdown copies. **Status: committed and pushed 2026-10-11 (394d982); no publication or hosted deployment.** The overall working method remains 1.1.0; individual module revisions are not a new tagged release.
 
 ### 2026-10-10 — README and change-log maintenance
 

@@ -25,6 +25,10 @@ FORBIDDEN = re.compile(r"hoffman|creative codex|budget ?/ ?timeline|\bcodex/", r
 FRAMEWORK_HEADINGS = ["## What it does", "## When to use it", "## How to apply it", "## Failure mode", "## Example", "## Source and confidence"]
 CASE_REQUIRED = ["brand", "category", "market", "steps", "calibration"]
 CUT_OPEN, CUT_CLOSE = "<!-- runtime:cut -->", "<!-- /runtime:cut -->"
+# Self-imposed guard against silent runtime growth, not a model or context limit.
+# Set 2026-09-03 (888fd7f) when the first runtime was 157,886 bytes; ~7 KB headroom.
+# Policy: if --check fails here, trim first (move reader-only text behind runtime:cut);
+# raise only deliberately and record the reason in CHANGELOG.md.
 RUNTIME_BUDGET_BYTES = 165_000
 CJK = re.compile(r"[㐀-鿿豈-﫿]")
 

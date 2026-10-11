@@ -50,6 +50,7 @@ Full contributor guide: `CONTRIBUTING.md`.
 
 - Add a dated entry under `CHANGELOG.md` → Unreleased for every notable method, framework, case-library or usage change. State what changed, why it matters and how it was checked.
 - Update `README.md` when entry points, capabilities, layout, version status or licensing change. Keep its change-log link visible.
+- Runtime byte budget (`RUNTIME_BUDGET_BYTES` in `scripts/build-boot.py`): if `--check` fails on it, trim first by moving reader-only material behind `runtime:cut`. Raise the budget only deliberately, with the reason in `CHANGELOG.md`.
 - Preserve existing history. Record meaningful corrections and distinguish working module versions, tagged releases, local edits and hosted deployment.
 - Documentation-only edits do not require a method version bump. Method edits still require generated outputs to be rebuilt and checked.
 

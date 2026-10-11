@@ -6,7 +6,7 @@
 
 **A nine-step framework for turning a brief into a creative platform and connected campaign.** Logic first, poetry second. Built for strategists and creatives, and for the AI agents they work with.
 
-**Read the changes:** [`CHANGELOG.md`](CHANGELOG.md) records dated additions and corrections. The working method is **1.1.0**; the latest Git tag is **v1.0.0**. Later changes remain under Unreleased. As of 10 October 2026, the Blueprint integration in this checkout is local and uncommitted; neither a runtime build nor a changelog entry establishes hosted deployment.
+**Read the changes:** [`CHANGELOG.md`](CHANGELOG.md) records dated additions and corrections. The working method is **1.1.0**; the latest Git tag is **v1.0.0**. Later changes remain under Unreleased. As of 11 October 2026, the Blueprint integration is committed and pushed to the private GitHub repository; neither a runtime build nor a changelog entry establishes hosted deployment.
 
 ## The chain
 
