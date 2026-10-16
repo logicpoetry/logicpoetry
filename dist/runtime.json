@@ -1,8 +1,8 @@
 {
   "version": "1.1.0",
-  "sha256": "ba52475b50ee96df65da3923e9f1da29cf04c6d8097a2de8de7d50ac984daa92",
-  "bytes": 164949,
-  "est_tokens": 46007,
+  "sha256": "42f2c5c7721d638a41ff49f05d08e4fa13430a18a4f0d8d9d3e9f53e6372745c",
+  "bytes": 165662,
+  "est_tokens": 46205,
   "modules": [
     {
       "id": "method/OPERATING-MANUAL.md",
@@ -106,8 +106,8 @@
     },
     {
       "id": "method/09-small-ideas.md",
-      "bytes": 1556,
-      "est_tokens": 432
+      "bytes": 2365,
+      "est_tokens": 656
     },
     {
       "id": "method/validation-checklist.md",
@@ -136,8 +136,8 @@
     },
     {
       "id": "method/soundcheck.md",
-      "bytes": 6837,
-      "est_tokens": 1899
+      "bytes": 6741,
+      "est_tokens": 1872
     }
   ]
 }

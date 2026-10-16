@@ -4,7 +4,7 @@ title: 9. Small Ideas (Tactics)
 kind: step
 part: method
 step: 9
-version: 1.1.4
+version: 1.1.5
 ---
 
 ### 9. Small Ideas (Tactics)
@@ -78,6 +78,31 @@ Example (Lacoste): Creative idea = in a divided world, Lacoste clothing threads 
 
 **9.6.4 Blueprint — Connect the Ideas**: For integrated campaigns, run Nicolas Chan's Blueprint (`frameworks/14-blueprint.md`, embedded below). Link each tactic to both the creative centre and an audience's next action. Return the ecosystem map, highlighted route and handoff table.
 
+**9.6.5 Tactic Brief**: Each Small Idea leaves Step 9 as six lines: barrier answered; the idea in one sentence; how it works (three audience experiences, in order); why it travels (would they spend time, show someone, see the brand differently; usefulness alone is what the brand would do anyway); what the brand must do and where (named action, named venue, evidence-checked); tactic type and the visual device an outsider needs to judge it (9.6.7). No brief, no slide.
+
+**9.6.6 Derivation Gate**: Small Ideas descend from Steps 7 and 8. If slides, mockups or imagery start before the briefs exist, stop and write them; never relabel earlier ideas as a new route. An idea needing the brand to hire, staff or hand-serve fails controllability.
+
+<!-- runtime:cut -->
+
+Why the brief exists: tactics assembled from a strategy chat, or rebuilt from a layout reference, read as "thrown together" however well they are produced. The six lines force derivation, a named client action and a judgeable visual before any production spend.
+
+**9.6.7 Visual Device by Tactic Type**: The default question is "what does this look like?" The useful question is "what lets the audience understand how it works?" Pick the device by tactic type, then brief the artwork.
+
+| Tactic type | The audience must grasp | Default visual device |
+|---|---|---|
+| Space or experience (booth, pop-up, store) | Where things are, what happens at each station, how a visitor moves | Isometric or cut-away plan with numbered stations and one-line callouts; one hero image of the signature station |
+| Spectacle or stunt | The mechanism and the scale | Concept image with a person for scale; before/after or a sequence strip |
+| Content format (series, episode, post) | What one unit looks like and how it repeats | The actual unit, branded as the brand would publish it; a three-frame strip for an episode |
+| Object or merchandise | Desirability | Product mockup with the real brand, in a hand or on a shelf |
+| Journey or mechanic | Steps and progression | Storyboard or ladder diagram, one key-moment image |
+| Programme or calendar | Sequence and rhythm | Timeline, colour-coded by pillar |
+| Evidence claim | The comparison | Chart or a trio of figures with units and the benchmark |
+| Reveal or insight | The surprise | One full-bleed image, one line |
+
+Mixed registers (photo and illustration on the same argument) are a decision, not drift. Before any image is generated, the whole deck's visual direction is chosen and previewed as a mood board; every later image is briefed against it.
+
+<!-- /runtime:cut -->
+
 **9.8 Quality Tests**:
 - Does each amplifier support the selected hero and platform?
 - Does it give the audience a distinct action or experience suited to that setting?
@@ -86,6 +111,7 @@ Example (Lacoste): Creative idea = in a divided world, Lacoste clothing threads 
 - Are capabilities, dependencies and proof credible?
 - Does the audience understand it without the internal explanation?
 - Can its contribution be evaluated separately from reach or attention alone?
+- Does each Small Idea carry its Tactic Brief and visual device?
 
 <!-- runtime:cut -->
 

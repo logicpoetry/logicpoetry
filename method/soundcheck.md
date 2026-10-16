@@ -3,7 +3,7 @@ id: method/soundcheck
 title: Soundcheck
 kind: output
 part: method
-version: 1.0.0
+version: 1.0.1
 runtime: true
 ---
 
@@ -43,10 +43,14 @@ confidentiality. Verify uncertain, changing or consequential facts. Distinguish
 knowledge, findings, inference and gaps when that affects the claim.
 Never invent evidence or present inference as a verified result.
 
+<!-- runtime:cut -->
+
 Identify any new support a title needs and where it should go; propose additions
 separately in title-only work. Follow the deck's citation format and keep the
 reasoning traceable. Stable general knowledge need not be cited on every slide.
 Worked titles are illustrations, conditional on the relevant facts or reasoning.
+
+<!-- /runtime:cut -->
 
 ### 1 · Make a claim, not a label
 
@@ -92,6 +96,11 @@ Use words the presenter could say to a colleague. **Ask:** would they actually
 say this aloud? Read it out. Rewrite budget-line language, folder names and
 stock noun phrases. A finite verb often helps; a fragment can earn its place
 through rhythm and meaning. Keep the spoken quality even in a reading deck.
+
+Conversational prose by default, bands and body included, as if the reader
+were reading it back to themselves. Bullets are the exception. When a page
+needs a point, say it once in big bold copy against the graphic, poster-like.
+A quip is not a point; "not X, not Y, but Z" contrasts read as machine-made.
 
 ### 5 · Make the case fully
 
@@ -139,6 +148,10 @@ polishing transitions. This Title Test diagnoses the thinking.
 - Recheck audience, support and the full story at the end. Do not claim factual
   verification or layout fit that has not been performed.
 
+<!-- runtime:cut -->
+
 ### Author
 
 **Nicolas Chan** · [neekchan@gmail.com](mailto:neekchan@gmail.com)
+
+<!-- /runtime:cut -->
