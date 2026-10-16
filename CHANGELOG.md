@@ -4,6 +4,13 @@ All notable changes to Logic Poetry. Released versions have Git tags. Dated entr
 
 ## [Unreleased]
 
+### 2026-10-16 — Tactic Brief, Derivation Gate and visual device by tactic type
+
+- Step 9 gains 9.6.5 Tactic Brief (six lines per Small Idea: barrier, idea, how it works, why it travels, what the brand must do and where, tactic type and visual device) and 9.6.6 Derivation Gate (no slides, mockups or imagery before the briefs exist; no relabelling earlier ideas as a new route; ideas that need the brand to hire or hand-serve fail controllability). Two quality tests added. Reader-only: 9.6.7, the visual-device table by tactic type and the mood-board rule.
+- Soundcheck principle 4 adds the register rule: conversational prose by default, bullets as the exception, big bold copy against the graphic for the point; rhetorical contrasts read as machine-made.
+- Why: in a 1–15 October 2026 pitch run across seven agent seats, every tactic built before its brief was discarded, and the copy that survived was the operator's own plain rewrite. The compiled after-action review is private; the rules are general.
+- Moved the Soundcheck author block and the second Evidence paragraph behind `runtime:cut`. The runtime still landed 662 bytes over, so `RUNTIME_BUDGET_BYTES` is raised from 165,000 to 166,500: the Tactic Brief and Derivation Gate are runtime rules, not reader material, and the remaining runtime text in Step 9 and Soundcheck is all operative. Runtime after this change: 165,662 bytes. `--check` passes. Method versions: 09-small-ideas 1.1.5, soundcheck 1.0.1. Local edit; no tag, publication or hosted deployment.
+
 ### 2026-10-11 — Runtime byte budget documented
 
 - Recorded why `RUNTIME_BUDGET_BYTES` is 165,000: it was set on 2026-09-03 (888fd7f), when the first runtime build was 157,886 bytes (~44k tokens), leaving about 7 KB of growth room. It is a self-imposed guard against silent runtime growth, not a model or context limit. On 2026-10-11 the runtime was 164,949 bytes (~46k tokens), 51 bytes under budget.

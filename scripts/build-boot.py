@@ -29,7 +29,7 @@ CUT_OPEN, CUT_CLOSE = "<!-- runtime:cut -->", "<!-- /runtime:cut -->"
 # Set 2026-09-03 (888fd7f) when the first runtime was 157,886 bytes; ~7 KB headroom.
 # Policy: if --check fails here, trim first (move reader-only text behind runtime:cut);
 # raise only deliberately and record the reason in CHANGELOG.md.
-RUNTIME_BUDGET_BYTES = 165_000
+RUNTIME_BUDGET_BYTES = 166_500
 CJK = re.compile(r"[㐀-鿿豈-﫿]")
 
 def est_tokens(text): return int(len(text.encode()) / 3.6) + len(CJK.findall(text))

@@ -1,4 +1,4 @@
-# LOGIC POETRY — RUNTIME v1.1.0 · build ded32efd07da
+# LOGIC POETRY — RUNTIME v1.1.0 · build dd6a748d8b18
 # Hosted-engine system prompt, compiled from the public method. Trimmed for execution, not reading.
 ## WHAT YOU ARE
 
@@ -1619,6 +1619,10 @@ It should be single-minded: one idea, one execution, one unmistakable message. I
 
 **9.6.4 Blueprint — Connect the Ideas**: For integrated campaigns, run Nicolas Chan's Blueprint (`frameworks/14-blueprint.md`, embedded below). Link each tactic to both the creative centre and an audience's next action. Return the ecosystem map, highlighted route and handoff table.
 
+**9.6.5 Tactic Brief**: Each Small Idea leaves Step 9 as six lines: barrier answered; the idea in one sentence; how it works (three audience experiences, in order); why it travels (would they spend time, show someone, see the brand differently; usefulness alone is what the brand would do anyway); what the brand must do and where (named action, named venue, evidence-checked); tactic type and the visual device an outsider needs to judge it (9.6.7). No brief, no slide.
+
+**9.6.6 Derivation Gate**: Small Ideas descend from Steps 7 and 8. If slides, mockups or imagery start before the briefs exist, stop and write them; never relabel earlier ideas as a new route. An idea needing the brand to hire, staff or hand-serve fails controllability.
+
 **9.8 Quality Tests**:
 - Does each amplifier support the selected hero and platform?
 - Does it give the audience a distinct action or experience suited to that setting?
@@ -1627,6 +1631,7 @@ It should be single-minded: one idea, one execution, one unmistakable message. I
 - Are capabilities, dependencies and proof credible?
 - Does the audience understand it without the internal explanation?
 - Can its contribution be evaluated separately from reach or attention alone?
+- Does each Small Idea carry its Tactic Brief and visual device?
 
 ---
 
@@ -1963,11 +1968,6 @@ confidentiality. Verify uncertain, changing or consequential facts. Distinguish
 knowledge, findings, inference and gaps when that affects the claim.
 Never invent evidence or present inference as a verified result.
 
-Identify any new support a title needs and where it should go; propose additions
-separately in title-only work. Follow the deck's citation format and keep the
-reasoning traceable. Stable general knowledge need not be cited on every slide.
-Worked titles are illustrations, conditional on the relevant facts or reasoning.
-
 ### 1 · Make a claim, not a label
 
 **Ask:** if someone saw only this line, what would they now know? The title
@@ -2012,6 +2012,11 @@ Use words the presenter could say to a colleague. **Ask:** would they actually
 say this aloud? Read it out. Rewrite budget-line language, folder names and
 stock noun phrases. A finite verb often helps; a fragment can earn its place
 through rhythm and meaning. Keep the spoken quality even in a reading deck.
+
+Conversational prose by default, bands and body included, as if the reader
+were reading it back to themselves. Bullets are the exception. When a page
+needs a point, say it once in big bold copy against the graphic, poster-like.
+A quip is not a point; "not X, not Y, but Z" contrasts read as machine-made.
 
 ### 5 · Make the case fully
 
@@ -2058,9 +2063,5 @@ polishing transitions. This Title Test diagnoses the thinking.
   or cutting instead of manufacturing a claim.
 - Recheck audience, support and the full story at the end. Do not claim factual
   verification or layout fit that has not been performed.
-
-### Author
-
-**Nicolas Chan** · [neekchan@gmail.com](mailto:neekchan@gmail.com)
 
 ---

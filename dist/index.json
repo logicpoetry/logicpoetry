@@ -787,7 +787,7 @@
       "kind": "step",
       "part": "method",
       "step": "9",
-      "version": "1.1.4"
+      "version": "1.1.5"
     },
     "method/OPERATING-MANUAL.md": {
       "id": "method/OPERATING-MANUAL",
@@ -857,7 +857,7 @@
       "title": "Soundcheck",
       "kind": "output",
       "part": "method",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "runtime": true
     },
     "method/validation-checklist.md": {
