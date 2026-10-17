@@ -78,7 +78,7 @@ def prompt_order(index):
     calib = [rel(p) for p in cases if index[rel(p)].get("calibration") is True]
     return [
         "method/OPERATING-MANUAL.md", "method/00-core-philosophy.md",
-        "method/research-brief.md", "method/research-operators.md", "method/creative-operator-routing.md",
+        "method/research-brief.md", "method/research-operators.md", "method/creative-operator-routing.md", "method/shared-wordcraft.md",
         "method/01-zeitgeist.md", "method/02-tension.md", "method/03-insight.md", "method/03b-logic-stack.md",
         "method/04-role.md", "method/05-call-to-action.md", "method/06-strategy.md", "method/06b-gwtb-engine.md",
         "method/07-the-creative.md", "method/07a-manifesto.md", "method/08-big-idea.md", "method/09-small-ideas.md",
@@ -93,7 +93,7 @@ def prompt_order(index):
 def runtime_order(index):
     fixed = [
         "method/OPERATING-MANUAL.md", "method/00-core-philosophy.md",
-        "method/research-brief.md", "method/research-operators.md", "method/creative-operator-routing.md",
+        "method/research-brief.md", "method/research-operators.md", "method/creative-operator-routing.md", "method/shared-wordcraft.md",
         "method/01-zeitgeist.md", "method/02-tension.md", "method/03-insight.md", "method/03b-logic-stack.md",
         "examples/insight-calibration-cases.md",
         "method/04-role.md", "method/05-call-to-action.md", "method/06-strategy.md", "method/06b-gwtb-engine.md",
