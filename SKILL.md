@@ -47,6 +47,10 @@ Use `method/research-operators.md` for the 41-operation menu and detailed attrib
 
 `RESEARCH.md` is the generated, self-contained research entry point for an AI without file access. Paste it with a brand, campaign or scenario. The subsequent nine-step run uses this skill or the full `PROMPT.md`.
 
+## Shared wordcraft at Steps 7–9
+
+At each creative-expression, hero-execution or touchpoint pass, evaluate `method/shared-wordcraft.md`. Load it when copy, word/image contribution or sequencing needs development or review; no Apple keyword is required. It combines the existing TextFX and Nonsense Laboratory operators with Apple-inspired communication mechanics while retaining the chosen brand voice, approved content, stage budget and both checkpoints. Skip exact transcription, formatting-only changes and protected copy. Direct writing can use this module without starting a campaign.
+
 ## Supporting modules
 
 - `catalog/` — Creative Techniques Catalog, clusters A to L. Start at `catalog/README.md` for the selection guide.

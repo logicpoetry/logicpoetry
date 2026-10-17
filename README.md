@@ -102,3 +102,7 @@ Cases marked `calibration: true` go into the single-paste `PROMPT.md`; the rest 
 Authored by **Nicolas Chan**. Insight methodology informed by Julian Cole / Strategy Finishing School.
 
 The base method is released under [CC BY-SA 4.0](LICENSE): credit the source and share adaptations under the same terms. The locally integrated [Blueprint module](frameworks/14-blueprint.md) retains Nicolas Chan's proprietary attribution (`LicenseRef-Proprietary`); its inclusion grants no redistribution rights.
+
+## Shared wordcraft
+
+[Shared wordcraft](method/shared-wordcraft.md) joins the existing TextFX and Nonsense Laboratory operators to Apple-inspired language, image and sequence craft. The skill evaluates this route at Steps 7–9; it also works for direct writing. Keep the selected brand voice, a plain baseline and factual/comprehension gates. This is a sourced synthesis, not Apple's internal manual or a measured effectiveness claim. Spreads can consume a pinned distribution of the same module.

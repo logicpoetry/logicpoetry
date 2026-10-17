@@ -6,6 +6,7 @@
     "method/research-brief.md",
     "method/research-operators.md",
     "method/creative-operator-routing.md",
+    "method/shared-wordcraft.md",
     "method/01-zeitgeist.md",
     "method/02-tension.md",
     "method/03-insight.md",
@@ -82,6 +83,7 @@
     "method/research-brief.md",
     "method/research-operators.md",
     "method/creative-operator-routing.md",
+    "method/shared-wordcraft.md",
     "method/01-zeitgeist.md",
     "method/02-tension.md",
     "method/03-insight.md",
@@ -822,7 +824,7 @@
       "title": "From sourced material to distinct campaign routes",
       "kind": "guide",
       "part": "method",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     "method/debugging-suite.md": {
       "id": "method/debugging-suite",
@@ -851,6 +853,13 @@
       "kind": "operator-library",
       "part": "method",
       "version": "1.1.0"
+    },
+    "method/shared-wordcraft.md": {
+      "id": "method/shared-wordcraft",
+      "title": "Wordcraft across language, image and time",
+      "kind": "guide",
+      "part": "method",
+      "version": "1.0.0"
     },
     "method/soundcheck.md": {
       "id": "method/soundcheck",

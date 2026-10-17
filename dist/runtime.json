@@ -1,8 +1,8 @@
 {
   "version": "1.1.0",
-  "sha256": "42f2c5c7721d638a41ff49f05d08e4fa13430a18a4f0d8d9d3e9f53e6372745c",
-  "bytes": 165662,
-  "est_tokens": 46205,
+  "sha256": "1443997e069f45830b5828f0fbf9e5bbbfb4caef5d65fd89dc423276bc37fd3b",
+  "bytes": 166195,
+  "est_tokens": 46353,
   "modules": [
     {
       "id": "method/OPERATING-MANUAL.md",
@@ -28,6 +28,11 @@
       "id": "method/creative-operator-routing.md",
       "bytes": 5552,
       "est_tokens": 1542
+    },
+    {
+      "id": "method/shared-wordcraft.md",
+      "bytes": 527,
+      "est_tokens": 146
     },
     {
       "id": "method/01-zeitgeist.md",
