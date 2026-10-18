@@ -4,6 +4,14 @@ All notable changes to Logic Poetry. Released versions have Git tags. Dated entr
 
 ## [Unreleased]
 
+### 2026-10-17 — Shared wordcraft across copy, imagery and sequence
+
+- Added a portable, self-contained synthesis of the existing fifteen TextFX/Nonsense Laboratory operators and Apple-inspired craft mechanisms. Includes surface-specific gates, adjustable preferences, a plain baseline, lineage and a worked failure case. Stable cross-library IDs: LP-APPLE-R11, LP-APPLE-WG01 and LP-CORE-W01–W15.
+- The skill evaluates the route at Steps 7–9, with exclusions for formatting and protected content. Direct writing can use it independently; Spreads consumes the same module as a pinned distribution. The selected voice, conversational deck register, nine steps and both checkpoints remain intact.
+- Added the complete module to PROMPT and a compact operational loop to RUNTIME, retaining the existing byte budget. Rebuilt outputs and checked the compiler. Public prose contains no private research archive, workspace paths or campaign material.
+- This records review-branch work, not a tagged release, hosted deployment or private pilot-pack adaptation.
+
+
 ### 2026-10-16 — Tactic Brief, Derivation Gate and visual device by tactic type
 
 - Step 9 gains 9.6.5 Tactic Brief (six lines per Small Idea: barrier, idea, how it works, why it travels, what the brand must do and where, tactic type and visual device) and 9.6.6 Derivation Gate (no slides, mockups or imagery before the briefs exist; no relabelling earlier ideas as a new route; ideas that need the brand to hire or hand-serve fail controllability). Two quality tests added. Reader-only: 9.6.7, the visual-device table by tactic type and the mood-board rule.

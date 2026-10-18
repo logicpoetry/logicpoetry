@@ -271,6 +271,8 @@ Show one small worked transformation when the operation is unfamiliar. It teache
 
 Return: original material; transformation; resulting material; proposed destination; evidence links; assumptions; failure check. Keep invented text and inferred motives visibly separate from source claims. A weak input should produce a research question.
 
+For word, image or sequence development at Steps 7–9, load `method/shared-wordcraft.md` (LP-APPLE-R11 / LP-APPLE-WG01). It joins existing operators to surface-specific craft without adding a new stage or renumbering W01–W15.
+
 ### Route by the missing material
 
 | Need | Start with | Expected handoff |
